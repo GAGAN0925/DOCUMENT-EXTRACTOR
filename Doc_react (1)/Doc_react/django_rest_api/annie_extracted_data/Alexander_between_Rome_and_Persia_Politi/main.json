@@ -1,0 +1,1177 @@
+[
+    {
+        "page_number": 1,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    85,
+                    333,
+                    434,
+                    693
+                ],
+                "ocr_text": "By the end of the fis century ace, the lands that Alexander the Great had\nconquered had fallen under the sway of two vast empires In the West, Rome\ndominated the Mediterranean basin and large swathes of northern Europe;\nIn the East, the Arsacd dynasty of Parthia reigned over the Iranian plateau,\n\u201cMesopotamia, and pars of central Asia Though the Arsteds would ater fll\nto the Sasanian dynasty and the Romans would lve their empire in the west,\nthe baste division ofthe anclent world between a Roman Mediterranean andan\nInanian Near East proved remarkably long-lived. Not until the Arab conquests\nofthe seventh century cx would this geopolitical status quo shatter and give\nway toa new worl.\n\n\u2018Asthe Parthlans and Romans and later the Sesanlans and Byzantines sought\nto make sense of thelr imperlal peers and vas on the ater sde of the\nEuphrates the memory of Alexander provided historical foundationson which\nsav understanding ofthe current age could be but Neltherin ran nor in Rome\nwere thse foundations fixed or immutable, and the evaluation af Alexanders\nenki Reardon jt Wier lab ede Alandaton te yom\n1 Fels Sa = Dl Kho Mah and ML Ome eb. Qasem Fr\n\ndwt Th hana De ok of ing} wo (Ct Me New Yr Mandal\n\n7205) hie pc Dik Di a, Age Fer Shab: The ea\n\nkof ings (Sew Yor: Pega 207 8\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    427,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    88,
+                    117,
+                    397,
+                    205
+                ],
+                "ocr_text": "Alexander between Rome and Persia: Politics,\nIdeology, and History\"\nJake Nabet\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    83,
+                    107,
+                    424,
+                    272
+                ],
+                "ocr_text": "Alexander between Rome and Persia: Politics,\nIdeology, and History\"\nJake Nabe\nIo pala at yah\nAlexander passed on, and words at all that\u2019 leftof him now.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    95,
+                    65,
+                    455,
+                    656
+                ],
+                "ocr_text": "legacy was always a contested business. But the anabasis ofthe Macedonian\nconqueror remained a erull reference point fr explaining the present by\ncans ofthe ast, formative event of great antiquity that helped draw the\nfaultines between Perslanand Roman inperial space Toremember Alexander\n\u2018was not just to ruminateon ancent conquests that were vatlusly Interpreted\nas dorious or tansgresive:itwasa meansof thinking through thereltionship\nbetween the two imperial glans ofthe ancient Mediterranean and NearEast\u2014\nlong withthe range of posites between antagonism and coexistence that\n\u2018could shape engagement between them,\n\n\u2018The Perslan and Roman receptions of Alexander are usually discussed sep\nrately, and for good reason. As discussed below, the Alexander waditions In\nthere empltes difeed in thelr languages, genres, and means of transmission,\n\u2018making deet comparison a dificult enterprise Nevertheless, this conteibu\nton tres to jointly consider the Iranian and Roman Alexander as products\nof a shifting and contested status quo between the two worlds. Alexander\u2019\nreception was shaped by myth and history, but it was also influenced by the\ndemands of politcal ideology nan Interstate envionment dominated by two\n\u2018teatpowers, When the anansand Romanstoldstoriesabout Alexander they\n\u2018were alo, in an important see, telling stories about thet relationship to one\nnother, To consider these two receptions together ita trace an aspect of one\n\u2018ofthe most significant and enduring geopolitical divisions ofthe anclent world\nand the origins ofa gulf between East and West that persist his day.\n\n\u2018The Terms of Comparison\n\u2018The Iranian and Roman Alexanders ae the constructions of very diferent ter:\nary taditions In the Mediterranean, a range of contemporary Ierary sources\n2 CL Daniel Sie comments on fete Brant temp recta the Pean pout of\nlg nhc ena ct une ode exe olan the Maken\n\n{nv Tope rath dare he come cela keratiehewold\n\n\u2018om the wars of ods Sts Aran, Qua Caus Ras and acho rendet\n\nthem Lay incompreenle ote fr who he linc herp aon\n\newe Grae nthe Eas Tin Wha (Cambri: CambigeUnerty Ps\nssa ygemphas ine ria PA Bri, eran Accutane Ca\n\na le rer\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    126,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    82,
+                    76,
+                    441,
+                    652
+                ],
+                "ocr_text": "provides a teured view ofthe Roman Alexander, with level of ehronolog\n\u2018eal resolution tht allows individual authors to be situated In distinct his\ntorical contexts On the anian plateau, however, the Parthian and Sasanlan\nAlexander tradions were not commited to writing unt long after the Arab\nconquest and the texts fom this ate period bear the indelible marks ofthe\npolitical and religous changes that transformed the region after the advent\nof slam. The pre-Islamic Alexander cannot, dherefore, be studied insolation\nfom the urbulenthistoryof post conquest an, Sasanlan and, toa muchlesser\nextent, Parthlan memories of Alexander are accesible only through the works\nof poets, priests, and scholars who were themselves rlnterpeetng and reco\nstnictng the pre-slamie pas in a land transformed by the arrival of \u00ab new\nreligion?\n\n\u2018The literary evidence for Alexander's ecepton in pre-Islamic Iran can use\nfully be divided into two traditions evenifthelines between the two categories\nte often blurred: The ist what Ehsan Varshater called ranlan national his\ntory\u2019 which comprises authoritative collections of stories ofthe kings, heroes,\nann pests who featured so prominently inthe legendary cycesof the ancient\nIranian plateau *Thesecond sZroastin eligousliterature, namely didactic\nand apocalyple texts writen in Middle Persian, These two traditions preserve\ndiferent interpretations of Alexander\u2019 legacy, but as sources for pre-Islamic\nIranian views they share Important features, Very Me Iranian literature was\n\u2018watten downbeforethe lateSasanian period, and none ofthe textsavalablefor\nstudy today achleved their curent form until wel after the Islamle conquest\nTete generally agreed that some surviving material flects oral traditions that\nhad ther roots In the dstan past, perhaps even as far ack asthe Hellen\n{5 CLSeah Howen Seat, The New Mains of Ps Cangust a: Tan Menara\n\nen New Yk Cambie Unter Ps)\n\nsatin ea Maco LeaanThe Lita Pea rao Ral\n\nnea Ma Macias New YL Tart 3209).9077\n5 E Yana Uta Natal soy The Camb toy ofr. asa\n\nsot Cambri Camber Pro 8).\n\n296), 9-35 Jel Wee The Acad! al th Abt: Aland he Get\n\nann Tein! Conon to Ander Litt he Mid gee. ai\n\n\u201cZasshi of Me Pein ete a\n\n$6 aaa Sin Mlb, abs Sores Kg and Wests Te Clare of te aa\n\n\u2018Ane ran (Oakland Une of Cali Prem 205). 3-98.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    427,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    102,
+                    81,
+                    447,
+                    646
+                ],
+                "ocr_text": "te period or the feof Alexander himselt? Bu thete i no clear stratigraphy\n\u2018between the olde layers and the accumulations of succesive centuries: the\nhistorical provenance of particular sections ean be guessed at, but not estab\nlished with eran.\n\n\u2018The most important source for Alexanders reception in the \u201cIranian nation\nal history\u201d isthe Sah nama of Feedows, composed under Samanid and then\n{Ghaznavid rule fom 976/7-1019Ce. While the extent of Ferdows!'s indebted\n\u2018ess to oral ater than textual souees has oceasloned mach debate, his poem\nMaly made use ofa prose work which in tum was based on Sesanian texts\n{inching the Xwady-ndnag (\"The Book af Lords\") \u00abcomprehensive account\nof ancient Iranian history assembled during the ate Sasanan period *Ferdowsl\n\u2018was also Influenced by the Syriac Alexander Romance, which he presumably\n7 On ayn pre Mami ian ee Kans Yaar, he ral acon een Ee\n\n\u2018Sulina ty (Laden: el 09) Pip Hay, \"at ania ect between\n\nnly and Leryn he Saas Shans Cuts and Sa Scar\n\n(Ueda New Yrs Lae 208) Main haya, Apc of Haryana fe\n\nln a rn Gat Walston, 9; Carb, sana Une\n\n\u2018sy ro) 7-18 Pl CKeyeBrk,toneling Har and Communal Mem\n\n\u2018yn Pre namie at Homebase, Chine Alon\n\n\u2018Philp Kreenoc (Wasa Haasan Vr 2) Ka ec \u201cMeriey\n\nSn Testy the Ory itera Cnn i Oa nd etal i th aia\n\nWork ore cet ci te Cone Jaa abn ade: Baton Bel,\nFords that emphasize the portance af ora sure Fenda poem, me Op\n\nMC Dav Pet an er the Peso Ba of Kage (hac: Corel Una Ps\n\napie 54-75 Olt M Dao, Compute ttre and Cla Pera ot\n\n\u2018Seen uy (Cone Mes cx Maa Pablo, ab Ol M, Diner\n\n\u2018un Epc in A Compan Ant Bee Jos Mes Fly (Mae, ach.\n\nae) rath Dick Ds The Pole Fer Ster, oma of th Amen\n\n\u201cneta Scie (of Vaan, Oa Bakr Bu othe empha ot\n\n\u2018writen sone in Tear Noli, eon Nationa ps The Shama ane\n\n{onion (Pl Pape Psy no eM, Oar\n\nMonae and Etro i Shbnams See, Jena Stader Arica lan\n\n2 (ama amet onsen, Witmer Cat iar andar fhe\n\nMast theSeenth Cents Onfrd UsetyPes 3) Se be he\n\nAlscasonsin ihd Stoeman, lander th Get Lifton (Se aes Lindon\n\n\u2018ie Unters Pet 208 a-glucan and Medieval rity\n\nConca temas onthe Ol ort Approach and New Perper Mid aster tr\n\ntures (Yh Sha Dew Vera \u201c\"The Ground Wel Tae Bu the Shah\n\nNot Fund. Oa nd Tey othe Bao of King nthe Zann Mhorpe\n\n\u2018Tron Onaltyand Teta i the Ionian War: Paternsa Interaction acest the Cn.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    100,
+                    76,
+                    129,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    95,
+                    82,
+                    440,
+                    649
+                ],
+                "ocr_text": "knew through translations? Another key source, both for Ferdowsl and for\nmode scholars, ste Annals Taba (839-9236), ascholr fom the Pe\nsan province of Tabaritan who woe n Arabic! Taba alo drew indirectly\non the Book of Lords, and hs preservation of multiple Alexander narratives\ngives some indication ofthe diverse traditions that circulated on the Ianian\nplateau A handful of other texts in Middle Persia, New Persian, and Arable\npreserve facets ofthe \u201cnational history though none so extensively as Fe\ndows! ot Taba OF parila interest are the Letter of Tansar and the Book\nofthe Deeds of Ardash, both Sasanlan texts in ovgin.\u00ae Also importants the\n\u2018a ata akan ede atone 5} One Sealy nay ae Bye,\nIrae Vr ape nHanor ofr Bhaan Yr (ete: Bl 9) Ja\n\u201cvita\n9) Stoneman ifn apn oa athe dc of sure Ha Matos\nandthe no Richard Speman etal (Grigsby)\nso Bo ote nb acted Aeandr ne Ta wok on he Quran se\nender tera he Mie go 2 Dai ay (ee: Bos el 2),\n1s RrTaare usaf the Bokat Lond se Howard hast, Wenenestoa Mia\ntne a ag fret aan\nta St tue ey Jee ie\n15 On the Lat of nar, sc Mary Bas he Leer of aor (Roe: a an\nperil Mato ed Etrema Osente 6) antes ann Nain Mir\u2019 ee\nBeant ari te Shadow of Aad Cab London Hard Une\nPhen) 34-9 The document sures New Pesan anti by oe\nMie Pern Farhe Kr nag Ardara ee inf Prats rent Le\note Anda de Pag Karnage bag De Eos AD 399)\n\u2018Sefer a G Cee a letra pln taco a con ferment ala\nna gl sade al radine manne (an Mies 3 3390 Rehan\nSonera \u201cerlan Ape of the Ramune Tn he Ander Roan it\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    101,
+                    67,
+                    452,
+                    660
+                ],
+                "ocr_text": "Book of Darab, ath century cx Persian romance that suppllessome additonal\netal about Alexanders putative Persian father\n\u2018Zoroastrian religious Uterature to reflects along press of orl transmis\nslon, commission to waiting during the (lat) Sasanian period, and later edac\n\u2018lon after the Muslim conquest For students of Alexanders legacy there i\nIdle of unterest in the Avesta and the Zan, the conta tex ofthe Zonoastaian\nfaith and ts oxegests. But several Middle Persian Zoroastrian texts comment on\nthe conquerorsrelgn period of history that they couch indistinctly negative\nterms The text as we have them ae productions ofthe early Islamic period,\nthough they contain matelal that originated in Sesanian or even Parthian\n\u2018lnes! The oral traditions that they drew on may even prservea dim memory\nof Alexander\u2019 invasion, though this sa contentious point\n\u2018As far a8 the Roman material is concerned, it mst frst be emphaslzed\nthatthe study ofthe historical Alexander is Inextlcable from the study of\n\u2018is Roman reception, Aran was a Roman office holder writing under Trajan,\n\u2018whose easter campaigns inthe early second century ce aceasloned a tenewed\n{ntetes in the Macedonian conqueror The other Alexander historians too\nlooked back onthe past from a Roman present. These authors had access to\ncaller accounts, ofcourse, some of which were composed by Alexanders com.\nanions and contemporaties2\u00ae But thet teadings ofthe Hellenistic sources\n4 Main Galan Amn Grade Le Db Nach TT (atc\n15 On Zarmsran tert io Mie Fen ee JP de Mena, Zot Pal We\nIne nT Combye Hat of ram Ye wl (Cambs: Camb\nerty Pree hy Macc abo Leta\n6 Thepamaps pening lander ae celled or Danae, cand\nSaoore49 95M Rahim hay, Anais and Sannin lado Po\natt and Late niu Pe (Cambie New Yk Cambie Une Ps,\n7 Thane, Poona der eta The Wily atl Campanian\nZoran Micha! tase alan Sab isha eran (Center\nWry cel 29). 29-20\nse ttral terrain (Ont Cates rs i om tre Alea\n(ra and (Landon; New Ye Rated, 2345-5 Ange Kubne,De aie\nAsai a Ch hm Ch) (Master Rrra e308),\npat\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    88,
+                    77,
+                    439,
+                    656
+                ],
+                "ocr_text": "\u2018were shaped by the conditions ofthe lte Republic and ealyPrinlpate, and\nthelr notions of conquestand empire were influenced by theirstatus as Roman\nsubjects2*\nAlexander historlography aside, a wealth of mate fom oratory, philoso\nply, blography and poetry caprures Roman attitudes towards Alexander with\n\u2018uch greater chronological precision than the Iranian sources Materll ev\ndence plays a rle aswel since some scholars have detected conscious evace\n{don of Alexander inthe busts fate Republican strongmnen and the coinage of\nparticular emperors? The Romans wete interested not only n the magnitude\nff Alexanders conquests, but also inthe moral qualities ofa vuler who had\nachieved such great yet perilous helghts}* Like the Persians, they took a range\nofpostonsonthe Kings virtues and vices, Moreover the eative certainty with\n\u2018which the pertinenttexts can be dated means that the views of Roman authors\ncan be situated in thelr historical and polit contexts t an extent that I\nlan views cannot.\nAnother important feature of the Roman literature is that it occasionally\nspeaks forthe Innlans,attibuting statements to Parthian or Sasanlan rulers\n\u2018ein of Mean te rat The So ale Vt Atha, Didar tn an Cte\n(Cmte Cambie Unrety Pep) NGL Hanus fr Mesader\nthe Gra Ae Ana of Parcs Le and Arias Aaa Aen (Cambie:\nCattery Pres, og Horwerth Fr Aria to lander om er a\niebeth Bayar, Aznar he Gt, The Unie Hit of Que Crt (Ann\nAbr Unesy of Mihigan Pres) on Cus\n\n21 Onite patna Anand bone ine Roman contest ce bn Akin \u201cOn\nly andl Li he ls Soe Ely Epa Avante Goat\n\u2018ata Peto AB Bowe abd} Banham (Onfr Onord Users Ps,\n{nl ane Spence Te Roman sandr Reding \u00abCul Mth (Eee: Ue.\n\u2018ty of Ete Prem so) 9-9 Dana Spencer, man Alzander: Epo ad\n(aden, sey Bake 229 Ba, Dara the Shadow of amd 25-24\n\u2018hme Hab, Ea and Wise, Compo nd npr i he Ratan leaner,\nAwan he Gra the Ma Age Tra rpc Mar Sack\n(foot Unter arash 6),\n\n23, Seep Dots Michel Aland arbi Ppt Casandra aan\nArchdlgoche Untersachungen (axle Lato 7) Kaien Di nai Alea\n\n24 Recaro, \"TheLegey of leaner Ane Pilea ls Companion\n\u2018wander th Groat ese Rosman Leen; aston: ll, 209 35-28Saoe\nMute ean Maldon nd ern Br Tra 04h\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    96,
+                    79,
+                    453,
+                    652
+                ],
+                "ocr_text": "\u2018that specify thelr relationship to Alexander andor the Achaemenid Empite\n\nthat conquered Such passages present thelr own methadologlal dieu\n\ntes andthe authenticity of the Persian views that they purport torepresenthas\n\n\u2018oceasioned much debate? The nature of the Irnian evidence rately allows\n\nfor direct confirmation o rejection. Ils possible, of course, to consider the\n\n\u2018mplleations of the supposedly ranan sentiments found in the Greco-Roman\n\nIMorary eats, But i\u00a2 was common practice in ancent historiography to put\n\n\u2018Roman ideas nto the mouths of barbarians, and the value of such passages as\n\nevidencefor Iranian attitudes may be minimal\" What appear tobe Parthian or\n\nStaunian interpretations of Alexander and the Achaemenid may be no mote\n\n\u2018than Romans indulging ina Persianizing fantasy.\n\nFinally he sprawling traditions of the Alexander Romance wound the way\nthrough both Rome and Persia, promulgating adverse collection of stores that\nrmlxed history with saga and myth. From a recension in Greek at some point\nbetween the second and fouth centurles cx, versions of the Romance pro\n\u2018Morated ina number of languages\u2014incuding Ltin\u2014that gave the tradition\n\u2018broad geographical impact in Roman and Persian terntories and beyond:*\n\u2018The possible existence ofa Middle Persian Alexander Romance remnalns acon\ntentlous subject, and ths body of literature might have enjoyed considerable\npopularity among Sasanian ruling elites But no Middle Petsan text survives\n25 ST Ann gts Com Di Sag Hern as-a, 66-7 645: Jan 2b\n137 orthe Homan tof ubaran motes ec Ale Lrg he aaa\n\nremy Spec Raa Horry (Aa, Unni Tens Pe 8) A\nfk rn 1.Malin (Chee: Hana Une Pres 201), 3)\nrem)\n\n23) Theor Nile (Heeger Gexlte des Alranderoman\u2019, Delco der\narchon Atadomie der Wisncafn Chane pi it Kase 9) are at\n\u2018heSyceriona the Romancewarducdin deal neon ce foma Me\nenum vernal alisthoes nthe ew late Dae aie\nAsan, Mach Pals Lert: Ja Poo Monee Sal lander\nMego Zan ty ede: Bot el 9) 3) andoppnents bard\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    123,
+                    372,
+                    447,
+                    653
+                ],
+                "ocr_text": "See An gt Cam De 8354 Hoan a 667, 64; lan Oa be\nrte Homan te of baran motes ec Ale ring th abana\nremy Spec Raa Horry (Aa, Unni Tens Pe 8) A\nee Soci Weerdebur (aunt Sen and act Sein Anco eens\nfk rn 1.Malin (Chee: Hana Une Pres 201), 3)\n\u2018eyed fr Grek toxopphyom he Achameni \u201cerne a8 Croke aly\n(ce cent rk Nae ol BP Reson (Bey, cs Una Caria\nPrema)\n\n\u2018heed Nldke (etre sur Gehl der Alecandemomn Dekh der\n{aberlchen Adem der Wasco Cane pil ot Kae 899) argued at\n\u2018ReSjceniona the Ramancewar duced intel neo eesMile\nenum vernal alisthoes nthe ew late Dae aie\nAsan, Mach Pals Lert: Ja Poo Monee Sal lander\n\u2018Mae geo Do Zoy Laie Bro Bl) 4) andoppents( card\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    80,
+                    61,
+                    439,
+                    658
+                ],
+                "ocr_text": "forstady.Anassessment ofthe Romances sigalicance in Persia must therefore\nInclude the tradtons in Syriac as well as Arab, which were widely dss\n\u2018ated throughout Iran with the arival of Islam,\nPoles, History and Analogy\nAn essental feature of Alexander's reception in both Iran and Rome was the\ntse of his memory to suppor a historical analogy For commentators on both\nsldesof the Euphrates, there was strong continuity between Alexander\u2019 inva\n\u2018on of the powerful empire on is easter frontier and he deep-seated Roman\nInstinct to seek new impefal acqulselons a the expense ofthe Parthians and\nthe Sasanians. The difference was the direction in which the continuity ran.\nInthe lanian sources Alexander\u2019 easter imperialism was aneatly man\nfesttion of Roman imperialism, because Alexander was a Roman. His descrip\n\u2018don as such inthe Iranian evidence cleat and consistent. In the Zoroastetan\ntexts hei varlously called \u201cAlexander the Caesar from Rome\u201d or \u2018Alexander\nthe Roman\u2019 In some passages, the men who served In his armies ar called\nRomans as well The same holds true fr other texts in Middle Persian or\ndescended from Middle Persian sources, ke the Boo of the Deeds of Arash,\nthe Letter of Tansar, and the Book of Darab According to Ferdowat in the\nSahnama, \"the king in Rome was Philip: who alongwith Alexander was also\ncalled bythe appellation of Caesat* Nor s there any apparent incompatii-\n\u2018Ne \"wollte in Popes rf MB (Leen al)\nM5: CA. Gana \u201cThe Senn ofthe leader Romane\u2019 le Mido ng\n(Goo tg ade Pesan omc deed mak an npc atte\nant poputrty woul remy hare ben amanghe ub, a the Zena\nlegate ini Aeranedand Adve a8\n(ea: Came fr the Gest aie Enyloped, 295) 36: \u201clebandar Hara\n3% Abdali anton alana Zand Waa Yo 92 =Catla\n(Cony The Zand Watman i AZ paiement\n{1Mei  ateme One) 4nd rama Ana Wide Nana\n\u2018elma nay\n2 Dita 4\u00a2= elma Humbe, Jt Henin and ad 0 Sar, The ata of\nZari andthe Oe Od etn Pts Ween Ca Wie 5-58\n3 Ratnagiri bag = Great La te Ards 9 te of sa =\nBoye Later of Tar, 36 0 Darah neh = alla Db Neh 8-3,\n4 Ferd Sa ana = Dll Kalepht Noah At at Fda The Shane\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    99,
+                    82,
+                    452,
+                    646
+                ],
+                "ocr_text": "fry between Alexander\u2019 identity sa Roma onthe one hand and his supposed\nbith in the land of Greece or Egypcon the other The texts associate the king\n\u2018with Roman power even where they make hin the ler af nn-Roman political\nentities\nRome\u201d was hardly a fixed point of reference in late antique and post\nconquest lan of course, and the clergy, poets, and scholars who contbuted\nto the Iranian Alexander traditions would have understood the geographical\ndesignation in various ways both before and after the arrival ofthe Arabs, nthe\n\u2018word of early Islam, the word Rum mos often meant the cutalled Byzantine\nstate of Asia Minor, though it could stl refer tothe erstwhile Mediteranean\nempire and, eventualycothelands ofthe Chstian north moe generaly\u00a5 But\n\u2018while the meaning and location of Rome shifted, Alexander\u2019 Wentification as\n\u2018leader ofthisrealo remained. As Rome moved, the memory ofthe conqueror\n\u2018moved with it.\n\u201cThe stme Zoroastrian texts that cll Alexander a Roman preserve a harsh\n{judgment of his character and Kinship. The \u201caccursed\u201d Alexander is accused\nfof various crimes against the Good Religion the assassination of ruler, the\n\u2018murder of priests, the destruction of archives, the buming of holy texts and\nfeven the translation ofthe Avesta into Greek\u201d Many of thee charges ate\nMaly to have been no more accurate than the labelling of the Macedonian\n\u2018conqueror a Roman; most cholars agree, or instance that the Avesta would\n\u2018othave existed in writen form dung the fourth century nex, and thus would\nhave been unaallable for Alexander to desecrate Nevertheless, the memory\n(The tof ag) os (Cnta Mens: Neruda Plies 7 i ie 4\nAb ale Sygate Ho\n\n435 ne td Wong nance Aland ksandrhiaigmuriy\n\n36 RomyDurk Whe Ate Roman? The Deion lad iy and he Roman)\n\u2018ned aie Gaps Joumaff rua nas (2087 See als\nne Lac Ras Magra 27): 9-1, wth te nn ache tr\n\u2018ere ding the Spr\n\n7) Sethe pase cle nants at Aland 9-95 withthe conn\nose Moshe en Dh stay ofA Tata (Aan Sate esto Noe\n\n38 Onthe conto fhe Avestan wig sce May Byceand Frans Genet Aa\nfdas tases el) or; Wawhe Aecredand bene\n\u2018rads Sor, \"Aestan Soin The Oxford Hand of ana ata\n\u201cTour Daryace (Onn New Yrk ford Univenaty Presto) 58\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 11,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    85,
+                    75,
+                    442,
+                    656
+                ],
+                "ocr_text": "became deply embeded in Zooastzian tradition. The kings Roman identity\n\u2018went hand in hand with is reputation as an enemy of pre-Islamic Ians most\nimportant eligion.\n\n\u2018Since our Zoroastrian Middle Persan texts ate overwhelmingly productions\nofthe elghth through tenth centuries ce, their pronouncements on Alexa\nder shouldbe situated in thelr early Islamic contexts. The Arab conquest ook\npolitical, nancial, and demographic toll on the Zooastians of the lranlan\nplateau and whale relations with Muslins were not always adversarial, the ea\nlection and preservation of the Good Religions teachings sem to have been\nspurred by the pressures of foreign invasion and the erosion ofthe fath\u2019shistor\ntelly close relationship with the wlelders of poltial power In this respect,\nAlexander\u2019 campaigns may have offered ancient parallels tothe depredations\nofthe Arabs; Zroastrlanists misfortunes a the hands of Irans recent con\n\u2018querors shaped is interpretations ofthe Macedonian invasion?\n\n\u2018Rut postconquest Zorogstrians also worked with material that bore the\n\u2018weight of long tradition. As many scholars have argued, Alexander's designs\n\u2018don asa Roman is Ukely to have emerged from the long history of confit\nbetween the Parthians and Romans and, later the asanlans and Byzantines.\nSince the empires of Iran and Rome cashed repeatedly from the first century\nsce through the seventh cx, the ranlans projected a Roman identity onto an\nenenyy from the remote past*\" This isnot to aay that thelr traditions had lst\nall original memories from the time of Alexander. \u00a2 may well be the case that\nthe Zoroastrian depletion ofthe king aa sacrilegious despoller was, n origi,\nthe result ofthe chaos unleashed by his armies during his invasion of the Ie\nlan plateau But the later aly between Persla and Rome seems to have\n39 Samah K Chay, Cnet and Capra: Zar Suber and Ma\n\nie Meal raman Scie (New Yk Cama Un Prsh 9) op\nSoran New Mana 0 Dae \"onan der ami Rl! 0.\n{eon \u2018ego oa vit Pea ean The Wi lc Companion o\n48 Theor liek, \u201cGeschche dx Araeiipi, aus dem ele abet et\nterngenundtnerfineung ence, Beebe teu Kade rind\nseman Spacon 4) Caer, Dd Noh, Daye,\n\u2018Gra apt perc non Language nd ets fom ran aT,\n\u2018cl Mara acct ab. Wha: rong 27) Wee, a\n\u2018ache on Acmenien and Alan Acme Hoy ota\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 12,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    101,
+                    75,
+                    451,
+                    654
+                ],
+                "ocr_text": "imparted\u00bb Roman Wdentity to Alexander that became fused with earl ta\nditions Modem researchers may attempt ta disentangle the older and newer\nthreads, but there sno indication that at antique and post-conguest Iranians\n\u2018would have done so,\n\n\u2018The Roman tradition operated ina diffrent way. The Romans never de\nscribed Alexander as anything bt Macedonian king they never aimed han\nso literally as one oftheir own. They di however, believe thatthe pracess\nfof conquest and expansion afforded thelr most powerful commanders the\n\u2018opportunity to follow in Alexanders footsteps\u2014to cave a greater empire out\nofthe same eastem lands that Alexander had once invaded, whether fr good\nfend or bad. The tea thatthe Macedonlan kings political and military career\nserved as a model has received much scholarly discussion under the label\nof tnitati Aland, or the imitation of Alexander The concept has been\nfully aplied to Hellenistic history and particularly to Seleuld kingship,\n\u2018but most tudes in this vein have focused on Romans ofthe late Republic or\nthe Princlpate**\n\nand Change Prego the at Achamn iny Wilson Ap 6-8 A\n\u2018rt Megan len Sac Weerdebury a (Lede: Neen nate\n\u2018oor ht Nabe Osten) 385 Whee \u2018Acued and beter 6 de\nJong Belin abd PrP ani a but Bran Dare the Shade\nsf lesan Tous Daye, \u2018ening te Zoran Ps ro lexan\n\u2018la The Zoasan la xing Rigo Histor oA Wane\nsta (Lando: 18 aur 06)\n\n45. Ancien eof hr pave may be Sef etext eter per ng\ntat De Br 83) hough i aot carta the wore rr to Aldea\nSJM Malo \u201cGal Bdge t Bale and Alanna lial Quarry gh\nronan\n\n| Onthe ont esnde daring sh len pro eC, mt es\nann Hema Unerachangen um palshon ahr Alexandre drag\neich nd Spteenistichen Monaro (Musics tad 98 Ande Sea\nPc of ower AcsunerInage an Hele es (Bey: Unieraty of aor\nsere) Forte concept i epi ete ce Ki yo, uti Ae\nthin pin Leary Tr The Raman bree resent oT\n\"Wma nd Sua Thomson (Canbe Canbradge Uiesty Pres) Porky\n{he place elo de etna Anand e594 Mich\n\u2018ante e(PRD de, ayer la Maninans ier Waban, 3\nch Gracy Roe the Mth of Altande nA aya Mader Un\nsiya ed Edt Grand Raps edna), Spence The\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 13,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    75,
+                    436,
+                    656
+                ],
+                "ocr_text": "Debate persists as to how the Roman dnitata Atexandr shouldbe under:\nstood, For would-be Roman conquerors of the East, was the desire to match\nforexceed Alexander\u2019 achievements a genuine commitment, or were Alexa\nArian echoes merely useful propaganda toks to justify forelgn campalgns toa\ndomestic audience? Then again, Alexander\u2019 example may have been less a\n\u2018consideration fr Roman commanders than was forthe authors who chron\nIcled thelr lves: perhaps the drawing of parallels was aterary device, nota\npolitial strategy The debate need not be resolved here, and a any ate the\npossibile are not mutually excisve, Whether the nitatio belonged more\nto the realm of history of shetorc, the fguteof Alexander occupied a prom\n\u2018ent place in how the Romans thought and wrote about easter conquest \u2014a\nprospect that never ceased to entice Roma leaders.\n\u2018A few examples wil suffice to lustrate the prominence and longevity of\nAlexanders example, Inthe fist century acx, Gnaeus Pompey Magnus \"be\nleved himself tobe similar toking Alexander and ved with him in his achleve-\n\u2018ments and plans accordingto his contemporary Salus\u201d Nearly two centutes\nlater Trajan would couch his Parthian campaign in terms of both reverence for\nand vary with the Macedonlan; he offered sacrifices to the King\u2019s memory\nat Babylon, but also wrote tothe Senate to procaim that his own campaign\nhad advanced farther east than Alexander\u2018! And inthe fourth century ce,\n{Gms London Harare Pres gh ae BS Pte he oman\npi at fy ts (London: New Yk ous, 2029) Fr the rope\nnd ale Alera paral ee Aiea ate Zam Oreste de Cat\n(Coa Gmastin (2 on Gar Cant Mal al eign Calla\n\n46 Fovthic voy on FE An Cosas Dstt a The Cambie Act iter\nLSA Cora Cambridge Came Unerty res 30) Perron, \"Ce\nig Ancien Hist nd atare(Bely, ex Unnerty of Carla Pe 138) 04\n(Gur, ome athe Mh of Alander, 86 Ech S Grae, Rei of The\n\u2018man Mesa: Roding Carl ph by Dia Spence, Te nero try\neen (20969 6\n\n47S a 8 nn oe se redone Mean eg, ft cage ue\nseul rat Grae (oe an the Mh of Alcnde 8415) arouse\nDiino evand 4-75 Rahya eka Hanna il Retin the Ran\n\u2018Asan ntchahn 4 ou 8\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 14,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    92,
+                    83,
+                    457,
+                    653
+                ],
+                "ocr_text": "\u2018Julian marched east fight the Sasanian king Sapur, the orator Libanius\ndescribed his native Antioch tothe emperor asacty of Alexander, who moved\nslong the same course that you da\u201c\n\u2018On one level, then, Alexander\u2019 imasion of Persia In the fourth century\nanc furnished historical precedent for Roman-Pathlan and later Roma\nSasunian armed confit As Alexander had won power glory and teitry in\nthe East at the expense ofthe Perslans so generations of Roman leaders would\nclash with chelr Parthian and Sasanian counterparts Inthe name of conquest\nand empire. For some observers in Rome and on the lanian plateau, these\n\u2018lashes could be Interpreted as re-runs of Alexander\u2019 orginal anabass, now\neon asa formative struggle between East and West chat had set the stage for\n\u2018what was to come. The Macedonian king\u2019 place had been taken by Romans\n\u2018who sought to replicate or even surpass what he had achieved \u2014agaln with an\nManian empire artayed against them,\nBut while bh sides might vew Rome's easter campaigns as analogous\n\u2018with Alexanders orginal invasion, the evidence suggests a crucial difference\n{nthe way that they conceived of thelr histories. The Romans imagined thelr\n\u2018commanders. new (and in some cases improved) versions of the Macedonian\n\u2018conqueror they described the present in terms ofthe past. The Iranlans how:\never, assigned to thelr anclent enemy an identity \u2014\"Roman'\u2014that belonged\nto thelr contemporary imperial rival; hey described the past in terms ofthe\npresent. The end result was much the same: both approaches to history fs\n{ered the impression that the Eastand the West had long been a war with one\nnother, and that Alexander's age had sown the seeds ofa deep antagonism?\n\u2018ut the contours ofthe traditions were diferent. In ran the present was away\nto frame the past: n Rome, twas the other way round.\n\u2018The Greco-Roman sources do not stop at drawing parallels between Alex:\nander the Great and Romie\u2019 generals; they go one step further, and complete\nthe analogy If the Romans were the heirs to the great Macedonians eastern\ncampaign of conquest, then thelr Parthian and Sasanlan enemies had to be\nteat: 7 pdt de cine aan (Gene Feito Had 7),\noe\n\n40 Ub or pp:nuc Witenes Frater compara of flan\nto Alte ning some comment by Julian ns se Balan rth \"The\n\u2018tinge lan he Apert ate lens of Asante Gat A Topesin nge\neo Moder Ect, Hat (2) and) ane \"Th neyo\nAtcander Contant ClacalQuartl 43 bag 2- a5. wpe\nel cancnar imation of Aeander\n\n59 CEChisemen Lr aoe Calle, Di Nc 8-9\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 15,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    88,
+                    70,
+                    441,
+                    654
+                ],
+                "ocr_text": "reborn versions ofthe Achtemenids who had opposed him, ln a practice that\n\u2018would continue for centuries, Roman authors ofthe Augustan plod increas\nIngly began to model their descriptions ofthe Parthians on ealer portrayals\nofthe Achaemenidsin Grek literature Justas the distinction between \u201cMede\"\nind Persan was often elided inthe Classical pead, naw the Parthians could\nbe called Medes, Persians, and Achaemenids-all tems that had teferred to\nthe descendants of Cyrus the Great and the inhabitants of his empite The\npractice continued apace well into the Sassnian period As ong as ambitious\nRoman generals with eastern commands were ready to fllow in Alexander's\nfootsteps, the Parthians and Sasanians provided rough and ready equivalents\nofthe Achaemenids who had ruled the Nea East during the king\u2019 lfecime.\n\u2018Wore such descriptions falehful to an Iranian understanding of history? Or\nwere they no more chan an interpretatio Ramana, a genealogy invented by the\nRomans and projected onto the Petsan empires of the fst centuries cx?5*\nAnswers have varied As noted above, several passages in Roman histovog\n5+ Michael Wiseman, Die Parte der agutcho Deki (Pak am Ma\nLang 98) ne Hager ommend rondenhid and Pott Vontugen der\n\u2018rv Ago na dem Parthian fen Karat\n(Penk a aang 8) > 88 any Sant, \"Sybl of Un? The\nenn Wor Taconite Rann Empl a Gretta, ion Hon\n\u2018owe (Oxford New Yn Charen res) 97-4 af Mca Sher,\"ie\nands Zag Te Arica pe Souces ad Dace Berge devine.\ntat Callus Btn (7 an 96) Js! Wier Sat Fane\n\u2018Snr Vr) Bejan ae, The vention of Bc Clason Atiaty\n(Pineton x Prcton Unerty Poa) p53 Bane Dar the Shadow\nof ean 242 On the dana ton between Medea Tea ee Chit\nher Tp \"Penne a Meer nC and Chang: Pedi of te Lat Ache\neid Work pip Ana Arbor Mg olen Sani Werden\n\u2018hr a (Leen Nodes Inns or het Nae Oat gh 8-25. The\n\u2018soft elm ig se Stan Has,\u201c eigen Noman: emergent\nCosine: einige see erpchenden eget Bard\n\u2018Parte ans lender rman Start Ban Snr 27) 8\n\u2018sine np Remana nent Lannea eid\n4 Forth wha dent she Pushes Sains ie et opps Achacnenid\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 16,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    96,
+                    79,
+                    455,
+                    659
+                ],
+                "ocr_text": "\u2018raphy contain proclamations from Iranian rulers that mount claims to former\nAchaemenid tertores on the basls of putative descent. If some ofthese\npassages ralse suspicion, others come fiom reputable authors lke Tacias\nfind Ammianus who ae generally thought not to have taken undue bertes\nwith the reporting of documents Sal, the addition of claims to Achaemenid\nheritage would not be surprising given the conventions of ancient Nstoriog:\nraphy2? In the absence of corroborating evidence from Partlan or Sasanian\nteritory, the Greco-Roman literary soutees cannot be trusted to speak forthe\nIranian view of the past.\n\u201cThelate date ofthe eastern iterary evidence leaves much on the Iranian side\n\u2018unelear, but it does give a sense ofthe relevant traditions. Where the classical\n\u201cMediterranean sources relied oneatly Greek historlography fo thei informa\nton about the Achaemenids, the Ianlan memory ofthe dynasty was likly to\nhha been rooted inthe oral compositions, both legendary and religious, that\ndominated the Parthian snd Sesanian view ofthe past Some early Islamic\nsources remember Alexanders opponent not as Darus 11 the Achaemenid\nbut as Dirk the Kayanian, the lar acion of a dynasty whose origins were in\n\u2018Gamegear La ea nel Me ana Mars Alem)\nSteud une ra Retarue in: Quesnee conan a 08\nage (Pare Anco our aancement de estanens 39) 97- see\n\u201cne Satna Sect) For le unequoa cao ce J! Wiser\n\u201ctance Anse em sf chelate Terre Arhilagache\nlunges an 1 (8:7 Jn! Wisi Geet fre Unie\nlene i rade and notion the sn Wr Edad Dabs (Kk\nJapelenian Unesty Press, 2m va haem, Ara an Sosanans To\nance her ued tht the Sans ne of the Ahaemenie ut rte the ct\nthe hoy in eorathe Kayan who were more cosets wth oman\n\u2018eons aby ace Tour Danae atonal lita ey Hany? The Nature\nStrnd Zoran seria rn Studer 8) Tar Daye, \"The\nConsoconalthe Fastin nines Mati Zur Ale Goh\n\nSH DS. eer eget he etm of Head forthe oof Ant For tae at\nsect flan fr Shap fan np a ey, 80-4),\n\n{8 Mathew Cap, The Ta yer of th Earth At an Ral of igh bree me\nnaan a (Bete Utero Cllorns Pre, 009) 7-48\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    114,
+                    348,
+                    452,
+                    654
+                ],
+                "ocr_text": "\u2018Gamegear La ea nel Me ana Mars Alem)\nSteud une ra Retarue in: Quesnee conan a 08\nage (Pare Anco our aancement de estanens 39) 97- see\n\u201cLate aan ce ig ors unequnoadscusions, se Joe! Wistar\n\u201ctance Anse em sf chelate Terre Arhilagache\nlunges an 1 (8:7 Jn! Wisi Geet fre Unie\nlene i rade and notion the sn Wr Edad Dabs (Kk\nJapelenian Unesty Press, 2m va haem, Ara an Sosanans To\nance her ued tht the Sans ne of the Ahaemenie ut rte the ct\nthe hoy in eorathe Kayan who were more cosets wth oman\n\u2018eons aunty ace Tour Dance atonal Hey en Hato: The Nate\nfStrndZnarran MsterigapyrananStuder384 9) Tor Daye, \"The\nConsoconalthe Fastin nines Mati Zur Ale Goh\n\nTae Am Gu Ca Diag 4 Heroin Gas 2626-7645; Anim Mae 55\n\n|S Posen he tentmony of Hera fr he reg of Anh fr te, at\ncept ht of Alar Shp man Ep a B23\n\n| Mute Canes he Mo ye of the Kart and Ral of igh bree me\nnd Saanan a (Brey Utero Calon res, 09h 4-8.\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Page Number",
+                "bbox": [
+                    100,
+                    77,
+                    127,
+                    95
+                ]
+            },
+            {
+                "instance_id": 4,
+                "class": "Text",
+                "bbox": [
+                    96,
+                    84,
+                    446,
+                    350
+                ],
+                "ocr_text": "\u2018raphy contain proclamations from Iranian rulers that mount claims to former\nAchaemenid tertores on the basls of putative descent. If some ofthese\npassages ralse suspicion, others come fiom reputable authors lke Tacias\nfind Ammianus who ae generally thought not to have taken undue bertes\nwith the reporting of documents Sal, the addition of claims to Achaemenid\nheritage would not be surprising given the conventions of ancient Nstoriog:\nraphy2? In the absence of corroborating evidence from Partlan or Sasanian\nteritory, the Greco-Roman literary soutees cannot be trusted to speak forthe\nIranian view of the past.\n\n\u201cThelate date ofthe eastern iterary evidence leaves much on the Iranian side\n\u2018unelear, but it does give a sense ofthe relevant traditions. Where the classical\n\u201cMediterranean sources relied oneatly Greek historlography fo thei informa\nton about the Achaemenids, the Ianlan memory ofthe dynasty was likly to\nhha been rooted inthe oral compositions, both legendary and religious, that\ndominated the Parthian snd Sesanian view ofthe past Some early Islamic\nsources remember Alexanders opponent not as Darus 11 the Achaemenid\nbut as Dirk the Kayanian, the lar acion of a dynasty whose origins were in\n"
+            }
+        ]
+    },
+    {
+        "page_number": 17,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    82,
+                    72,
+                    440,
+                    651
+                ],
+                "ocr_text": "\u2018he realm of myth? In the Sanda for Instance, Dara exalted the Kayanlan\n\ncrown tothe sun\" after ascending the throne. Din ongins are nclea, but\n\nsome scholars locate them in late antiquity when the Alexander Romance tr\ndition began to work ts way into a Saanian version ofthe Nwady-ndmag.\n\nAlthough names ke Artaxerxes and Darius seem to preserve correspondences\n\nbetween the Achaemenids and Kayanlans, in the fil analysis the two dynas\n\ntes come fom different, and ireconclable, histrlal traditions\u2019?\n\n\u2018So while the Parthlans and Stsanians dd nt follow the Romans in describ\nIngthemselvesasAchaementds they may nevertheless have sen connections\nbetween thelr own files and the Kayanan dynasty that had died out in che\n\u2018wake of Alexander\u2019 campaigns. The Sasndina traces the lineage ofthe Sasa\nnian founder Adashir back to Data whoseson Sisin escaped thedepredations\nof Alexander by leeingto India The Book ofthe Deeds of Ardasir preserves\nthe same genealogy Taba knew of traditions thatheld Dito be the father\nnot only of Ardashir but also of Ashak-\u2014the founder ofthe Parthian kingdom,\n\u2018known to the Greck world as Arsaces In a wor, the Parthians and Sasan-\nans did not need to know who the Achaemenide were inorder to trace thelr\nancestry back to Alexander's Persian opponent.\n\n50 Sele \u2018anderan the soft: ant, Dara the Sha of ender\n(nthe apni inthe Aver see Daj, Nationa Haty a Keyan Hin\n\u2018gran the Kayan bere ele sce Mary Boye, Se epson he Tenn\n\u2018ie Kayan Heo Cyl in Sern Canttigena Wesbnen: Fane Sine.\n\nSo Khe Moda Shabnam alg tne a\n\n1 Mao Gaga La Maat Arb fA Pe Wa ee Soar Mali\nAja da Pe hal Moga\u201d alti aso 6 (3 98-0 la\nUphenging i Oty a tty he nan Wr: es of natn aren\n\u2018he Centres ub (Letden Bs: al 20) 399-25\n\nBaan th Sado lesan\n\nforthe nama eve Shake 5-5\n\n14 Kamaag rd ban 6 = Greet Lage Anda 55:06 Pane\nura Docne and alle the Sana np: Sana Pra Cafe\nandthe ra Cong fan Londen Ta 008) 8598; at Dan he\n\u2018Shad of sandr.\n\n\u2018y= Peat Testy ofl Tabr ol 49) oe Taba =CE Bath he\naay of ar ok 5 (Aba State Ute of New Yr Fre. 0) Oe\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    108,
+                    339,
+                    439,
+                    653
+                ],
+                "ocr_text": "Ne eee\nSelden ldanderandthe es of ean: Bat, Dart the Shadow ane, $6\n(nthe apni inthe Aver see Daj, Nationa Haty a Keyan Hin\n\u2018urintheKaanan bert sc Mary ayer, Some Remon the Tanssion\n\u2018ie Kayan Heo Cyl in Sern Canttigena Wesbnen: Fane Sine.\nak Modagh, hamachi 13a gS gs\nMa Gg \u201ca Maju ab Abr Sa ot Spar Ma\nAja da Pe hal Moga\u201d alti aso 6 (3 98-0 la\nUphenging i Oty a tty he nan Wr: es of natn aren\n\u2018he Centres ub (Letden Bs: al 20) 399-25\n\u2018ane Duras Shad andr 9.\n\nKarama Anat Pain = Genes, ese Adah, 54-5 Pavan\naur Deine anal te Svan pi Te Suna Parton Caney\nnd the ra Conquest of on (Londo Tui an) 858 at, he\n\u2018Shad of sandr.\n\n\u2018y= Peat Testy ofl Tabr ol 49) oe Taba =CE Bath he\naay of art wok 5 (Aba Ste Ute af New Yk Fre), Ober\n"
+            }
+        ]
+    },
+    {
+        "page_number": 18,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    81,
+                    64,
+                    449,
+                    657
+                ],
+                "ocr_text": "\u2018The imagined descent of Arsices and Ardashir from Dark may have fut\nther contributed to a negative view of Alexander's Kingship over the Iranian\nplateau. Inthe Letter af Tansar the king's counellor Aristotle advocates policy\nof divide and ule to keep the newly-congueted land of Iran qulescent: Alex\nander should foment rivalry among the Persian nobility so that, ighting with\n\u2018one another, they \u201cwould not be fee to think upon the past By uring the\nland over to squabbling pety kings, Alexander robbed Ira ofits traditional\ncoheslveness and erased the memory ofits greatness under the Kayanlans \u2014\na greatness chat, according to the Later, would not be v-acleved unt the\n\u2018conquests of Ardashic. Ferdowsl too speaks of Iranian disarray after Alexa\nders death, and Taba intonesthat Persan rulecontinued to break down until\ntherise of Ardashie\u2122\u201d To be sue, this view stems in par from Sasanian propa\nfinda designed to belite the Arscid dynasty which they overthrew\" Buti\n\u2018s nonetheless telling that Alexander, not Arsces, was held to be the eause of\nthe deluge from the Kayanlan period,\n\nAlong with the identification of Alexander asa Roman, the putativedescent\nofthe Stsanlans fiom Dara seems to have affected how the dynasty justified is\n\u2018campaigns of plunder and conquest against the Romans. The Letter af Tansar\nexplains Ardashi's westem foreign poley a follows\n\nHe [Ardashir has devoted ll hs thoughts to attacking the Romans and\n\npursuing his quate against that people; and he wil not est ntl he has\n\n\u2018venged Darius [Did agalns the successors of Alexander\nPersistent doubts about the dating ofthe Lefer mean tha iis impossible to\n\u2018now whether sucha statement actually gued in the royal proclamations of\nArdashie himself But f the document does indeed have a Sasanian prove\n\u2018mane, it shows tht, by the shh century cx atthe latest, Sasanian wats with\nRome could be explained as campaigns of vengeance agalns the empire from\n\u2018which Alexander had launched his invasion of fran\u201d An echo ofthis ides in\nParehan propaganda may survive inthe Muslin author Aba Mans al-Tsibt\n(961-1935ce)- His history mentions a leader named Afgur Sah, probably to be\nTamla om Bop Ltr ana 8\n{7 Dar Shana, quntaton i sina, Te May of aro 8\n(Tamla om ope, Leterof ana aap\n\nand Pracaans a) 509 Aah octement of tpt Hom Rome\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    127,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 19,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    83,
+                    69,
+                    440,
+                    653
+                ],
+                "ocr_text": "\u2018entiied withthe Arsaid Pacorus, whose successful eampalgns against the\nRomans ate supposed to have obtained vengeance for Alexanders fallen foe\n\u2018Dara Even ifthe Achaemenid had lapsed int historical obseuty then, the\n\u2018memory of Darus persisted and mattered. It inked the Parthians and Sasa\nans to the glorious Iranian past and it animated a new strugale with Alexa\nders \u2018successor in the wes.\n\n\u2018Aina consideration fr the question of analogy is how and whether the\nIranian and Roman traditions were in dalogue with one another. Were the\nParthians and Sasanians aware ofthe utaio Alexandh in Rome, and fs,\nhow dd the Roman espousl of Alexander's example influence thelr awn views\nofthe conqueror? Conversely, when the Sasanansclamed tobe restoring the\nory that Persia had known under Darius 11 and his predecessor, what sor\n\u2018of reaction might this propaganda have spurred in Rome? Diteet evidence for\nthe exchange af historical ditions is scarce, ut some scholars have persus\nslvely suggested that the Iranian and Roman Alexanders may have fe into one\nnother deepening th idea thatthe Romans stood in Alexander\u2019 shoes while\nthe Perslans stood in Darius Recent scholarship has discussed how deve\n\u2018opments in Iranlan and Roman politcl ideology wete put in dialogue with\n\u2018ne anothers diplomats, merchants, and missionaries clreulated between the\n\u201cMediterranean and the Nea Eas. The transmission of Alexander namatives\n\nsce apt Karas Kapp, Prapogrphack Std ur Goce des ater\n\u2018ech nf der range anther Urea Usrsfeang (Bn Kom et\nLiab oe Whi Ram at ey of ra Call aro\ngs and Be papain Antu ch S. Gen Suga: Pan Senet,\nso Such tora ary eof Sania rg: at an ben maa of\n18. Ty Daya, \u201cThe Chang ue ofthe Wo Geopphy and Imperl Props\nDybowa (Arak alin Uniram) Danae tate Alea\n74 erica loys nt Whiley ann rect amas (Pars Amocaton\nIni and Suni ore ifs of ise Joh F. Mathews, \u201cerage\nea ation nd Ising EM, Cher RS Ha\nhr (Madon wr Ute af Wan Pre) 29-3 Aika Ge,\"\n\u2018imate Content: tts he ate an, avn, and Ely am ear\n\u2018it Jt Weiler and Hearing Bi (Delors Wel V2) et\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 20,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    95,
+                    65,
+                    451,
+                    662
+                ],
+                "ocr_text": "could have heen par ofthese exchanges, and it may even have deepened the\n\u2018dentfcation ofboth emyptes with che figures they saw as thelr pera pre\nAecessors\n\nIn sum, the reception of Alexander in both Iran and Rome supported an\n\u2018nterpretaton of thet relationship thattested on ahistorical analogy For amb\n\u2018lous Roman commanders and the authors who wrote about them, eastern\n\u2018campaigns agalnst the Partlans or Sasanlans were opportunites to recreate\n\u2018oreven surpass Alexanders campaigns agains the Achuemenids,now relneat\nnated asthe Atsacid and Sasanlan dynasties, In Iran, the early Islam texts\nsggest thatthe Sasanans\u2014and perhaps the Parthians too, though tis unclear\n\u2018whether the evidence goes back that farsa the Romans inthe westas both\nthesuccessons of Alexander and answerable fo the havochehad wreaked upon\n\u2018helt land, The memory ofthe king became a way to interpret interstate poll\nte: a8 Alexander was tothe ancien Persians, so now the Romans were tothe\nParehans and che Sasanlans. When Persia and Rome clashed, they carted ona\ncontest of great antiquity with roots that ran far deeper than thelr wn eas,\n\n\u2018The Limits of Analogy\n\nPolitical Ideology demands 4 coherent vision of how the world ks supposed\nto look; grey areas and subtlety can dilute the force of cleat naraivs. In\nthe poltico-tligious worldview that emerged in Iran under the Parclans and\nSasunians, Alexander was an accursed foreign interloper whose lvasion upset\nthe cosmle order; in the conques-centred realm of Roma peril kdealogy,\nthe was a leader who had blazed an eastern trail for future generations of\nrlitary commanders. Rome took his place, while Parthia and the Sasanian\n\u2018ingdom took the place of is Persian enemles.\n\nBut the analogy only went so fr n both Rome and ran, che legacy of\nAlexander was too mulifieted and too diverse to ft into any one historical\nrnarative. In the Iterature of the late Republic and ealy Principat, some\n\u2018oman observers were distinctly ertcal af the king\u2019 legacy and, by extension,\nofthe project of eastern imperial that t underpinned, Andin the teratute\nof lean, one stand of the Alexander legend tied to eeate a place fo the\n\u201cMacedonian in the roster of the great Persian kings Whete the Alexander\n\naan he ato Richard Stoneman eta (Goings: Barba bing 3)\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    127,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 21,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    78,
+                    68,
+                    436,
+                    658
+                ],
+                "ocr_text": "Ihstorians of Rome expressed concern thatthe king had flit with eastern\ndespotism in his efforts to accommodate his Persian subjects, the Persians\nthemselves embraced a story that made him ane of them. These traditions\n\u2018coexisted with the Alexander analogy thatthe dynamics of Roman-Parthian\nsind Roman-Sasanlan relations had foregrounded sometimes uneasily, and\nometimes even within the confines ofa single text.\nInRome, Alexander\u2019 example could sometimes be deployed to highlightthe\n\u2018aeacherous pitfall of eastern imperialism rather than the glory that successful\n\u2018conquerors could eam. After the death of Publius Crassus (son ofthe tui\n\u201cMareus Crassus) in battle against the Parthians at Cathae in s3ucx,Cleero\nlamented thatthe young man had been kiled \u201cwale he was trying to be\nUke Cyrus and Alexander The author blames Crassuy death om his deste\nto fellow the wrong kind of exempta; the brash adventursm of the Persian\nand Macedonlan conquerors is conttasted with the austere honour and sober\n\u2018wisdom of Crassus ancestors and hs sevice In the Carthae campaign ls sald\nto have resulted from \u201ca ite of ambition unsuited to young men Moreover,\nAlexander is pated with Cyrus the Great, the founder ofthe Achaementd\nEne and, in this passage, Alexanders moral equivalent. For Cicero, che\n\u201cMacedonian provided no better an example than the Persian.\nSuch wariness of Alexander\u2019 mileary adventuism was shared by Lucas\nAnnaeus Seneca, who wrote under the later Juio-Claudlan emperors. In @\nlester this comrespondent Lucius dealing the nature of Stole virtue, Seneca\nlavelghsagainstthe goed andlack of self-estrant that great commanders tend\nto-exhbi. Alexander ilustrates his pont perfectly\n\u2018Not sted with the rn ofthe states so numerous which Philip had com\n\u2018quered or bought, he overthrows various others n various other places\nand bears arms around the whole world: nor yet does his elt, though\n\u2018ured, subside, le that of wld beasts wheat more than hunger demands.\n\u2018Now he oins many kingdoms into one kingdom, now the Greeks and the\nPersians fear the same man, now even the nations ft fre by Darius sub\nmito the yoke\"\n\n75 Gk Bat. 8edu Cer Aeon ee a, Cerner Pb dig\nsee QB 28\nNeate vane hn el Madel Bh ata Sate Nema Oad\nnd Utes Pri 0039-34\nerat its al ce pat ft hear scan ee bn aqua ee\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    39,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 22,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    96,
+                    75,
+                    453,
+                    637
+                ],
+                "ocr_text": "Embedded in thismoral discourse tsa pont f great consequence for Roman\npolicy in the East Alexander Is castigated for forging one kingdom fom\nconstituent parts that do not belong together ts improper, inthe authors\nlew, for a single man to rule over both Greeks and Persians. This was no\nseademe comment on an ard historical mater: for Senecss contemporaries\nthe Parthians to the east ruled resutected version ofthe Pesian Emplte\nthat Alexander had subjugated The impleation fr Roman leaders was pal:\nAf Alexander had gone astay in adding Persian teaitry wo his empire, then\nwould-be conquerors ofthe East Ike Crassus, Caesar and Antony had made\nthe same mistake Parthian tenitory constcuted \u00abpart of the world that was\nbetter kept separate from Roman power, Rome's emperors fllowed in the\nMacedonian\u2019 footsteps at thelr wn perl.\n\n\u2018The Kea reoccur, n a still more vehement formulation, n the Baum\nCivie of Seneeas nephew Lucan, As Caesar heads to Egypt, the land where\nAlexander was buried, the poet takes the opportunity t0 deaw an implist\n\u2018comparison between the Roman and Macedonian conquerors\" The deceased\n\u2018ings eviled asthe mad ofspring of Pellaan Philp \"lucky lunderer, and\n\u201can ei fatal to the world Lucan considers Alexander\u2019 miss ambition to\nbea wicked transgression. \u201cIf Uberry were ever to restore the world to itself\nthe poet laments, \u201cAlexander would have been preserved for mockery\u2014born\nto be a bad example tothe world that so many lands could be under the\nsway of one man\u2019 As in Senecas evaluation, the king i faulted for olning\ntogether disparate Kingdoms into single polity, a decison that stemmed fom\n\u2018madness, Impudence, and an unchecked lst for power and that enderd him\n\u201can archetype of tyranny and megalomania\u2122\u00ae\n\n\u2018radelas man far ads ue plas ga gfe morn lm a,\n18 Spencer(The oma Alen 2-73 dace he pase commentary hema\nsc lwp education ee\nSefer A Luca: Anton (hs Col Una Peat).\nsorbate Nad Kine Lue und der Ppa tons nd neers\n\u2018hen is Coe en De Grae 9 p35-9, who batted\n81 Lae nan lon pk yen Pps Flr; Taran malun\nSs Laesna5 inane unguan side obe| do somatr ont on ute\nnett empl era ot poss oe. CE ae 98.\n\u20185 jonathan Tay ua yin Co Wr Cambie: Cambri Univers Pres 04)\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    127,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 23,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    75,
+                    72,
+                    437,
+                    658
+                ],
+                "ocr_text": "How did such negative appralsals resonate during the late Republic and\nPrineipate? In contrast to treatments that tried to use Alexander to legtmize\nsind promote easter imperialism, traditions hos ta the Macedonian king\n[implied that Romans who ventured east of the Euphrates were overstepping\nthelr bounds, projecting the empiee\u2019 power Into a region where it didnot\nbelong Such a view could be dificult to reconcile withthe polite ideology\nof impertu sne fine (omspte without lini), an atitudeto conquest that was\n\u2018woven deep ino the fabric ofthe empire All he same, one way of remem\nbering Alexander emphasized that the King ad gone, both geographically and\n\u2018morally, nt places where the Romans were not supposed to follow.\n\n\u2018addition to move pedesttandespotie excesses \u2014drunkennes, rapa,\nsmegalomania\u2014the negative Alexander tradition attibuted a vce to the king\nthat clashed dramatically with tadonal Roman virtue: he was accused of\ngoing naive of succumbing tothe Oriental degeneracy against which he had\nfought\u00ae* The charge had its bassin his adoption of Achaemenid aulle cus\ntoms, including Persian dress culinary habits, and especialy ritual protation\n(pmstynesis) Plutarch defended these measures as canny politcal leader\nship and Diodorus stressed thelr limited implementation, but the test ofthe\n\u2018Alexander historians saw a degeneration Into \u201cthe evll ways of foreign and\nconquered peoples\u201d Other Roman commentators tended to follow the la\nter view, with the esult thatthe theme of Alexanders moral decadence under\nthe corrupting influence of the rlentbecameaverable pos of Roman liter\nsture*Inhis meditation on the hypothetical outcome of \u00abwar between Alex\nander and the Romans, Livy opines thatthe Macedonian \"would have come\nto haly more lke Darius than Alexander\u201d because of his adoption of eastern\nstom There was a sense that, in conquering the Persians, Alexander had\nbecome one of them.\n\n14 Te pave fom ery Ao. On Homan atest meri expan ee\nWile a War ad pertain eps Rane 77ers Nee\nrk ladon Pes) the Repub pd ad CR Wht ae nds\n\u2018onter The Dyan pe (Ne Yor Hodes, 30) 42-46 Price\n\n5, Forman views of Alanders dante see Spee Te Raman Asan 86\n\n$6 SCA Barwon Conus al Ep The eg of lander the rat (Cambee\n\u2018New Yk CambegeUneraty Pee wh 2a\n\n7 Gurbas-porgingt deca getun mal Az 474-298 On Cort\n\n8 ane, Dan the Shadow Asan 25 hth con 0-2.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 24,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    93,
+                    65,
+                    455,
+                    651
+                ],
+                "ocr_text": "(nthe tanan side, one surviving ation held that Alsxaner had not\nbecome a Pesan: be hal been om Pera. Acording to this version of the\nlegend, Alexander and bis opponent Darts irs were hal other, sos\nthe great Kayanan her Dah Alexanders other was Ni, the daughter\nof Pillp\u2014wh, as mentioned above, wa eardd in Iranian radon a 4\noman king Php gave Nido Dar sa wf Darth displeased with ber\nrmlodorous breath, epuated her and sent her back to Philip though she\nMas aleady pregnant with Alexander To cove the shame of her ection\nby the Persian ing Philip claimed chat he waste fate, ann tne named\n\u2018leaner the crow prince of Rome Inthe meantime, Di ook another\n\u2018ile fom whom Did was bom year oro afer Akar\nTis genealogy meant that Alexander could be, tone and the same tine\na loginateKajanian King and a foreign oman ntetper sre nthe\nSenda eft tension between these two ene. Overall Fedowats\nportals potive:the Kings beau wisdom, and temperance are empha\nthroughout the nate. none seen, when Alexander vs Dangle\nHshalvoter observes tat he saan with fr, the yal plendont that\ntas the hallmark of Tania kingship? When Di is attacked by two of hs\nCouncil, he des in Alexanders ms afer asking hi alto matty hs\ndaughter Zoroastrian andto mala anin festa\u201d Aer\nDarts death, Alexander esses is new Peransbject that \u201conthe\nSame now att ays was and shorty afterwards he pus onthe Kayan\nth Fendosls poem, thse marker of Inlan Kinship oes with ater\n\u2018hares many fetes with the Letter of Tana, Alexanders Sal plans ate\n\u2018aidtohav aimed protecting Rome fo reg invasion. Aisle adies\nnto leave Pers nobility lve bt snide the Kayan a\naN ath se Mani Mund he etn he Sn Ran\nsty sts\n\n+ Theta nerf Dn Sahn 55) ih nie ri\nae aa, in nh a roe aon gh\n\u2018evil behs ipe aan -y- eo\n\u2018eyo 36\n\n2 Atl tah unt al ney Dao\n\n3 tp tah Same Inne De.\n\nStl Mota omni oy gl sar\n\u2018ed whe nic seh\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 25,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    84,
+                    74,
+                    444,
+                    656
+                ],
+                "ocr_text": "shld for your whole rain he urges, Ifyou dont want an amy to come\ngait Rome\" In contrast to ear passages, Alexander seems oto be\nthan the defence ofan, Laterinthe poem as Ferdowsl naratesthe nae ofthe\nSasanlans, the dynasty founder Andel wil velgh agaist the wickedness\nof Alexander who he clams \u201clled our ancestor one by one and unjustly\ntook the wold Int his fst\" There Isa this point no acknowledgement\nthat, according to eater passages, Alexander was one of Ards ancestor\nDferenttradtonssuroundingthe Macedonian calided inthe same tex and\nFardowa evidently saw no need to reconclle them?\u201d\nTris not ey to explain these screpancle, for hey strike atthe heart of\ncontroversial questions about Ferdowsls method and craft as a post ofthe\nTraian pas. naybe that che text means to highlight Andeshirsduplctous\nshetokthe reader should notice thatthe Sasanian founder reworking the\npast in order to justi hs rebelon guns the established poll oder and\nthat hei miseprsenting Alexander\u2019 lineage But some schoats take the\n\u2018lew that inconsistencies in erdowsl tem rom conttadtons in is vatous\nsources, wheter oa or writen?\u201d Faced with two or more derent accounts\nof Alezandershetage peshps the poet dose to tansnit both versions and\ntolmmbue his tex with the uncertainty thithe himself faced,\nMFerdowsl indeed encountered the pose Alexander none ofhissoutes,\n\u2018what accounts forthe King's integration into the dynasties of ancent Ia?\nScholars have offered several explanations\" One posal s thatthe pop\nlant ofthe Alexander Romance in the ate Sania period forced a econ\neration ofthe ings lay softening attudesto Alexander among the aan\no> Hiab Madghand Oni Shana a 6 ie\n(ase SO8 le wpe ter DOM fee Dn Sanne\n\n6 Rushigca and Oat shtnamct rhe\n\n8 Seed Dns Ea nt eon Teneo eda Shc een\nUse of Ata resp) hogs th he eo eds poo\n\u2018ut aha tran ne atop ene.\n\n9S Sapa dna Carp (Cnn Mada aes\nso) ens tain Th eg ant Maton ae ante\n\u2018Drucaton ew Cala Une Pan) 0\u00a2 tesla\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 26,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    99,
+                    76,
+                    457,
+                    645
+                ],
+                "ocr_text": "nobility and reconeilng his eign with the national tradition Another that\nthe pre-islaie Alexander was fundamentally reworked in the centrls fo\nlowing the conquest of han by the Muslims, who considered him a leader of\nreligious and moral vitae as well as worldly succes =\nBut Is also posible thatthe good\" Alexander had deeper rots in pre-\nIslamietran. A recent suggestion by M, Rahim Shayegan traces the possble or\nns of ths tradition back o the Asie perod\u2122 In Tact\u2019 description of a\nletter written by Artabanus 1, Shayegan nots, the said king justlfes ister\ntora clams by way of reference toa double herltage: fist, the Achamenid\n\u2018empire founded by Cyrus the Great and, secondly, the Macedonian empire of\nAlexander\" If the Arcs claimed both Persian and Hellenistic sncestry\u2014\n23 for instance, thelr contemporaries in Commagene and Ponts seem to ave\n\u2018done-then there may be some basi fora positive Iranian assessment of Alex\nander\u2019 legacy long before the Sasanlan o Islamic periods To be sure, thls\n\u2018argument restson uncertain foundations: x sen above in Coero'sreproach of\nPublius Crassus, the palring of Cyrus and Alexander was also a zpos of Latin\nIwratute, and iti impossbl to cell where Artabanus word end and Tacins!\nceaboldery begins!\" But recent work has shown thatthe Arscld\u2019 engage\n\u2018ment with theculrure and ulingstategles ofthe Hellenistic kingdoms, though\n{Ont aught unin Mie ensan sensi th Aland Romance ee sbne,\nnz See Zeina \u201cThe Alsander Reman in he Aa Hat Rabari Wy So\n\u2018Many Seta Frittata he pote ental a prod\nano the mic priod se Hoye and Geet AHsryof Zaman Bo 43:\n[A Mb \"agate Alani en asin At et Come atom a Psa nde\nGrace aman Rama epi ae: Academia Nene dl Le) 9\nsch at Nema Di (os) withthe nos a Maren adi, ap\nst a 8 Homan Preps of Commarea Ray gia Kap\na images the Ant Near bat, Oe and ane, Richard ale and Oe\neke (Sgr: tine esa. 200) 7-n an Richad Fe Mot Frnt\naoe Tao and Lepsimacy in Parthan Real eon Imaginary Kp Ra\n(Sut tener egos, Fort nce ofthe ont ig Madar\nptr aaa ceptions Sac ySayege, Ana and Sans\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    100,
+                    77,
+                    128,
+                    94
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 27,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    81,
+                    100,
+                    441,
+                    652
+                ],
+                "ocr_text": "sometimes overstated, was far from superficial. The possibilty exists, there\n\nfore, that postive evaluationsof Alexanders legacy had alongand complicated\n\nstory onthe alan plateau, competing with and in some contexts superse-\n\nIng the negative image ofthe ruler that Zoroastrian texts preserved,\n\nConclusion\n\nAs te empires of Iran and Rome settled Into along and complex period of\n\nImperial contestation and coexistence, the memory of Alexander the Great\n\nsupplied an anclent precedent for contemporary politcal developments. In\n\nsome respects, the Macedonians invasion ofthe Achaemenid Emplie set the\nstage for the Roman-Prsian relationship, which took the form of an east\nwest rivalry between the imitators of Alexander and the descendants of his\n\n\u2018opponent Dard. For Romsan commanders and the authors who recorded ther\n\ncexplots, Alexanders example provided a reference point with which Roman\n\naccomplishments inthe East could be measured, compared, and contasted\nforthe Sasanins (and pethaps the Arscids too, though the evidence fr thelr\npeti far more tenuous), the eampaigns against Rome in the west might be\n\nJusfied asa fight to avenge the Kayanian dynasty that the \u201cRoman\u201d Alexander\n\nhad destroyed\n\n\u2018To be sure, Alexander\u2019 legacy operated differently in Iranian and Roman,\ntraditions, because the two sides had diferent conceptions of history. The\n\nPartlans and Sasanians sem to have assigned Alexander the Roman identity\n\nof thelr contemporary rivals, mapping the clrumstances of the present back\n\n\u2018nto the past The Romans, onthe ether hand, alld ther easter foes Medes,\n\nPossans, and Achaemenids\u2014boreowing tenn from older Greek terature on\n\nthe Achaemenid to describe thelr enemies in the present. In ths sense, lan\n\nans used the present desenbe the past, andthe Romans the past to desertbe\nthe present. In both cases, though, the International arena was interpreted by\n\n\u2018means of an historical analogy: the Romans took Alexanders place, and the\n\nParthlans and Sasanians assumed the mantle of his enemies,\n\n107 Se Jnl Wieser, \u201cDean Orde war dr pechichen Sprache wd Lira ct\nNot Gensco any Reinhard Dats (Minter Ua Va\n0} 9) Ta Mae ye Phan eek Cte and Beye a Within Cir\nlef Act aan Utes Ss Hao Pfr Mara Deeb Kala\n\u201cTardowa ea (Kako Towa Wyden Mita 04) 9\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    88,
+                    73,
+                    439,
+                    172
+                ],
+                "ocr_text": "Sometimes overstated, was far from superficial\" The posibllty exists, there\nfore, that postive evaluationsof Alexanders legacy had alongand complicated\nstory onthe alan plateau, competing with and in some contexts superse-\nIng the negative image ofthe ruler that Zoroastrian texts preserved,\n"
+            }
+        ]
+    },
+    {
+        "page_number": 28,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    92,
+                    74,
+                    459,
+                    658
+                ],
+                "ocr_text": "But even as this analogy helped commentators in both Rome and Iran to\nexplain the historia foundtons ofthe relationship between thetwo empires,\n{e coersted and clashed with altemate visions of what Alexander\u2019 career\ntad meant, One version of the Aletander legend in ran tuned him ito a\nlegitimate Kayanian and a devout oroasrian\u2014the same dynasty and religion\nthat other text insist he vied to destroy And in Rome, the negative evaluation\nof Alexander by historians, philosophers, shetoriclans, and poets could cast\nddoube on the project of bringing Persia and is subject peoples into Roman\nImperial space, mounting a challenge to the ideology of expansion that was\notherwise deeply entrenched among ruling elites.\n\nlina word, then, the reception of Alexander in Persia and in Rome demon\nstrated toboth sides tht thet conflicts and antagonimishad deep roots nthe\n\u2018fet past. n thelr own ways resident ofboth empires used thelr histories of\nAlexander to explain why the anclene world had been dived between them,\n\u2018nd to articulate how that division reflected tensions that were bigger, id ran\nsep, than thelr wn era. Bu the memory fhe Macedonian vas never stale\n\u2018oruncontested,andhiskingsip would always bevariouslyassersed. Alexander\n\u2018was one way thatthe Iranians and Romans thought through and interpreted\n\u2018heir relationship to one another, but there was always more than one way to\nread his story.\n\nBibliography\n\nAbe, A. \"a gue 'Alexandse ena\u2019 At del Conve sl tea Peri\n\u2018ond Gres Romana Roma, 4 apie, 334 Re: Accademia Nexon\nei Line i.\n\nAack, FE. \u201cCaesar Dictators: In The Cambridge Ancien str, ite by SA\neh. Ane hen sy ange Cnt\nsy Prese ie\n\nAles, ric Vlorizing the Barbarians: Enemy Speches in Roman itrography Austin,\n\u2018pe Unseniy of Texas Press ao\n\nA Frederick, Lacan: An ndacton. hte, Corel Uninet Press a6\n\nAkins, Johnny ands Limits in the Alexander Sources of the aly Ea\nlw i Alezander the Great in Fat an ction cited by AB, Bosworth aE\nBaynham, 307-35. Onfors Oxford University Pres 2500\n\nAaya, Elizabeth, Meander the Great The Unigue History of Quinte Carts A\nArbor University of Michigan Pres, 98\n\n\u2018lo, Henriete van dx Cito ole Model The Pita Strategy of Newcomer\n\u2018Oxf Oxford University Pes 200\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    424,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    95
+                ]
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    100,
+                    392,
+                    450,
+                    647
+                ],
+                "ocr_text": "Bibliography\n\nAbe, A. \"a gue 'Alexandse ena\u2019 At del Conve sl tea Peri\n\u2018ond Gres Romana Roma, 4 apie, 334 Re: Accademia Nexon\nei Line i.\n\nAack, FE. \u201cCaesar Dictators: In The Cambridge Ancien str, ite by SA\neh. Ane hen sy ange Cnt\nsy Prese ie\n\nAles, ric Vlorizing the Barbarians: Enemy Speches in Roman itrography Austin,\n\u2018pe Unseniy of Texas Press ao\n\nA Frederick, Lacan: An ndacton. hte, Corel Uninet Press a6\n\nAkins, Johnny ands Limits in the Alexander Sources of the aly Ea\nlw i Alezander the Great in Fat an ction cited by AB, Bosworth aE\nBaynham, 307-35. Onfors Oxford University Pres 2500\n\nAaya, Elizabeth, Meander the Great The Unigue History of Quinte Carts A\nArbor University of Michigan Pres, 98\n\n\u2018lo, Henriete van dx Cito ole Model The Pita Strategy of Newcomer\n\u2018Oxford: Oxford University Press, 20,\n"
+            },
+            {
+                "instance_id": 4,
+                "class": "Text",
+                "bbox": [
+                    92,
+                    84,
+                    446,
+                    370
+                ],
+                "ocr_text": "But even as this analogy helped commentators in both Rome and Iran to\nexplain the historia foundtons ofthe relationship between thetwo empires,\n{e coersted and clashed with altemate visions of what Alexander\u2019 career\ntad meant, One version of the Aletander legend in ran tuned him ito a\nlegitimate Kayanian and a devout oroasrian\u2014the same dynasty and religion\nthat other text insist he vied to destroy And in Rome, the negative evaluation\nof Alexander by historians, philosophers, shetoriclans, and poets could cast\nddoube on the project of bringing Persia and is subject peoples into Roman\nImperial space, mounting a challenge to the ideology of expansion that was\notherwise deeply entrenched among ruling elites.\n\nlina word, then, the reception of Alexander in Persia and in Rome demon\nstrated toboth sides tht thet conflicts and antagonimishad deep roots nthe\n\u2018fet past. n thelr own ways resident ofboth empires used thelr histories of\nAlexander to explain why the anclene world had been dived between them,\n\u2018nd to articulate how that division reflected tensions that were bigger, id ran\nsep, than thelr wn era. Bu the memory fhe Macedonian vas never stale\n\u2018oruncontested,andhiskingsip would always bevariouslyassersed. Alexander\n\u2018was one way thatthe Iranians and Romans thought through and interpreted\n\u2018heir relationship to one another, but there was always more than one way to\n"
+            }
+        ]
+    },
+    {
+        "page_number": 29,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    71,
+                    444,
+                    651
+                ],
+                "ocr_text": "hun, Cla Imiatie Mean Helieomus Untereucngen zum paitschen\nNachwiken Manders dex Gran in hoch nd spithellentachen Manarcien,\nManic td, 985,\n\nSonor. Al, Conquest and pir: Te eign of Aeconder the Great Cambridge: Nee\n\u2018orks Cambridge Unversity Press 1988\n\nSonor, A rom Ania a Alevander: tue Matoricl Interpretation. Oxf\n\u2018Clarendon Pres 98,\n\nSonor, CE The Histor Al Tabar Vl The Sind the Byzantines, the ath\n\u2018mids and Yemen Albany State Univesity of Nev ork Pes 99,\n\nBoye, Mry.\"Midle Persian Literatu\u2019 landck der Oriental wl 421-66.\nCologne, 68\n\noye, May \u201cSomme Rema on the Transmiason ofthe Kayan Hei Cyc ta\n\u2018Seta Conabrigionsia 45-5: Wiesbaden Fane Seiner 193\n\nBoye, Mary. The Ltr of Tansr. Nome: itu Kaine pe i Medio Extremo\n\u2018ent,\n\nBoyce, Mary, and Frantz Greet A Mitory of Zoroastrian. Vol 5 eden: Bail\n\nBrant, Pe. Dari in the Shadow of Alexander. rusted by Jane Mati To\n\u2018Cambri a Landon: Harvard Univer res, 235.\n\nBrun, A. \"Persian Accounts of Alexander's Campaign Classi Quartets 96)\n\nCanepa, Mathew. The Bo Beso the arth Art and tale Kinship betvcen Rome\nan Savana ran, Berkley: University of Calloria Pret, 2909,\n\nCert ino GL letra abla inredacionea tet con rfrient el storia\nsegue radisione manasa Mia: Mime 2005\n\nCert Carl The Zand Wahman Yas: A Zoot Apoclpe. Roma: ito\nItaliane peril Medio ed stem Oriente 05\n\n(Cok Jamshced K Conflict and Cooperation: Zoroastrian Subaernand Maslin tee\n\u2018Medial ania Soe. Nev ork: Columbia Univesity Pes. 1997\n\nCCastemen, Ath Les Ryonides, Copenhagen: Ande Fed. Hst 9\n\nCGiancagin CA The Sie Version ofthe Alexander Romance Le Mason (2000\n\nDery, Tora\u201c Alerands ands pact om Late Artec Early Satnian and\n\u2018Mile Persan iterate\u2019 lecrum (2007-89-47\n\nDarya, Tour} \"Natinal History Keyan History The Nature of San Zora\ntclanHstrogrphy\u2019 ani Stier 38 035 195)889-4\n\nDaryee, Tour \u201cRfahioning the Zoroastrian Pat From Alexander to ln The\nZarosran Rae: Esplring Region, History and Traian edie by A. Wain,\nStewart and A. Hintze 195-1 Landon: 18 Taare 206-\n\nDaryee, oun \u201cThe Changing Image ofthe Work Geograph and imperil Props\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 30,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    93,
+                    67,
+                    454,
+                    648
+                ],
+                "ocr_text": "sa in Ancien Perit: nation andlannaton te Ancient Wor ited by\nara brows -199- ral Jeli Univer Pes, a0\n\nDaya Tours \u201cThe Const othe ts ae Anigue Pei Mat Zt\ncnr di Gch (2008 89-59.\n\napse Tra Zrestianan nder pe Rl! a The Wik lace Compan\nib to Zarsraniom, ited by Michel Stabe ed han Saab Disa\nein oy Chichester Wiley Bll ms\n\nDavidson, Og M. Compara ttre nd Clas ein ot: Seen Es\n\u2018Cons Me cx Manda Pb 993\n\nDavidon Ole Mera Ein A Companion to Ancient pe ete by\nbn ie Fol 26276 Mallen aac Bel 29\n\nDavid Ola, et and een the Psion ako Rng Ms Coel Univesity\n\nDavia, Dick, Alyse endows: Sanam: The ean Bak of Kings New Yr\nPegs ser\n\nDavi Dick fe and Sli: The Case of Frets Shieh etl\nUne of Adan Fae\n\nDavi Dick \u201cThe Probl of Ferma Soucer: Jura ofthe Amen Orta\nSey 6 m0 (mas\n\n\u2018Defong Alber \"Rlgon od Poin Presi Te Wiley ate Cam\nnon to Zetia, lite by Michael Stern Yan bab Dinca\nein nn Chichester Wey ack 0\n\nDenton Zou Fable Wengen The Cambridge stro tied\nby That vol 66-9 Cabrge Cambri Unter Pes\n\nDove, Ken The Alen Romane\u201d In Called Ancient Grek Ro elite by\nTP Reardon 62-75 Brey cc Unies aoa Pes\n\nDura, Koy. \"Who Are the Romane? The Defition of Bid ALR (Land of he\nTomas) Medal ac Geoguphe: onl nero Stade 9-3\n(eo) 385-8\n\ncla, Mapes.\" xl lie Rortn Pepin of Commageian\nTeyana Ringe: Real agein he Ancient Near Eat, Ceca Rae,\nsted Richard ower and Olver Helter 8-03 Stig Stine Vera\n\nove Riad \"Most ert Ran To ed Letina nari Raa\ndlgray nage he Act Near Et, Gree and\name ete by Ole Heer and Rand Rover 51 Saige Stine\nrag 2005,\n\nox ane. \u201cThe inert of Alexander Constantia alia The Clase Qua\ney. 20-25\n\nFe chard \"To ana Note In apr Honor of Prof Mev 85-\noo-tiden Bil 8\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 31,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    60,
+                    441,
+                    656
+                ],
+                "ocr_text": "(God, Sayed MAM Taba Tlesof Alecander History and Homanc\u201d In The lean\ner amance Persia an he Fast elite by Richard Stoneman, Kyle Eichson, ad\nIan fichard Neto 29-29 Groningen: Baris Publishing 202\n\nGallard, Marina. Asan le Grad en Ira Le Dib Nic Abu Ter Tras\nPari De Beard 2005\n\nGignous, Pipe La d\u00e9moniation Alexandre Grand aps aitratare eb\n\u2018en ronan Languages and Texts from ran and Tran edited by Mara Macuch,\nMauro Maggi and Werner Sundersana, Sy. Wishades Hartt Vesag,\n\nGroen, Pete \"Caesr and Aleander: Acmlitis tat and Comparten Classical\n\u2018Bearings ntereting Ancient History and Cult 209 Behl, cX Univers\n ClloriaPres 80.\n\nCrone, Frnt, Legs Adachi de Pig = Krag Aran bagi, De\neons A Di, 203\n\nCigna Mari \"La Nhat Ara Abbas Wa rete Sar Mali\n{Aju dP Ta Moga\u201d ult tester 6173) 89-184.\n\nGruen sch S.Reviw of The Roman Aesander: Reading Caltural Myth by Diana\nSpence\u2019 The intrtional Histor Review 35,2298): 639- 6\n\nGruen, Eich. Rome andthe Myth of Alexander ln Ancien ior na Modern\nUniverse by TW. ll LA Keane, CEN-Nizon, apd AM Noblis vo.\n_-au Grand Rapids Mt Eerdmans 98.\n\nGolem Tika, \"Noman and Sasa inthe Td Century: Propaganda Warfare\nud Ambiguous lmagey In Commute Content: Studi the Late Roma,\nSwoon, and Barly namic Near Eat ete by Joset Wiseher and Henning\n\u2018Bem 1-87, Diseld Wllem Ver, 209\n\nHa, Thomas East and Wet Coxmepoitan and Imperial nthe Roman Alexander:\nIn Alexander the Gre inthe Midile ges: Trance Perspectives, eed by\nMar Stack 1-25, Toronto: Universo Toronto Press, 208\n\nHamcen Anta, asl \u201cA Kira and the Arabic Tatlaons of the Khwadias\nag: Sd rental (2065-9.\n\nHarnmond, NGL Sources for Alevander he Great An Anabyi of Park fe and\nArran\u2019 Anabass leondras. Cambridge: Cambridge University Pres 903.\n\nHarnmond, NGL Thre Matron of leander he Great The Called Vulgate Au\nthr, iadrus, tin and Curtis Cambri Cambidge Univer Press, 183\n\nHares William V. Waa pera in Republican Ram, 327-708. Oxo: New\n\u2018eke Clarendon Pres.97.\n\nHauser Stel. \u201cDie ewigen Nomaden: Bemeskungen zu Herkunf, Milt Stats\ntu und nomadischen Taitonen der Anakden In Krieg-Geelcf- Initio\nen Beiige 2 ciner egichendenKreageschicht, ited y Burkhard Meine,\n(Ole Schmt and Michal Sommer 65-208 Hel: Akademie Verlag 2905\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 32,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    65,
+                    452,
+                    652
+                ],
+                "ocr_text": "eas lA der Gre unpeeled Ake\nlA a5 4\n\nah la oo en a Sere Th ith of oats\nhe Or ld eta ese ac\n\naor, ipa reenter chimes a es Stane ne\nneil by WSs Cron Sa Sevarap The eet han\n\ntune ej helen acon Cant nia Prato Pinto\nshams! pray\n\ntamstappets Mares oppo Sain recht des Pater\nhsu-e nda ace hferang Sow nommsobel\n\neen Ethie fork de Achinesderes rch Ards ie nt\nret flonan Onsen iden\n\nrae em fds eae Bo ig,\nTol Cnt tn, eo rk Mek bles\n\nnah Dp so MO ee Fed The Shae\nrent of Rg) Casco or Mana Peis\n\nse N on tae Po sew wei ele\nintalam Ge Bet Be rn\n\nsek Pili Snel Haya onan Menon Pani\nPap Kye esr Hasse\n\nhe nl eit orient ith hy Ch}\n\u2018Mane homage\n\nteu Cats nage es Prth das monde rman Sug ene\n\nMarra! et! The aoe of Perel by\nToi feel a Mach t-te Pe\n\nMalick SL -alstideatnandAlnanienat:icl QuartehNew\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    94
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 33,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    80,
+                    67,
+                    442,
+                    652
+                ],
+                "ocr_text": "Manteh ai \u2018Aexanderthe Great inthe Shieh of exdows In The Alexander\nmance Persian he Est cited by Richard Stoneman, Kye Erikson, and an\nichardNeton 6-4 Groningen: Bars Publishing 24,\n\nMathews John F. \u201cHostages, Piowophers Pies, and the Dillion of eas in\n\u2018he Late Reman Medieranean and Near Eat\u201d In Tuition ane norton in Lat\nAnti, eited by FM, Cloverand RS. Humps, 2-59, Madson-Univesis of\nWisconsin re 89.\n\nMiche, Dorothea. Aexondr al Vorb fir Pompei Carer and Marcus Antoni\nArchilogiche Untrschungen Brel: atom 1967\n\nMig, Fergus. The Roman Neu East 5-8-aDggy. Cambie Mas London: Haran\n\u2018Univer Press 2905-\n\nMokdtarin ton Son abhi Sorcerer Kinga Prete The Cale of he Tad\n\u2018Ancien Ian Oakland, Cx Univers of CloriaPres 25,\n\nMonfererSala Juan Pedra \u2018Alexander the Great in the Syriac Literary Triton\nCompanion to Alecander Lerten the Middle Age, etd by David iy\n4-73 Leiden Boston Bal 28,\n\nMiller Sabin. lewd Makedonien ur ese. Bei Tal. 20s,\n\nNoldee, Theodor \u201cBeige xr Geschichte ds AlexanderrmansDekachrfien der\nKaserlihenAladeie der Wissenschaften Clase phi it Klas 8, 205 (892).\nolde, Theode\u201dGeschict des Atachir Pipa, usdem Pelewiaersezt mit\n\u2018Btierange und einer Enkitang verschen\u2019 exer: Bite sor Kad\n\ner indegermanichen Sprachen (7) 2-69,\n\nNoldee, Theor The raion National pc Or The Shalom Tanlated by Leonid\n\u2018Bogdan Phiadephis: oreupne Pre 175.\n\nOlbycht Marek \"Parthians Grek Cult and Beyond a Withir the Creo Ancient\nHear and Virtuce: Std in Henour of Profesor Maria Dect, ede by Karls\n\u2018wardwia, Maci Salamon, Savomir Spr, Michal Sacha, and tani\nTure 29-4. Kealow:Tovargstes Wydswaicee \"Historia agelbnics\u2019 208.\n\nOnde M.\"Oraliy, Morance and Elta Tear in Shines Stes Jerse\nTem Sie Arabic and lar (2909) 295-28.\n\nalr allah. undehin:ZorastriacheRoamagone und Rosalie Tbr Cen\ntee lrthe Great amie Encylopedia 205,\n\naye, Richard Coxmology an the Expansion othe nan Empire 502 Go8 Past\nton Preset 0,00. (209) 3-3\n\nelma, Moshe. Te History ofl Taber Va. The Ancient Kingdoms. Albany,\nState Unvesiyof New Yor Pes 0\n\nter DS. The Raman Empire By, o-39. London: New York: Roulede. 204\n\nPoushara, Pare, Decne an fall the Sasanian Bir: The Ssanian Parthian\nConfoeray andthe Arb Conquest of ra, London: Tai 258\n\nRech Kal\u2018 Mermory and Textual inthe Oral Literacy Contin Ory and\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    426,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 34,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    95,
+                    75,
+                    454,
+                    655
+                ],
+                "ocr_text": "etal the Ionian War Patersoflatracton cro the Centuries, ite by\nJu Rubanovih, 1-4. Leen: Boston: el 205\n\nRuban Jia, The Shab nme and Medieval Orly: ital Remarks onthe\u2018Ora\noct Approach and New Pespetive: Mil Eastern Literatures 602201)\n\nRuban Jul. \u201cWhy So Many Storie? Untangling the Versions of lkandar ith\nan Upbringng nO ad Txt he ania Wel Peters of interaction\n\u2018acrosthe Contre, cited by ua Rubanovih 202-249. Leien Boston 05.\n\nyholt Kim ita levandein Egyptian Literary Tat tnhe Remanc been\nGreece a the East ted by Tas Whitman and Sta Thomson 59-78. Can\nInde: Cambridge Univer Press aon.\n\n\u2018Sencs: Weerdenburg H. \"Yaa bythe Sea and eon the Ses I Ancient Preto\nof Gee diy edited by 1 Malin, 22-34. Cambridge, scHarardUnvesty\n\nSovant, Sarah owen The Now Mans of Pt Conquest Ira Tadton, Memory. and\nConversion New York Carbide University Pes 205\n\nScheer, Rol Michel. Die Fasintion dex Fendes: Bilder der Panther und des\n(Orient in Ro In Das Parthervch nd ene Zeiss = The Arvid Empire \u2014\nSource and Docmenttion:Betrige der international Colgan Einar\nJuni, cited by Jose! Wiescher, 95-1465. Sttga: ran Steiner Vag, 998\n\nSeiden, Daniel L.\"skander a the Ue of att The Romance between Gece and\n\u2018th Eat cited by Tr Whitmarsh ga, Cabridge:CambrdgeUnierty Pres,\n\nSelden, Daniel L \u201cMapping the Alexander Romance\u2019 In The Alexander Ramanc ia\n\u2018ers aed he Fate by Richard Stoneman, Kyle Eichson and an ich\nNeon, 59-39. Groningen: Bartha Publishing 20.\n\nShabaa A Shap Fedows Critica ography. Cota Mesa, Cc Nazda Publabers\n\nShab, AL Shp \u201cOn the Xa Nima\u2019 ric ra: pes Honor of\n\u2018Dfesr Eh Yrhater, 298-2 Leiden Bell 99.\n\nShayegan,M. Rahm. Arocide and Seanians Plc! colagyin ot Helene and\nTat Antique Pia Carbide NewYork Cambie Univerity Pes 20.\n\nShayean, Mahim. Aspect of Mitr and Epi in Ancien ran: From Gouna\nii. Washington, De: Cambridge Harvard University Pres 20:\n\nShyer Prods O. \"Avestan Society In The Oxford Handbook Iranian Hat, eed\n\u2018by Touraj Darya, 3-. Oar New York: Oxford Univesity Press. 25\n\nSith Rowland. \u201cThe Casting of lian the Apostate in the Lene\u2019 of Alnander the\n(Gres: Topos in Antique Histaograpy and Is Modern Echoes: tor 5 (200)\n\n\u2018Sonnabend, Hole. romdenbl nd Polit Vratelangn er Rimer vn eypten nd\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    101,
+                    77,
+                    128,
+                    96
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 35,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    82,
+                    64,
+                    444,
+                    653
+                ],
+                "ocr_text": "lem artherich der pen Republi und hen Kaveri Rar Mais\new ere Lang 86,\n\nSport, Anton. \u201cSymbol of Unity? The Persian Ws Traliton in the Roman En\nie In Grok Historiography, ete by Simon Hornblower, 333-247. Oxar: New\nTk Clarendon Pres9\n\nSpencer Dina. Roman Alesanders: pitemology and Meniy\u2019 In Alexander he\nGreat: A New History, edited by Waldemar Heckel and Lawrence Tle. 3-23\nMalden, 4: Wiley Blache 2009\n\nSpencer Diana. The Roman Alvande: Reading Cultural Myth. Exeter Sais in\nMiso Bute Univer of Exeter Pres, 2000,\n\nStet, Adrew\u00a5 Fae of Pier Aesande\u00ae Image nd Helen Plc Rekeey:\nUnvesiyof Callornia Pres, 99.\n\nStoneman Richard Alerander the Great Second edition, London New York: Roig,\n\nStoneman, chard, Aesander the Greats Life in Legend New Haver: London: Yale\n\u2018Unvesiy Press. 3008\n\n\u2018Stoneman, Keer. \u201cPenan Aspects ofthe Romance Taito In The Alexander\nRomance Persian he Bast cited by Richard Stoneman, Kye Erikson, and an\nichard Neton 5-8 Groningen: Baris Publishing 2:2\n\n\u2018Stoneman, Richa \u201cThe Legacy of Alenander in Ancient Philosphy\u201d In Bills Com\nonion io Alexander the Great eed by Joseph Rotman 525-34 Leiden Boston\nall 205\n\n\u201cTag, Jonathan. Lacan Egypon Cr Wr, Cambridge: Cambridge University Pres,\n\n\u201cTplin, Christer. \u2018Persians as Medes tn Cnty and Change: Proceedings of the\n{ast Achaomenid History Workshop, Ap 6-8 192, An Arbor Michigan, edited\nby Heleen Sani Weerdenburg Am\u00e9lie Kali, and Margaret Cal Root, 25-256\neden: Nedevands Inst wor et Nae Oosten, 199\n\n\u2018erin Yan Soa Dinshav. \"The Ground Wll ren But the Shah Not Fouad\n\n'Oraity and Textual in the \u2018Book of King and the Zornstran Mythoepi\n\u201craion Ory and etait the rian Werk Paterno Intercom acs\nthe Centre, eed by Julia Rbanovie, 69-190 Leiden Boston Bell 25\n\n\u2018Weippe Ota, \u201cAlexander Initatio und rmiache Poin epubiknicher Zeit\nPhD dine, ayers Jliay Maxine Uniertt Warburg, 97\n\n\u2018leh, Kathy, and Hanna Mitchell Revisiting the Homan Alexander: Anco\n(22 8-100\n\n\u2018Whitaker CAL Rome nd ts rte The Dynamic of Empire. Nee York: Rode,\n\n\u2018Wieshater Jose \u201cDenn Omdes war der giechichen Sprache un Literati\n\u2018nla Pathe Grechen und rechiche Kala In Varite delectt. ram und\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    16,
+                    425,
+                    34
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 36,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    96,
+                    80,
+                    458,
+                    598
+                ],
+                "ocr_text": "ler Westen. Gdenkchrfir eter Caley, ite by Reiner Dita, 723-734\nMinter Upp Verag 200,\n\nWieschifr jose \u201cGebete ir die \u2018Urshnes oder Wana und wi vercande Kjos\n\u2018und Dari ns derhistorchen Taton rans\u201d In Tadtin and Inemation i the\nAncient World ited by Ea Dybrowa, n-ny. Krakow: agillonan Univesity\n\nWieschiler jose raion Grecset mains. ars Assocation pourwancement des\nes rniennes a0\n\n\u2018Wieschifr je ranche Anspriche an fom aul eemaleachsimendche Tent\ntie Archdale Miteangen aus ran. 19 (986): 17-85.\n\nWieshilr Jose Rim as Enemy fra In Cultural Boring and thc Appropr\ntions Antiquity, edited by Ech. Gruen, 05-120 Stata: Fra Seine 3005,\n\nWieshilr jose \"The Accused and the Adventurer Alexander the Gretin Iranian\nTrain. In A Companion te Alexander Literature inthe Middle Age, edited by\n1 David Zawya een: Boston: Bel 20\n\nWicschilr Jose Zam Nachlcben on Achsimeniden nd AlenderIn Achaemenid\nHistory vine Conny and Change Praecding of the Last Achaemenid ator\nirks, Apal6-590~Ann Arbor Michigan, ted by Helen Sane Weeden\n\u2018burg Ami Ku nd Margaret Cool Root, 8-3 eien: Nee lands neti\noor bet Nabje Oot, 094\n\n\u2018With Alexander und Ronin Alexandre le Gat image tilt: expon\u00e9 suis\nledizusions, cite by E. Badia, 82-10 Genes Fondation Hard, 976\n\nWiseman, Michal Di artherin der angueichen Dichtungen tm Mae\ntang 8\n\nYamamot, Kumika, The Oral Baclrondof Pesan Epic: Stayteling and Poetry\nLeiden Bil 203.\n\narate ian Nations Hin\u2019 tn The Cambie History often, edited by\nEYarshater 3359-478. Cambridge: Cambridge Uniesity Pret 1985\n\ney \u201cWere the Seana Heit othe Achtemenid\u201d In Ad del Crmegna\n\u2018nternaionalesultemasLa Persianel Medio oma, Marzo Ape 79). 5\n\u2018op Rear Academia esol dei inet\n\n\u2018ia Ebahin, Reza. The Emergence of Iranian Netonaliom: Race and the Pots of\nication New York: Columbia UnvesiyPres 2016\n\n\u2018avy Z David \u201cThe Alexander Romance inthe Arabic Tato\u2019 In A Companion\nto Alexander Literate inthe Mid Ages, elite by 7 Davi Zawya, 73-8\nLeider Boston 2,\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    40,
+                    17,
+                    425,
+                    34
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Page Number",
+                "bbox": [
+                    100,
+                    77,
+                    128,
+                    96
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "page_number": 1,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    26,
+                    393,
+                    566,
+                    730
+                ],
+                "ocr_text": "Alexander the Great (356 BC - 323 BC) was only 20 years old when he was named the next King of\nMacedonia after his father was assassinated, The following 11 years witnessed the evolution of an\n\u2018outstanding leader who expanded his empire from Egypt to the Indian frontier. Despite success-\nfully conquering much of the world, he was afflicted with a febrile illness at the age of 32, which he\nbattled for a mere 11 days before perishing, Ithas been almost 2,400 years since his death, but\nthe exact cause remains a mystery. Did he die of natural causes or at the hands of conspirators?\nNumerous papers have been written about the illnesses suffered by Alexander, with the current\nevidence revealing a healthy 32-year-old man who developed fever and acute abdominal pain with\nrapid deterioration of his general condition leading to death within a short duration, We analyze\nvarious theories and discuss possible etiologies that may have contributed to his tragic death,\nInformation was gathered from primary and secondary sources found through searching multipl\nonline academic databases and the University of Southern California (USC), University of Californi\nLos Angeles (UCLA), and Harvard libraries. Unreliable sources and the unavailability of\nAlexander's body for autopsy make reaching a definitive diagnosis an impossible task; however,\nbased on existing information, we presume that he most probably died of a neurological cause\ndue to acute necrotizing pancreatitis and encephalopathy secondary to peritonitis. Other potential\n\u2018causes include fulminant hepatic failure, acute demyelinating neuropathy or Guillain Barre\nSyndrome, and arsenic poisoning,\n\nKeywords: history, cause of death, pancreatitis, encephalopathy, alexander the great\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    33,
+                    41,
+                    581,
+                    130
+                ],
+                "ocr_text": "\u2018As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not\nimply endorsement of, or agreement with, the contents by NLM or the National Institutes of\nHealth,\n\nLeam more: PMC Disclaimer | PMC Copyright Notice\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Figure",
+                "bbox": [
+                    166,
+                    144,
+                    517,
+                    215
+                ],
+                "image_path": "annie_extracted_data/Historical Perspective and Medical Maladies of Alexander the Great - PMC/Figure\\page_1instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    33,
+                    260,
+                    461,
+                    355
+                ],
+                "ocr_text": "Historical Perspective and Medical Maladies of Alexander the Great\nMonitring Estr: Alexander Muacevic and John R Alor\n\u2018ShriK Misha, \"2 adam Mengestab 88 and Shavsta Kosa\u2019\n"
+            },
+            {
+                "instance_id": 4,
+                "class": "Text",
+                "bbox": [
+                    83,
+                    107,
+                    344,
+                    128
+                ],
+                "ocr_text": "more: PMC Disclaimer | PMC Copyright Notice\n"
+            },
+            {
+                "instance_id": 5,
+                "class": "Image",
+                "bbox": [
+                    124,
+                    148,
+                    209,
+                    208
+                ],
+                "image_path": "annie_extracted_data/Historical Perspective and Medical Maladies of Alexander the Great - PMC/Image\\page_1instance5.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    33,
+                    60,
+                    557,
+                    645
+                ],
+                "ocr_text": "In July of 356 BG, in Pella, the ancient capital of Macedonia, King Philip I and one of his wives,\nOlympias, Princess of Epirote, were blessed with a male child they named Alexander. From birth, it\n\u2018was prophesied that he would go on to become one of the most powerful and successful comman-\nders in history (1)\n\nAristotle, a pupil of Plato and the most famous philosopher of his time, was appointed to train 13-\nyear-old Alexander in rhetoric, science, and philosophy. This training had a deep impact on the de-\nvelopment of Alexander's personality, helping him become a well-mannered, noble, and educated\nyoung man [2].\n\nIn 338 BC, Alexander's father, King Phillip, married Eurydice, the niece of Attalus. At the wedding.\nbanquet, there was a violent altercation between Alexander and a drunken King Philip regarding\nthe lawful successor of the kingdom, which led to Alexander being exiled from Macedonia along-\nside his birth mother Epirote [3]. After sic months, the tension between the father and son had.\ncalmed and Alexander was able to return. In June 336 BC, King Philip was assassinated at a the-\nater by Pausanias. Alexander, who was only 20 years old at the time, became the next King of\nMacedonia following his father's death [2]\n\nMacedonia was in poor shape when Alexander came to power: The neighboring Greek cities were\nso dissatisfied with the young king being named that they began revolting. Alexander marched to\nthe Danube, overcame the opposition, and then marched towards Greece. Later, Alexander\ncrushed the revolt of Thebes in 335 BC. This incident senta clear message to the rest of the world\nabout the consequences of disobeying Alexander. Subsequently, the Athenians apologized and be-\ncame loyal to the Macedonians [2].\n\nRight from the start, Alexander had a hunger for more power. His series of successful military\n\u2018campaigns lasted the duration of his reign, amassing conquests from Gibraltar to Punjab. He in-\nvaded Persia the following year in 334 BC, beating Darius III in two decisive battles (Figure 1),\nWith vietories in the cites of Granicus and Issus in modern-day Turkey, Alexander had conquered\nthe Persian Empire [3]. Next, he continued taking cites along the Mediterranean with siege victo-\nres in Tyre and Gaza en route to Egypt, which had been under Persian rule at the time. Finally,\nAlexander crowned himself Pharaoh and founded Alexandria in 331 BC on the North Coast along\nthe River Nile. Shortly afterward, in the city of Gaugamela in modern-day Iraq, Alexander would\nagain face Darius III, who had now amassed an army twice the size of Alexander's. Again,\nAlexander would take a bold victory, forcing Darius to flee and abandon his army. Darius Il was,\nthen killed by his own troops [2].\n"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    361,
+                    555,
+                    725
+                ],
+                "ocr_text": "Itis believed that Limnus, a Macedonian, had plans to kill Alexander by hiring Nicomachus, but\nNicomachus refused to participate. Instead, Nicomachus revealed Limnus's plan to his brother,\nand both the brothers went to Philotas, son of Parmenio, who was second in command of\nAlexander's army and a loyal friend of Alexander's father [2]. The brothers tried to meet\nAlexander, but Philotas kept avoiding them. The brothers were finally able to meet Alexander with\nthe assistance ofa third person and told him the entire story. Alexander wanted to examine all the\nfacts, but before he could, his soldiers reported that Limnus had killed himself prior to his arrest.\nAlexander grew suspicious and executed both Philotas and his father, Parmenio. Soon after this in-\ncident, during a party, Alexander had a heated argument with Cletus, one of his close friends. On\n\u2018one occasion, Callisthenes was invited to speak about the Macedonians\u2019 wrong deeds to learn\nfrom them. Although Callisthenes was a powerful speaker, he had poor judgment. He said some-\nthing offensive, which made Alexander furious. Some say that Alexander executed\n\nCallisthenes while others believe he died in prison [3]\n\nAlexander launched a final campaign in India in 327 BC. He found an ally in King Taxiles, who of\nfered Alexander the use of his city of Taxila and any supplies needed if he could defeat King Porus:\n[3]. Im 326 BC, Alexander defeated Porus\u2019 army in a fierce battle on the Hydaspes River; Alexander\nhad been victorious over every army from Greece to India. Nevertheless, in doing so, he lost thou-\nsands of his men and his favorite horse Bucephalus. Alexander's men, at this point, had no enthu-\nslasm to continue on the warpath across the Ganges; they were depleted of energy and reluctant\nto fight [4]. Seeing the state of his troops, Alexander finally decided to return\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    46,
+                    66,
+                    551,
+                    317
+                ],
+                "image_path": "annie_extracted_data/Historical Perspective and Medical Maladies of Alexander the Great - PMC/Figure\\page_3instance1.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    28,
+                    555,
+                    363
+                ],
+                "ocr_text": "Ittook many weeks to cross the Indus River and almost another week to cross the Gedrosian_\ndesert. It was a painful experience, as thousands of his soldiers died in the desert. Out of the\n120,000 infantry and 15,000 cavalries that Alexander took into India, only one in four returned\n[4]. Furthermore, the invasion into India was a nightmare, as Alexander was hit with an arrow\n\u2018hile taking over the Mallians, and several soldiers died in the Gedrosian desert. After hearing this\n\u2018news, many people started revolting against Macedonian rule, but Alexander was not disappointed\nand wanted to go on a new mission. This time, he proposed to sail around Africa to the Pillars of\nHercules in Gibraltar (4),\n\nReview\n\nExamination of the leading theories behind Alexander's mysterious death\n\nAlexander died on June 11, 323 BG, inthe late afternoon at the palace of Nebuchadnezzar In\nBabylon (Figure 2). The text of historians like Plutarch and Arrian (1st and 2nd century AD) is\nbased on the contents of the \u2018Royal Journal\u2019 a diary maintained by the court of Alexander the\nGreat [5]. The possible causes of his mysterious death are thoroughly listed below and grouped\ninto five categories: alcohol-induced, infectious disease, poisoning, internal organ damage, and\n\u2018other complications.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    26,
+                    28,
+                    562,
+                    162
+                ],
+                "ocr_text": "Ittook many weeks to cross the Indus River and almost another week to cross the Gedrosian_\ndesert. It was a painful experience, as thousands of his soldiers died in the desert. Out of the\n120,000 infantry and 15,000 cavalries that Alexander took into India, only one in four returned\n[4]. Furthermore, the invasion into India was a nightmare, as Alexander was hit with an arrow\n\u2018hile taking over the Mallians, and several soldiers died in the Gedrosian desert. After hearing this\n\u2018news, many people started revolting against Macedonian rule, but Alexander was not disappointed\nand wanted to go on a new mission. This time, he proposed to sail around Africa to the Pillars of\nHercules in Gibraltar (4),\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    117,
+                    405,
+                    452,
+                    634
+                ],
+                "image_path": "annie_extracted_data/Historical Perspective and Medical Maladies of Alexander the Great - PMC/Image\\page_4instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Page Number",
+                "bbox": [
+                    34,
+                    710,
+                    128,
+                    732
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    31,
+                    547,
+                    726
+                ],
+                "ocr_text": "Acute necrotizing pancreatitis with encephalopathy: Heavy alcohol intake can cause acute pancre-\natitis, Epigastric pain is the primary symptom that varies from mild to severe and is usually con-\nstant. ICusually worsens when the patient is lying on his back with radiation to the flanks, back, or\nboth. The patient usually sits in bed leaning slightly forward to reduce the pain and discomfort.\nNausea and vomiting are present in more than two-thirds of patients. It can lead to sepsis, which\n\u2018may lead to death. However, Alexander had transient, rather than constant, abdominal pain. His,\nfluctuating fever increased over approximately 11 days, which is not characteristic of septic necro:\ntizing pancreatitis, which usually has a very acute and rapid deterioration, quickly leading to death\n[6]. The ascending weakness could possibly be due to Guillain Barre Syndrome, which is seen in\nsome cases of acute pancreatitis [7]\n\nDelirium tremens: Alexander periodically consumed large quantities of alcohol in the form of\nundiluted wine. During his illness, itis said that he opted to drink wine rather than water to\nquench his thirst [2]. Based on the circumstances, this increased intake could be interpreted as the\ncause of Alexander's demise; however, the most notable of Alexander's clinical symptoms, his\nfever, cannot be explained by excessive alcohol intoxication or withdrawal. Furthermore, vomiting\n\u2018which is commonly observed in cases of delirium tremens, was absent. There was also no record\nof visual or tactile hallucinations. Therefore, Alexander did not meet the Diagnostic and Statistical\nManual of Mental Disorders, Fifth Edition (DSM-5) criteria for alcohol use disorder nor did he\nhave the DSM-S5 outlined symptoms for alcohol withdrawal and delirium tremens [8].\n\nAlcoholic cirrhosis: Although Alexander's aforementioned penchant for drinking wine was well-\ndocumented, there is no mention of cirrhosis symptoms in his records as ascites, jaundice, and\nedema were not observed [2]-As noted above, it was believed that Alexander drank wine during.\nhis illness only to quench his thirst.\n\nInfectious Disease\n\n\u2018West Nile encephalitis: According to the John Marr and Charles Calisher theory, Alexander's death\n{s attributed to complications of West Nile infection [9]. This theory is based on Plutarch\u2019s descrip,\ntion of the death of a flock of ravens as Alexander entered Babylon. West Nile virus was identified\nin Israel in 2000 and in America in 1999, Birds are the amplifying hosts. Diseased birds manifest\nvarious symptoms, including abnormal head and neck postures, ataxia, tremors, circling, disorien-\ntation, and impaired vision [2]. Mortality rates in infected birds are very high. West Nile encephali\ntis in humans usually manifests with mild fever, headache, body aches, and skin rash. High-grade\nfever, disorientation, convulsions, muscle weakness, paralysis, and coma occur in only a small per-\ncentage of severe cases, and death is rare. Acute flaccid paralysis as a complication of West Nile\nvirus was noted in the United States in 1999 and later. In most cases, fever usually does not in-\ncrease or last more than two weeks. Mental confusion and muscle weakness are the initial symp-\ntoms, but Alexander was well-oriented and performed his daily routine in the inital phase of his\nillness. Only later, during the course of his illness, he developed delirium and was unable to speak,\nshortly after which he died [2]. Encephalitis itself became a more frequent complication of West\nNile virus fever in 1996, suggesting the recent appearance of a more pathogenic viral strain.\ncc a a ai eee\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    461,
+                    553,
+                    741
+                ],
+                "ocr_text": "West Nile encephalitis: According to the John Marr and Charles Calisher theory, Alexander's death\n{s attributed to complications of West Nile infection [2]. This theory is based on Plutarch\u2019s descrip-\ntion of the death of a flock of ravens as Alexander entered Babylon. West Nile virus was identified\nin Israel in 2000 and in America in 1999, Birds are the amplifying hosts. Diseased birds manifest\nvarious symptoms, including abnormal head and neck postures, ataxia, tremors, circling, disorien=\ntation, and impaired vision [9]. Mortality rates in infected birds are very high. West Nile encephali-\ntis in humans usually manifests with mild fever, headache, body aches, and skin rash. High-grade\nfever, disorientation, convulsions, muscle weakness, paralysis, and coma occur in only a small per-\ncentage of severe cases, and death is rare. Acute flaccid paralysis as a complication of West Nile\nvirus was noted in the United States in 1999 and later. In most cases, fever usually does not in-\ncrease or last more than two weeks. Mental confusion and muscle weakness are the initial symp-\ntoms, but Alexander was well-oriented and performed his daily routine in the inital phase of his\nillness. Only later, during the course of his illness, he developed delirium and was unable to speak,\nshortly after which he died [2]. Encephalitis itself became a more frequent complication of West\nNile virus fever in 1996, suggesting the recent appearance of a more pathogenic viral strain.\nHowever, serious neurological complications of West Nile virus only occur in less than 1% of pa\n"
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    29,
+                    557,
+                    720
+                ],
+                "ocr_text": "\u2018Typhoid fever: David Oldach was the first to propose that Alexander died of typhoid based on the\nsymptoms described by Plutarch [0]. It is suspected that Alexander may have been the victim of a\npoorly treated or untreated case of typhoid fever, complicated by enteric perforation. This could\nexplain the sudden onset of a single episode of sharp abdominal pain. Furthermore, instances of\ntyphoid fever complicated by intestinal perforation with subsequent peritonitis have been de-\nscribed in prior literature and can lead to acute demyelinating neuropathy or Guillain Barre\n\u2018Syndrome [Z]. In typhoid fever, patients may present with delirium and splenomegaly in the end\nstage of the disease. Patients with peritonitis can present with clammy perspiration, a fast, thready,\nand weak pulse, and Hippocratic facies. Due to the lack of antibiotics, the course was almost invarl-\nably fatal during Alexander's period, Alexander's face in his final days was described as expres-\nsionless; although bedridden, he was responsive enough for final farewells from his troops. The\napathetic facies and delirium known as typhoid state that can accompany typhoid fever fit this de-\nscription [1]. However, Oldach said that he and others believe that Alexander's body's lack of de~\ncay alter death is a legend created by those who survived him, likely a red herring in his case, and\nshould be discarded [10]. Alexander's immune system may have been weakened after he returned,\nfrom India due to the severe stress that he was under. Typhoid fever is a bacterial infection caused\nby Salmonella typhi and spreads by the fecal-oral route, Without antibiatis or other modern med-\n\u2018cal therapies, itis often fatal. Risk exists to travelers visiting countries where it is endemic; t was\npresent in Babylon at the time [11]. Alexander traveled from Greece to the Indian frontier, which\nhad many endemic areas of Salmonella typhi. The typical course of typhoid fever includes fever,\nloss of appetite, weakness, headache, constipation, and a typical, gradual, stepwise increase in\nseverity of fever during the first week There is a gradual increase in fever in the second week, and,\nthe skin becomes dry and hot. Inthe third week, fever continues to rise, and complications such as\ndelirium, stupor, intestinal perforation, peritonitis, and intestinal bleeding can occur. The main is-\nssue with the validity of this theory is the timing of symptoms, as intestinal perforation in patients\n\u2018with typhoid fever often occurs in the third week or later:\n\nMalaria: Alexander the Great bathed in the Euphrates River, which was infested by mosquitoes\nthat carry malaria. Some believe that he became sick due to a relapse of malaria he had contracted\nin 336 BC. Malaria is caused by Plasmodium and transmitted by female Anopheles mosquitoes. He\ntraveled extensively in malaria-endemic areas, especially inthe final years of his life (12].\"The\nsymptoms and signs include chills, headache, muscle ache, and fever without periodicity in the\nfirst week. During the second week, chills followed by fever and sweating, a typical malarial parox-\nysm, are observed. After that, periodicity develops with intermittent or remittent fever. In between\nthe episodes, the patient is afebrile and is largely asymptomatic. The third week shows a gradual\ndecrease of malarial paroxysm, including the periodic fever: Patients typically improve to baseline\nafter this acute/subacute period. There are multiple factors supporting this theory. Some symp-\ntoms seen in cerebral malaria, such as fever, chills, sweating, prostration, muscle ache, progressive\n\u2018weakness, stupor, decreased sensorium, and delirium, which can be seen with Plasmodium (P) fal-\nciparum, were present in Alexander\u2019s condition [11]. Although acute abdominal pain is not a typi\ncal feature of P.faleiparum infection, it can occur due to intestinal ischemia secondary to mesen-\nteric arterial thrombosis, a complication known as Algid malaria, Therefore, cerebral malaria\n\u2018might cause progressive neurological deterioration. Points against this theory are the absence of\n"
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    34,
+                    62,
+                    552,
+                    739
+                ],
+                "ocr_text": "Iraq/present-day Babylon is due to P. vivax, in which abdominal pain is absent [12].\n\nInfluenza: There was no report of any death in Alexander's camp with similar signs and symp-\ntoms, so the chance of an isolated influenza case as a cause of his death is very remote,\n\nPoisoning\n\nOther theories of poisoning: Some believe he was poisoned. Various theories about who may have\npoisoned him include unsatisfied lieutenants, his jealous wife Roxane, his Regent of Macedonia\nAntipater, or his tacher Aristotle [5]. Some commonly known poisons from ancient times that in-\nduced fever were ergot, mycotoxins, and alkaloids [13]. However, mycotoxins are unlikely as they\ndo not cause a sustained high fever:\n\n\u2018Strychnine poisoning: Graham Phillips's theory is that Alexander's wife, Roxane, poisoned him\n\u2018with a litle-known toxin of that period, which was extracted from the strychnine plant [14].\nStrychnine grew only in the Indus Valley, so Roxane, being from Bactria located in present-day\nAfghanistan, could have had knowledge of and access to It. Its taste can be easily masked with\n\u2018wine. Signs and symptoms typically Include violent seizures, muscle stiffness, tachycardia, tachyp-\n\u2018nea, apnea, and death. However, strychnine causes convulsions and muscle rigidity, both of which\n\u2018were absent in Alexander\u2019s record. A gradual rise in fever and delirium are atypical of strychnine\npoisoning.\n\n\u2018Toxicity of arsenical compounds: Plutarch mentions that Aristotle procured arsenic to poison\nAlexander. Arsenical compounds were used to treat ulcers and syphilis. In toxic doses, extensive\n\u2018transmural inflammation of enteric mucosa, severe abdominal pain, hemorrhagic gastroenteritis,\nhepatic necrosis [15], pulmonary edema, hypotension, and shock may occur If these events are\nnot fatal, progressive neuropathy, which may be indistinguishable from Gulllain-Barre Syndrome,\n\u2018may yet claim the patients life [7]. However, arsenical compounds usually do not cause a sus-\ntained high fever.\n\nAcute lead poisoning: Lead water pipes and lead-based pottery glazes used as storage for home-\n\u2018made wine were responsible for epidemics of lead poisoning in ancient Rome [3]. Acute poisoning\ncan lead to severe colicky abdominal pain, fatigue, paralysis, and encephalopathy, but again, acute\nlead poisoning does not explain the pattern of Alexander's fever:\n\nBelladonna poisoning: Belladonna poisoning may produce vocal cord paralysis, which could ex-\nplain why Alexander, although conscious, could not speak in his last days. However, this does not,\nexplain the nature of Alexander's fever.\n\nMethanol poisoning: Methanol poisoning can produce peripheral neuropathy, which can lead to\ngeneralized weakness. However, visual symptoms and vomiting, typical of methanol poisoning, are\nnot mentioned in Alexander's records.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    56,
+                    561,
+                    720
+                ],
+                "ocr_text": "is violently narcotic and causes bradycardia. However, it does not explain the sudden onset of\nacute abdominal pain and the fever pattern seen in Alexander's case.\n\nInternal Organ Damage\n\nAmoebic liver abscess rupture: Although the parasitic amoebic infection was present at that time,\n1 vast majority of cases are sub-acute. Symptoms typically develop gradually over weeks to\n\u2018months. Initial symptoms are non-specific, but in later stages, right upper quadrant pain becomes\nthe main symptom. Fever is usually present but is intermittent and rarely exceeds 40 degrees\nCelsius. The patient is chronically ill with fever and abdominal tenderness in the right upper quad\nrant. Rupture of an amoebic abscess can lead to sudden severe abdominal pain. However, the time\nperiod and clinical features between the rupture of an abscess, presumably into the peritoneal\ncavity, and Alexander's subsequent signs and symptoms point against a ruptured amoebic abscess\nas the cause of his death [3]\n\nPerforated peptic ulcer (duodenal/gastric): Prior to the 20th century, it was a disease of young\n\u2018males that caused acute abdominal pain. However, most patients have a history of indigestion\nprior to perforation. Therefore, the nature of Alexander's fever cannot be explained by this\ntheory.\n\nRight lower lobe (RLL) pneumonia, recrudescent empyema, and pleurisy: Acute right upper quad-\nrant pain can be produced by irritation of diaphragmatic pleura, Alexander had a history of acute\npneumonia in 333 BC and suffered a hemopneumothorax one year earlier due to an open chest\n\u2018wound caused by an arrow [2]. However, the abrupt onset and severity of pain and the course of\nhis fever and illness are more suggestive of typhoid fever complicated by bowel perforation,\n\nAcute cholecystitis /acute ascending cholangitis: Cases of cholecystitis are commonly characterized\nby persistent abdominal pain in the right upper quadrant. While cases of cholangitis typically\npresent with right upper quadrant pain, fevers, and jaundice, collectively comprising what is\nknown as Charcot\u2019s triad. Sepsis and delirium have also been observed in cholangitis cases, which\nwhen presenting alongside Charcot's triad, comprise Reynold's pentad. Obstruction of the biliary\ntree can occur due to stones or parasitic infection and is less likely due to tumors in patients\nyounger than 32 years old. However, gall bladder perforation is rare at age 32, and the absence of\njaundice in the records argues against this theory.\n\nOther Complications\n\nCarotid dissection: Andrew Williams and Robert Arnott suggest traumatic dissection of one of his\n{internal carotid arteries six years prior to his death, in 329 BC in the Persian city of Cyropolis,\ncaused by being hitby a stone from a local slinger, which struck Alexander\u2019s head/neck and led to\ntransient blindness and loss of speech [16]. Signs and symptoms usually include mild headache,\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    27,
+                    566,
+                    107
+                ],
+                "ocr_text": "Adverse drug reaction (white hellebore): Another theory is the possibility of repeated poisoning\n\u2018with white hellebore [14]. The drug possesses strong purgative and anti-helminthic properties but\n{s violently narcotic and causes bradycardia. However, it does not explain the sudden onset of\nacute abdominal pain and the fever pattern seen in Alexander's case.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    34,
+                    426,
+                    555,
+                    682
+                ],
+                "ocr_text": "\u2018As detailed above, Alexander the Great was the greatest warrior of his time. He died in the late\nspring of 323 BC in Babylon, and the precise cause of his death has never been ascertained. Its\nbelieved that he had many past and present illnesses, including post-traumatic transient cortical\nblindness, malaria, toxin poisoning, and alcoholism, which may have contributed to his death. The\nexact cause of his death is difficult to establish. Based on the literature review, the chain of events,\nleading to his terminal illness seems to highlight undue stress from several sources, including de-\n\u2018moralization due to his lack of command over his soldiers, which may have weakened his immune\nsystem, making him more susceptible to illness. He had been drinking very heavily for a few days\nbefore the onset of his illness. He suffered from acute abdominal pain followed by febrile illness,\ndelirium, dysarthria leading to coma, and death. In addition, we feel Alexander suffered from acute\nnecrotizing pancreatitis complicated by peritonitis leading to disseminated cerebritis as well as,\nbacterial meningitis causing encephalopathy; this ultimately resulted in coma and his subsequent\ndeath, Other possible causes include Guillain Barre syndrome and poisoning from arsenic com=\npounds, Unless Alexander the Great's remains are recovered, we may never be able to determine\nthe exact cause of his death with certainty.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    29,
+                    553,
+                    398
+                ],
+                "ocr_text": "ropathy, transient unilateral blurring, or loss of vision. The patient may be initially asymptomatic\nbut can quickly develop symptoms due to embolization of thrombus atthe site of dissection after\nan interval ofa few hours to days. However, this theory cannot explain the course of his fever and\nillness. In addition, there is a lack of cardinal signs and symptoms in the long period between dis-\nsection and death, such as hemiparesis, hemisensory loss, headache, and Horner syndrome.\nComplications of the congenital scoliotic syndrome: Hutan Ashrafian proposed this theory based\n\u2018on numismatic and sculpture studies [17]. He noticed a portrait of Alexander on a Greek coin re-\nvealing a facial horn which suggests a possibility of scoliotic epidermal nevus syndrome\n\n[18)- Additionally, adults with Klippel-Feil syndrome may present with a short neck, cervical defor~\n\u2018ity, oculomotor findings, facial asymmetry, abnormal gait, orthodontic defects, and a family his\ntory of limb irregularities. Neurofibromatosis can result in malaise, pyrexia, and neurological dete-\nrloration, Epidermal nevus syndrome could account for cervical scoliosis, familial musculoskeletal\ndeformities with seizures, ocular irregularities, and factal horns. Repeated cervical trauma can\ncause quadriplegia. Furthermore, the asymmetry of his head, shoulders, and neck axis and asym-\n\u2018metry of the eyes with limited adduction in the marble bust of 2nd and 1st BC may indicate the ex-\n\u2018otropic Duane syndrome Il, Heterochromia irides and abnormal dentition may be associated with\nit However, itis difficult to establish the diagnosis in the absence of Alexander's body. The use of\niconographic records, such as numismatics and sculpture, to provide evidence of clinical symp-\ntoms is shown to be highly misleading, However, there is a whole series of extant sculptures of\nApollo, young athletes, women poets, such as Sapho, prior to or contemporary with the bust of\nAlexander, which display similar features as enumerated by Ashrafian as being abnormal {17}\n"
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    65,
+                    560,
+                    732
+                ],
+                "ocr_text": "\u2018Gent Individuals or organizations. Curens is not responsibie for tie scentific accuracy or relability\n\u2018of data or conclusions published herein. All content published within Cureus is intended only for\n\u2018educational, research and reference purposes. Additionally, articles published within Cureus\nshould not be deemed a suitable substitute for the advice of a qualified health care professional.\nDo not disregard or avoid professional medical advice due to content published within Cureus.\nFootnotes\n\u2018The authors have declared that no competing intrest exis.\n\nReferences\n\n1. Glee MT. Cicero on Divination Book 1 Oxford, United Kingdom: Oxford University Press; 2006. [Goose Scola\n\n2 Green  Borza EN. Los Angeles: University of California Press; 2013. Aleander of Macedon, 356-323 BC: A Historical\n\u2018Blograph.[GngeleScholas)\n\n\u20183 Worthington Oxford Oxford Univesity Press: 2014, By the Speat Philip, Alexander the Great, and the Rise and Fall of\n\u2018he Macedonian Empire. [Goole Scola\n\n4. Heckel W. Cambridge: Cambridge Unlversty Press; 2012. The Conquest of Alexander the Great. [Goose Scola\n5.Anoteon Aletander\u2019s death Engels D lass Pll 1978:73:224-228.[Pubbied[Gaogle Schalay\n\n6 Pancreatic encephalopathy and Wermcke encephalopathy In assoclation with acute pancreas clinical stdy. un GH,\nYang YS, Lu QS, Cheng LE, Huang XS, Word Gastroenterol 2006;12:4224-4227, [PMC feats) [PubMed [Google\nScala\n\n7 Guillain-Barr\u00e9 syndrome assocated with acute pancreatitis. Case report [Article In Portuguese] Grzesluk AK, ds Santos\nLA Ary Newropsiquatr 1999357:972-875, [Eubtie [Ganga Scholal\n\n8 Alexander the Gres\u2019 relationship with alcohol lappa A, Lascarsos J Ffoutl Christodoulou GN. Addiction\n2003:98:561-567. [PubMed [Gvosle Scholar\n\n9-Aleander the Great and West Nile virus encepalis. Mar J, Clisher CH. Emerg Inet Dis, 2008:1599-1603. [PMC\nfixeaicle (Ebel [Gianee Scho]\n\n10. mysterious death. Oldach DW, Richard RE, Borza EN, Benltez RM. N Engl) Med, 1996:338:1764-1769.(ubM\u00e9el\n(Google-Scalse\n\n11, The deat of Alexander the Great malaria or typhold fever? Cunha BA Infect Dis Clin N Am. 200418:53-63. [Lud]\n[ooate Scholar\n\n12 Some observations on malarla and the ecology\u2019 of central Macedonla In antiqlty.Borza EN. Am J Ane Hist. 2007;42:102-\n125. (Gagne Schola]\n\n13, Alexander of Macedon, the greatest warrior of all times: did he have selzures? Hughes JR. Epllepsy Behav. 2004;5:765-\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    25,
+                    38,
+                    561,
+                    153
+                ],
+                "ocr_text": "\u2018The content published in Cureus is the result of clinical experience and/or research by indepen-\ndent individuals or organizations, Cureus is not responsible for the scientific accuracy or reliability\n\u2018of data or conclusions published herein. All content published within Cureus is intended only for\n\u2018educational, research and reference purposes. Additionally, articles published within Cureus\nshould not be deemed a suitable substitute for the advice of a qualified health care professional.\nDo not disregard or avoid professional medical advice due to content published within Cureus.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 11,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    22,
+                    30,
+                    560,
+                    204
+                ],
+                "ocr_text": "14. Phillips G. London: Virgin Books; 2004. Alexander the Great: Murder in Babylon. [Googie Scholar]\n15.Inoduction: th history f arsenic trou In cancer therapy. Antman KH, Oncologist 20015 Suppl 21-2. [Ped\n(Googie Scalar)\n16.A stone at the slege of Cyroplls and the death of Alexander the Great Williams AN, Armot RJ Mist Neuro.\n2004:13:130-137. [PubMed [Gvosle Scholar\n17-The desth of Alecande the Great-a spinal twist of fae Ashrafan Hj Hist Neurosl,2004;13:138-142. PubMed\n(Google Scholae)\n18.The\"homs' of a medial lemma: Alexander the Great Russell GA.J Hist Newrasel 2004:13:159-165. [ube [Gosle\nScholar)\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    34,
+                    28,
+                    470,
+                    44
+                ]
+            }
+        ]
+    }
+]

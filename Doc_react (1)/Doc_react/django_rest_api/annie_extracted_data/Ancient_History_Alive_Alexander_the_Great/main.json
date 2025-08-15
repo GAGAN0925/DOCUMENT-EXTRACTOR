@@ -1,0 +1,1529 @@
+[
+    {
+        "page_number": 1,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Image",
+                "bbox": [
+                    236,
+                    484,
+                    406,
+                    669
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_1instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    5,
+                    104,
+                    612,
+                    706
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_1instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    178,
+                    109,
+                    592,
+                    418
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_1instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    88,
+                    418,
+                    399,
+                    488
+                ],
+                "ocr_text": "Alexander the\n"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    231,
+                    144,
+                    418,
+                    268
+                ],
+                "ocr_text": "2015. kindle Edition\ntdited by\nJerry W. Bush Jr\nNovember 28- December 2, 2021.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    84,
+                    77,
+                    551,
+                    498
+                ],
+                "ocr_text": "Table of Contents\nPreface 4\nIntroduction. 5\nChapter One: Ancient Macedon 6\nChapter Two: Alexander during his youth 10\nChapter Three: Alexander becomes King 13\nChapter Four: Invasion of Persia. 15\nChapter Five: Onward to Issus 21\nChapter Six: The Siege of Tyre 27\nChapter Seven: Alexander in Egypt 30\nChapter Eight: The Battle of Gaugamela 32\nChapter Nine: Pursuit of Darius 36\nChapter Ten: To the ends of the Earth 38\nChapter Eleven: The Return to Persia. 42\nChapter Twelve: The Susa marriages, 44\nChapter Thirteen: Death of a King 47\nChapter Fourteen: After his death 48\nChapter Fifteen: His body. 49\nEndnotes. 53\n"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    60,
+                    114,
+                    559,
+                    631
+                ],
+                "ocr_text": "NO\n\n1 was taking a Research and Academic Writing class inthe Fall semester at Regent University\n\u2018The main assignment for the class was toa subject from a series of subjects. I chose Alexander the\nGreat\n\n\u2018Thomas Blackwell's book helped me gather the early information I needed to get my report\nstarted. I chose this book because it was (and stills) free under Kindle Unlimited, However, while\nreading this book, I noticed quite afew typographical errors, incomplete sentences, wrong word\nusage, syntax, and the fact that Thomas did not cite where he got his information, Thomas also\nhhad a bad habit of making long run-on sentences. I guess you get what you pay for (or get for free)\n\u2018While itis obvious that he got his information from the historian Arran, cannot find from whose\n\u2018wanslation Thomas cited\n\nThave taken it upon myself to copy the entre book from Kindle and edit itt be more user-\nfriendly and better eading. 1am doing this for free and on my own time. The pictures took a bit\n\u2018of work as they could not be copied and pasted, So, Thad to Google each picture individually using\nWords found inthe pictues or keywords from around the pictues. Ihave done my best to put the\nsame kind of pictures used in the Kindle version.\n\nAs for citing, there is nothing I ean do for that unless I stumble across the same wording. While\n\u2018one can search the web, or different books to get their information there is almost no way to know\nWhere Thomas got his information, The best that I can do is cite where I get my information to\ncorrect the mistakes from Thomas\u2019 book. This willbe done with the use of footnotes at the bottom.\n\u2018of each page. also use footnotes to note changes that I made that were corrected from the original\nT make use of endnotes 10 cite from where I go the pictures\n\n\u2018One last bit of information: I make great use of Grammarly to check my writing. Iwas led to\ndo so by one of my professors at Regent University. find it extremely helpful to fix my grammar.\nIt has also helped me achieve better grades on my schoolwork.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Figure",
+                "bbox": [
+                    53,
+                    242,
+                    559,
+                    714
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_5instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    64,
+                    90,
+                    552,
+                    242
+                ],
+                "ocr_text": "\u2018Alexander IIT of Macedon died atthe age of only 32 in 323BC. He ruled for only 13 years,\ninheriting a small kingdom on the northern edge of Greece. He transformed the small kingdom of\nMacedon into the leading state in Greece and then conquered the largest empire ever known,\n\nHe eared the tile of \"The Great\u201d for his military genius and amazing conquests, but he was\nalso an amazing personality. He believed himself to be the son of Zeus, was loved and adored by\nhis troops, whom he fought side by side with for all of his fiercest battles. He achieved through,\n"
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    117,
+                    557,
+                    701
+                ],
+                "ocr_text": "ee FL ror\nie I messin or macezon\nome\u201c MARERONESSS MACEDON, 431 8C\n\u2014 KINGDOM OF MACEDON, 336 8\u00a2\nee ceatoig | \u00a9 oerenvenr renerrones\nSt es Bs f\n7 NS Nish. Pr\n\u2014e \u2018AEGEANSEA\nIONIAN SEA AN eet\n% \u00a9 BOET\nRa SoD hee a4\n\u2018 pad Mette a: taal og po\ni ae Xn\nMe 1, aga (Hots =\nWS\nbs em et |\na CYCLADES: ae\nSas =\nFgue2 Map ofthe Ani Maeda 1-36 BC\nRepublic of Macedonia. It was onthe Norther edge of Ancient Grece (which was nota country\nin the modem sense, but several small, independent citystts inhabited by Greek-speaking\n\u201cThese Greeks view their northern neighbors as a backward, barbaric Kingdom whose favorite\nthis agricultural backwater that Alexander\u2019 father inherited asthe new leader of the Argead\nDynasty in 359 BC.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    64,
+                    359,
+                    552,
+                    709
+                ],
+                "ocr_text": "Phillip was able to eement his power while his southern neighbors were focused elsewhere in\n\u00abcivil war. His focus was on transforming the army into what would be the greatest army of the\nperiod, Initially, Phillip focused on the infantry. As a young man, Pillip had been a hostage inthe\ncity-state of Thebes. Drawing on what he saw, he used the formation known as the Theban wedge\n\u2018or echelon, This wedge consisted of protruding columns arrayed up to 50 shields deep. This proved\nto bea devastating weapon. Philip changed the weaponry from a hoplite spear to sarissa, an 18-t0-\n20-fo0t pike, over twice the length ofthe traditional weapons. It had the advantage of having at\nleast four spear points protruding in front of the front shield, No contemporary hoplit armies were\nable to cope with these changes. The sarissa head alone measured two feet and sliced through\nshields and armor-like swords attached to hardwood poles. The opposing hoplite whose shield was\ntransfixed and dislocated by one sarissa soon found himself bloodied by another.\n\nPhilip also changed the helmets, redesigned the shield, and each man also received a smaller\ndouble-edged sword called a xiphos for hand-to-hand combat. These changes and significant\nrilling transformed the Macedonian Phalanx into the best equipped, drilled, and tactically superior\nforce in the world!\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Image",
+                "bbox": [
+                    93,
+                    128,
+                    274,
+                    349
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_7instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    102,
+                    703,
+                    486,
+                    729
+                ]
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    58,
+                    64,
+                    557,
+                    119
+                ],
+                "ocr_text": "Phillip was only 23 when he came to power, He was still to cement his place on the throne and.\nheld onto a fragile rule. Initially, his biggest concerns were to safeguard his borders and 0\n"
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    410,
+                    555,
+                    708
+                ],
+                "ocr_text": "During Alexander's campaigns, the Phalanx was not used as the decisive arm, but that was\nreserved for the next arm that Philip transformed, the cavalry. This was to be Alexander's strike\nweapon, and his companion cavalry would be the first \u2018shock\u2019 weapons of antiquity. At this stage\nin history, the stierups had not been invented, and men on horseback lacked the proper support for\nWielding heavy weaponry or accurately aiming bows. Most cavalry units were armed with lances,\nor javelins. Galloping within range of the enemy, they would harass and weaken the enemy\ninfantry before the phalanx le? the main charge.\n\nPhillip transformed the Macedonian cavalry to take advantage of theie superior mobility. The\nmounted troops were trained to become superb horsemen who could contol their horses and stay\n\u2018on them to3 fight on horseback in close quarters. Phillip also adjusted the standard formation from\n\u00abblocks to a wedge formation. This increased mobility and also the shock ofthe cavalry charges.\n\nLei eplacing ed\n* Removed \u201cto bate\u201d\n"
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    60,
+                    63,
+                    556,
+                    608
+                ],
+                "ocr_text": "\u2018The wedge narrowed to a point creating a point for piercing enemy formations. It was also* easier\n{turn than a square formation because everyone followed the leader atthe apex. The eavalry also\nhad the important job of making sure thatthe phalanx did not get outflanked\n\n\u2018The most feared of the cavalry was called the Companion cavalry, as they were Companions\nof Alexander. They were usually stationed on the sight side of the phalanx.\n\n\u2018This army formed the key to Philip I's growing influence over the Geek city-states 10 the\nsouth, He was able to win several battles against these foes, including Thessaly in 393BC, the\nPhoenicians inthe Battle of Crocus Field in 352, and most importantly, a combined Athenian and\n\u201cThebes army a the Battle of Chacronea in 338\". This allowed Philip to set up the league of Corinth\nin 337BC, sometimes referred to asthe Hellenic League. The league consisted of a federation of\nGreek states created by Philip I after the Battle of Chaeronea to help facilitate his use of military\nforces in his war against Persia. Every member of this league had to take the same oath, The ancient\ninseription found in Athens\n\n\u2018Oath. \u201cswear by Zeus, Gaia, Helios, Poseidon and all the gods and goddesses. Iwill abide by\n\u2018the common peace and I will neither break the agreement with Philip. nor take up arms on Land oF\nsea, harming any of those abiding by the oaths. Nor shall [take any ety. oF fortress, nor harbor by\ncraft or contivance, wit intent of war agains the participants ofthe war. Nor shall I depose the\nkingship of Philip or his descendants, nor the constitutions existing in each state, when they swore\nthe oaths of the peace. Nor shall I do anything contrary to these agreements, nor shall [allow\nanyone else as far as possible. But if anyone does commit any breach of the treaty, I shall go in\nsupport as called by those who need and I shall fight the transgressors of the common peace, as\ndecided (by the council) and called on by the hegemon and I shall not abandon-\u2014~\n\nPhilip intended to use this league to invade Persia the large empire tothe east. However, he\nWould never get that chance as he was murdered in 336BC by a young court official Pausanias,\nand it would be an 18-year-old Alexander that would succeed him but let us step back a litle and\nsee how Alexander got to this point.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    93,
+                    691,
+                    334,
+                    729
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    71,
+                    73,
+                    555,
+                    244
+                ],
+                "ocr_text": "\u2018Chapter Two: Alexander during his youth\n\nKing Philip matied an Epirote princess\u201d as his fourth wife in 357BC asa diplomatic mariage\nto confirm the new relationship between the Macedonians and the Molossians. She was to bear*\nPhilp son named Alexander on 20 July 356\n\n\u2018As a young boy, Alexander was affad of nothing and was very strong. AU 12, he tamed\nbeautiful horse called Bucephalus that noone else could ride, Philip was o proud of Alexander's\nhorsemanship tat be sai\n\nO my con, seek out a kinedom worthy of thyself. for Macedonia is too little for thee.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    45,
+                    227,
+                    555,
+                    675
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_10instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    60,
+                    668,
+                    547,
+                    729
+                ],
+                "ocr_text": "\"It seems weird that Thomas completly forges to name the princess/wife of Philip I/Alexander the\nGreat's mother? Her name is widely nwa as Olympas. Thre ia vey great bok called, Olympias: Maser of|\n\u2018Alexander the Great by Elizabeth Cane, where you ean learn quite i about et\n\nBoa replacing \u201cbare\u201d\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Image",
+                "bbox": [
+                    94,
+                    505,
+                    161,
+                    621
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_10instance3.jpg"
+            },
+            {
+                "instance_id": 4,
+                "class": "Image",
+                "bbox": [
+                    96,
+                    247,
+                    306,
+                    452
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_10instance4.jpg"
+            },
+            {
+                "instance_id": 5,
+                "class": "Image",
+                "bbox": [
+                    89,
+                    257,
+                    355,
+                    627
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_10instance5.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 11,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    65,
+                    64,
+                    553,
+                    363
+                ],
+                "ocr_text": "\u2018Alexander would come to love\u201d the same beloved stallion that took him as far as India up to\nthe Hydaspes River, where he then died. Alexander would ride Bucephalus into all his major\nbattles and would build the city of Bucephalia in memory of his beloved horse.\n\nAsa prince, he was even more ambitious than his father. He was known to remark, \u201cMy father\nwill get ahead of me in everything and will leave nothing great for me to do.\n\n\u2018Alexander loved the Iliad so much that he knew it by heart. He loved Homer and always slept\nWith a copy of the liad under his pillow. His first teacher was Leonidas, who was a relative of his\nmother. Leonidas helped instill his ascetic nature, which made him famous during his future\ncampaigns.\n\nPhilip encouraged the influence of Greek culture in Macedon, especially in his new capital city\nof Pella, He invited poets, writers, and philosophers. One philosopher happened to be the famous\nAristotle, whom!\u201d Philip asked to teach his son Alexander between the ages of 13 and 16.\nAristotle's interests were encyclopedic, from philosophy and arts to polities and science. Its clear\nthat Alexander leamed a lot from Aristotle, and when he invaded the Persian empire, he bought\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    56,
+                    343,
+                    559,
+                    657
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_11instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    101,
+                    691,
+                    378,
+                    728
+                ]
+            },
+            {
+                "instance_id": 3,
+                "class": "Image",
+                "bbox": [
+                    163,
+                    373,
+                    397,
+                    630
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_11instance3.jpg"
+            },
+            {
+                "instance_id": 4,
+                "class": "Image",
+                "bbox": [
+                    80,
+                    395,
+                    239,
+                    645
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_11instance4.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 12,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    67,
+                    68,
+                    559,
+                    414
+                ],
+                "ocr_text": "ruling in his father's absence. As his father and his army were deep into Thrace, the Thracian tribe\n\u2018of Maedi rebelled and threatened the county.\n\n\u2018Alexander assembled an army and led it against the rebels, where he swifily defeated them,\ncapturing the stronghold and actually renamed the town after himself calling it Alexandropols.\n\u201cTwo years late, Philip gave his son a commanding post among senior generals. At the battle of\n\u2018Chaeronea mentioned above, the Greeks were defeated. Alexander displayed his bravery by\ndestroying the elite Greek fore.\n\nNot long after the defeat of the Greeks at Chaeronea, the royal family spit apart due to King\nPhilip marrying a woman of high nobility whose name was Cleopatra. Her uncle remarked that\nPhilip should father a legitimate heir: mainly one that was of pure Macedonian blood. Alexander\ntook exception to being called a bastard son, threw a goblet of wine in her uncle's face, and then\nwent after him, but Philip drew his sword and went after Alexander. Alexander then took his\nmother and fled to Epirus. He was allowed to return later but was always uneomfortable and\n\u2018remained isolated atthe Macedonian Court\n\nIn the spring of 336 B.C., Philip\u2019 invasion of Persia was in motion when a young noble\nMacedonian killed him. Alexander became his successor. The invasion of the Persian Empire now\nSel on, Alexander's shomiders.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 13,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    71,
+                    551,
+                    712
+                ],
+                "ocr_text": "Chapter Three: Alexander becomes King\n\n\u2018When Philip I! was murdered, it was not certain that Alexander would become King, as in\n\u2018Ancient Macedon, it was not automatically the eldest son that inherited the throne. However,*\n\u2018Alexander moved quickly and, withthe support ofthe amy, was acclaimed king. He moved\n\u2018quickly to dispatch his domestic enemies by ordering ther execution\n\nEven though he was now king of Macedonia, he did not automatically gain contol ofthe\nCCovimhian League (The League of Corinth); Athens wanted to rule the league. Allover Greece,\neas that wanted to be independent started military movements. Alexander immediately led his\nmies to Greece to stop these movements. The Greek sates quickly recognized him as ther leadet\nexcept for Sparta, The league gave Alexander unfimited military powers, giving him the military\npower he needed to allow him to attack Persia, Before crossing ino Asia, he wanted to safeguard\nhis northern borders.\n\nStarting from Amphipolis, he traveled east into the country ofthe \u201cIndependent Thracians.\"?\n\u2018AtMount Haemus, the Macedonian army atacked and defeated the Thracian forces manning the\neights. The army then marched into the country of Tribal and defested them near the Lyginus\nRiver (a ibutary ofthe Danube.) Alexander then marched for thee days 10 the Danube where he\nan into the Geta tribe on the opposite shore He was able to surprise them by crossing the river\na night forcing their army to tea after the first cavalry allack. Alexander was told that Ceitus\nthe king of lyri and King Glaukias of the Taulanti were in open revolt against his authority\nMarching west into Ilyria be defeated each ruler forcing them o flee with their troops. With hese\nVictories he was able to secure his northern frontier:\n\n\u201cThe Greeks, mistakenly thinking that Alexander was dead, caused a major revolt to breakout\nin the entre nation, Alexander was enraged. He marched south, covering 240 miles in two weeks,\nand appeared before the wall of Thebes wih a large army. He gave the Greeks a chance to change\ntheir mind, but the Thebans thinking they Would win, called for all Greeks who wished to set\nGreece free to join them against the Macedonians. They were not aware thatthe Athenians and\nPeloponnesians (who the Thebans thought were ther allies) were awaiting the outcome ofthis\nbatle before they committed to helping anyone.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 14,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    53,
+                    65,
+                    551,
+                    204
+                ],
+                "ocr_text": "Perdiceas, Alexander's general attacked the gates, broke into the city and Alexander with the\n\u2018est of his army behind him to prevent the Thebans from cutting him off stormed the city, klling\neveryone inside\" including women and children, 6,000 citizens died and 30,000 more were\ncaptured and sold as slaves. The eity was also plundered, sacked, burned and razed tothe ground\n\u2018the only things spared destruction were the temples and the house of the poet Pinder. Alexander\nid this as an example tothe rest of Greece. Greece would remain under Macedonia rule.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    97,
+                    702,
+                    243,
+                    724
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 15,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    59,
+                    450,
+                    554,
+                    637
+                ],
+                "ocr_text": "In 334 as Alexander decided to start his march against Persia, it covered almost the entre\n\u2018known world east of Macedon ~ modern day Turkey, Syria, Lebanon, Jordan, Irae, Beypt, lag,\nKuwait, ran and Afghanistan. It was an exceedingly rich and powerful but not without its\nproblems\n\n[As stated by Xenophon\u2019, a mercenary who fought in Persia sixty years before \u201cit was clear to\n\u201canyone who paid close attention to the siz ofthe kings empire that it was strong in terms of lands\nand men, but weak on account of the great distances of road and the dispersal of its forees, if\nsomeone was to make a quick military strike against it.\"\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    59,
+                    95,
+                    555,
+                    453
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_15instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    210,
+                    69,
+                    438,
+                    93
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 16,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    53,
+                    67,
+                    559,
+                    722
+                ],
+                "ocr_text": "\u2018This meant that the Persian Empire was a large but cumbersome structure, which could be\ntaken by an efficient army, and which offered opportunities for enrichment ofthe conquerors, an\nempire to be coveted rather than\" feared.\n\n\u2018The Greeks didn't forget the Persian invasion in the eatly fifth century. While they were\ndefeated in the famous battle of Marathon in 490BC, they came back under Xerxes with a massive\narmy, defeating the Spartans in the famous Battle of Thermopylae (the basis forthe movie 300)\nand captured and destoy a large amount of Athens. Eventually the Persians were driven off but\nthe Greeks never forgot what happened and they wanted revenge.\n\nMarch into Persia\n\n\u2018The Battle of Granicus River\n\n\u2018Alexander crossed the Hellespont in spring 334BC with approximately 32,000 infantry (12,000\nMacedonian hoplites, 12,000 Greek infantrymen and 8,000 archers) and 5,100 eavalry (1,800\nMacedonian heavy cavalry and the rest fom allied Greeks).\n\nHe took the helm atthe Hellespont crossing so he could copy the action ofthe hero Protsilaus\n\u2018and would be the first to jump ashore. Alexander threw a spear and claimed Asia was\u201d spear-won.\nlands.\" He went into Troy and as the new Achilles dedicated his invasion to Athena. He declared\nthat all of Asia would be won by the Macedonian spear\n\n\u2018When Alexander went to Asia, he only had 70 talents of silver and just enough food that would\nlast a month, He knew that he had to force battle quickly but frst he had 0 satisty the gods to\n\u2018honour the Greek heroes\" who had erossed the Hellespont before him, He made a deliberate detour\nto the site of Ancient Troy, sacrificing atthe tomb of Achilles (Alexander's hero), meanwhile his\nclosest friend Hephaestion sacrificed atthe tomb of Patroclus, Achilles closest friend. Alexander\nalo sacrificed in the temple of Athena, depositing a suit of armor. In exchange he removed the\n\"sacred shield of Athena,\" which was supposed to have been left there during the Trojan war,\nmaking it some 800 years old. Ths shield would be carried before the Macedonian hoplites and is\nsaid to have saved Alexander's life in the town of the Mallians, during his time in India\n\nWith food and pay only to last four weeks Alexander knew that he had t0 move quickly to\nbring the Persians to battle and get some spoils of war to pay his troops. Persian King Darius II\n\n\"Deleted the space Between he wo paragrpts and made one paragraph ind one sentence pages\n"
+            }
+        ]
+    },
+    {
+        "page_number": 17,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    55,
+                    63,
+                    552,
+                    688
+                ],
+                "ocr_text": "\u2018obviously did't fel to threatened by Alexander left the defense to the local satraps (governors)\nwho decided, instead of moving forward to cut of Alexander immediately to hold the line atthe\nGranicus River, in Mysia\n\n\u2018The Batle of the Granicus River was the first of three major battles fought between Alexander\n\u2018the Great and the Persian Empire, Near the site of Troy the battle took place in Northwestern Asia,\nMinor. Alexander was able to defeat the forces of the Persian satraps of Asia Minor which included\n4 large force of Greek mercenaries led by Memon of Rhodes. A Satrap was the name given to the\n\u2018governors of the provinces of the ancient Persian Empire\n\nArian of Nicomedia wrote some narratives of this battle. Arran was a Greek historian, public\nservant, military commander, and philosopher.\n\nBelow is a narrative of how Alexander tactically et up his army:\n\n\" Alexander sent Parmenion to take control of the left wing, while he Went along with his forces\nto the right. He had already put in position a number of commanders. On the right there was\nPhilotas, son of Parmenion, in charge of the companion cavalry, the archers and the Agrianian\njavelin men; next to him was Amyntas, son of Arthabaeus, who was in charge of the lancers, and\nthe Paconians and the squadron of Socrates: next were the royal guards, under the leadership of\nNicanor, son of Parmenion; then the phalanx of Perdiccas, the son of Orontes, and next to that the\n\u2018tops led by Coenus, son of Polemocrates then those led by Amyntas, son of Andromenes, and\nfinally on the sight wing the phalanx led by Philip, son of Amyntas. On the left wing, the Thessaian\nceavalry were positioned fist, under the leadership of Calas, son of Harpalus, and next to them the\nallied cavalry, commanded by Philip. the son of Menelaus; then Agathon Jed the \u2018Thracian\ncontingent; beyond them were infantry battalions, the phalanx of Craterus, then those of Meleager\n\u2018and Philip, right up tthe mide of the whole battle fine.\"\n\n\u2018The Persians advanced from Zelea to the nearby Granicus River. This river is 60 to 90 feet\nWide. Because of ts varying depths, strong currents and steep banks this would cause a significant\n\u2018obstacle for Alexanders cavalry also making it hard for his phalanxes to hold their formation. The\nPersians established a strong defensive position onthe eastern bank and placed all their cavalry in\n\n\"white aot verbatim, hs paragraph is basicaly he seas whats ound in Arian 1.14.1-3. found\n\u201cArrian\u2019s paragraph in Duncan Campbell's Alexander's Great Calvary Battle: What really happened at the River\n"
+            }
+        ]
+    },
+    {
+        "page_number": 18,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    68,
+                    545,
+                    152
+                ],
+                "ocr_text": "the front line, creating as wide a front as possible\u2014approximately 7,500 feet, or 1.4 miles.\nBelieving that they would be able o overwhelm he attackers with thei javelins thrown from an\nclevated position they waited patently in confidence forthe artival of the Macedonian army. The\nalso had a large contingent of Greek mercenaries that were held in reserve.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    49,
+                    109,
+                    561,
+                    564
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_18instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    546,
+                    557,
+                    712
+                ],
+                "ocr_text": "the Battle of the Granicus, 334 BC!\n\n[As the Battle of the Granicus began, the Persian Leaders focused on the movements of\n\u2018Alexander as they were determined to kill him. He made a very conspicuous target because of the\nlittering armor he wore along with having white plumes on his helmet.\n\n\u2018The Persians saw Alexander atthe head ofthe cavalry onthe right flank, so they concluded he\nwas going t attack them to ther left. \u2018The Persians then transferred some oftheir cavalry regiments\nfrom their center and massed them on and above the riverbank opposite Alexander where they\n"
+            }
+        ]
+    },
+    {
+        "page_number": 19,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    65,
+                    555,
+                    702
+                ],
+                "ocr_text": "\u2018The tension inthe air was palpable, each side facing each other silently. Alexander stated the\nbattle by sending a forward advance force. A total of 950 horsemen and a phalanx of infantry\n(1.000 soldiers) made a fein attack on Persia's extreme left flank with Socrates\u2019 squadron leading\nthe way. Arsian whose account ofthe battle isthe most comprehensive and reliable had this to say\n\n\"At the point where the vanguard under Amyntas and Socrates touched the bank, the Persians\nshot volleys on them from above, some hurling thei javelins into the river from their commanding\nposition on the bank, others going down tothe stream on the more level ground, There was a great\nshoving by the cavalry, as some were trying 10 get out of the river, others to stop them, great\nshowers of Persian javelins, much thrusting of Macedonian spears. But the Macedonians, much\n\u2018outnumbered, came off badly inthe first onslaught; they were defending themselves from the river\n\u2018on ground that was not fim and was beneath the enemy's while the Persians had the advantage of\n\u2018the bank: in particular, the lower ofthe Persian cavalry was posted here, and Memnon's sons and.\nMemon himself ventured thei lives with them. The first Macedonians who came to grips with\nthe Persians were cut down, despite their valor:\n\nEven though the Macedonian advance force was weak and met with intense resistance and\nsutfered heavy loses, it suceeded in drawing the Persian left lank cavalry out of thei formations.\n\u2018Once that happened Alexande\u2019s trumpets started blaring commands, launching his main assault.\nHe led his companion cavalry the elite ofthe army forward. They fought their way tothe eastern\n\u2018bank as the Persians hurled their jvelins at them. Atrian described the fighting at that point\n\n\u201cthough the fighting was on horseback, it was more like an infantry battle, horse entangled\nWith horse, man with man in the struggle, the Macedonians trying to push the Persians once and\nfor all from the bank and force them on tothe level ground, the Persians trying to bar their landing\nand thrust them back again into the river.\u201d\n\n\u2018As the feint attack was taking place Alexander and the rest of his army advanced, battle eres\nresounding as they entered the river When the Persian leaders recognized Alexander, they rode\nto engage him in hand-to-hand combat. Alexander's lance (sarissa) became splintered during his\nfist struggle, and he called for another one. While he waited, he fearlessly continued to fight his\nadversary. He was now fighting with the broken aft point\n\n\u2018As soon as he received another sarissa, a Persian cavalry commander named Mithridates\nappeared at the head of a squadon. Alexander rode forward and struck him in the face with his\n"
+            }
+        ]
+    },
+    {
+        "page_number": 20,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    56,
+                    68,
+                    554,
+                    600
+                ],
+                "ocr_text": "sarissa killing him instantly. Another Persian nobleman named Rhoesaces rode up with his scimitar\nand sliced off pat of Alexander's helmet causing a minor wound, Cletus, commander of the royal\nsquadron who was entrusted to keep the king safe anticipated the blow and severed the Persians\nsword arm saving Alexander's ie\n\n\u201cThe Macedonians kept coming forward up the banks and the Persians kept trying to put them\nback in the river. They wanted to Keep them from getting a foothold and rushing over the banks.\nArian wrote,\n\n\"The Persians were now being roughly handled from all quarters; they and their horses were\nstruck in the face with lances [srissas], they were being pushed back by the [Companion] cavalry,\nand were suffering heavily ftom the light oops, who had intermingled with the cavalry.\n\n\u2018The Macedonians slowly but steadily drove the Persians farther back, gaining the level ground\nabove the riverbank. As a result ofthe loss of many of its leaders the Persian cavalry started to\nrapidly deteriorate. The frst to begin to give way was the Persian line where Alexander was\nengaged, The whole center collapsed. Once the center caved in both wings ofthe Persian cavalry\npanicked and fled, The Macedonian army couldn't chase the fleeing cavalry very far because the\nPersian Greek mercenary infantry was sill holding their ground barring Alexanders path,\n\n\u2018The mereenary contingent gave Alexander the terms under which they would surrender, but\n\u2018Alexander rejected it and wanting to make an example of the \"waitors\" the mercenaries were cut\n{down with only 2,000 of the 20,000 in the batle spared and sold into slavery in Greece. Alexander\nordered all who had fallen in the Bate of Granicus, including Persian leaders and Greek\nmercenaries to be buried with military honors.\n\n\u2018Alexander's heroic leadership, fighting inthe mide of the battle and narrowly escaping death\n\u2018earned him what Diodorus called the \"palm for bravery\u201d and gave him his frst great victory over\nthe Persians, opening the way to Wester and southern Asia Minor. With the triumph at Granicus,\nthe Greek cities of Asia Minor were liberated from Persian rule and the beachhead was kept for\n"
+            }
+        ]
+    },
+    {
+        "page_number": 21,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    70,
+                    76,
+                    553,
+                    277
+                ],
+                "ocr_text": "Chapter Five: Onward to Issus\n\n\u2018After the Butle of Granicus River Alexander was able to establish control over Asia Minor.\nWith no threat of attack Alexander was able to send back to Macedonia for the winter any men\nmarried immediately before the campaign. This had the dual effect of increasing Alexander's\npopularty\u00ae within the army as well an increase the size of his army as they bought on thet return\nfresh recruits\n\n\u2018Alexander secured his supply lines and did something unheard of in the ancient world, he\ncontinued his campaign throughout winter. This enabled Alexander to secure the southern and\nwestern coasts of Asia Minor, which meant thatthe Persians had no save place to land their fleet\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    85,
+                    273,
+                    377,
+                    703
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_21instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    246,
+                    495,
+                    356,
+                    645
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_21instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Header and Footer",
+                "bbox": [
+                    97,
+                    697,
+                    349,
+                    727
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 22,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    61,
+                    69,
+                    556,
+                    397
+                ],
+                "ocr_text": "In Spring 333BC, Alexander met**up with his returned soldiers and fresh recruits in Gordium,\nin central Turkey. While here he visited the famous oxcatt of King Gordium. The yoke of the oxen\nhhad been tied to a pole so complicated that it was impossible to undo. According to legend,\nWhoever managed to untie the Gordian knot would become the King of Asia, Alexander tried to\nuntie the knot but was unable. To complete the prophecy\u2019 Alexander took out his sword and eut the\n\u2018knot, declaring the prophecy fulfilled, stating that there was no limit to the way that the knot could\nbbe untied. He may have cheated but it was great publicity\n\n\u2018After Gordium Alexander continued to march through Asia Minor unchallenged tothe Ciician\n\u2018gates, an extremely narrow pass that would be easily defended. The Persian defenders, however,\nfled as Alexander approached, leaving the Macedonians free to pass through and to take the rich\ncity of Tarsus and opening up the coast, which is now modern Istael and Lebanon,\n\n(On reaching Tarsus, Alexander had swam in the freezing water ofthe Cydnus River after\nlong Fide and caught a fever. This would take Alexander two months to recover from.\n\nFollowing the loss in at Granicus River, Darius took over personal contol of the Persian army.\nHe had assembled large army in Sochi, modem Syria and upon hearing tis, Alexander marched\nsouth to face the full force of the Persian army.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    100,
+                    703,
+                    302,
+                    725
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 23,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    61,
+                    438,
+                    551,
+                    712
+                ],
+                "ocr_text": "Alexander discovered that he had made a serious miscalculation, While he had been heading south\nonthe westem side ofthe mountains nea the coast, Darius had travelled north onthe eastern side\nAlexander to fight o starve. The Persians also Killed and mutilated the sick and injured lft behind\nat haus\n\n\u2018The Persians, with their much ager army settled down on the Noth bank ofthe Pinas Rivet,\nsear Iss and wailed for Alexander totum around and counter march back to face the Persian\u2019\nIe vasa cold and rainy day on November 5, 3338 when the two aries faced each ober across\nthe sver, There Wete lage numberof boulders in he sve, meaning that charging horses Wete\nat isk of breakin their legs and the banks in some places would be difficult to climb.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    46,
+                    63,
+                    554,
+                    441
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_23instance1.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 24,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Figure",
+                "bbox": [
+                    56,
+                    140,
+                    556,
+                    666
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_24instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    76,
+                    65,
+                    550,
+                    145
+                ],
+                "ocr_text": "\u2018The situation for Alexander was not as bad as it Seemed, The Persians had drawn up on a\narrow coastal plain, only {Wo miles wide, with the sea on one flank and mountains on the other.\nhis meant that Darius didn't have enough room to deploy\u2019 all of the Persian troops, while\n\u2018teem der wee eble tn fully denice bie.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 25,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    65,
+                    63,
+                    553,
+                    268
+                ],
+                "ocr_text": "\u201cThe battle stated with what would be Alexander\u2019 signature moves. He charged with his\n\u2018Companion cavalry on the right crossing the river at a charge and breaking through the Persian\n\u2018resistance. Inthe meantime, Darius attacked the Thessaly cavalry on his ight but due to the Limited\nspace was unable to deploy his overwhelming numbers and despite pushing Parmenion and the\n\u2018Thessaly cavalry back they were unable to break through,\n\nBack over on the right, Alexander\u2019 charge had broken through the Persian infanty line. On\nhis Fight, the rest of the companion cavalry crossed the river engaging and then driving back the\nPersians This caused their entite left wing to collapse and the soldiers to fle. Alexander then\nsovung round tothe center pressuring the Greek Mercenaries sutrounding Darius. Datius upon\n\u201ccosines that bebe Ven heal eases lermbeme uemesl ual fest thes beapttee\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    53,
+                    262,
+                    546,
+                    647
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_25instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    631,
+                    556,
+                    678
+                ],
+                "ocr_text": "\u2018Alexander, instead of chasing after Darius, continued around the back of the Persian Tine t0\nsupport Parmenion. The fleeing of Darius caused the morale\u201d to collapse and with the risk of being\n"
+            }
+        ]
+    },
+    {
+        "page_number": 26,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    65,
+                    551,
+                    264
+                ],
+                "ocr_text": "surrounded the Persian cavalry turned to flee. Due to the large number of soldiers they got in each\nother's way and Alexander was able t0 score a complete victory. Despite chasing him into the\nmountains Alexander was unable to capture Darius who would regroup later to carry on,\n\n\u2018Alexander was able to capture the Persian camp which along with 3,000 talents of Gold and\nSilver, Darius\u2019 mother, wife and two daughters. They were taken hostage but were treated with the\nrespect that befitted members of a royal family. He let them know that Darius was alive. Darius\nWould try to exchange them for half of his Kingdom, but Alexander would refuse\n\n\u2018The following day Alexander would preside over a grand funeral for all those, Persian,\nMacedonian and Greek mercenary that had fallen at Issus and would visit the wounded as they\n"
+            }
+        ]
+    },
+    {
+        "page_number": 27,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    73,
+                    558,
+                    605
+                ],
+                "ocr_text": "Chapter Six: The Siege of Tyre\n\nFollowing the victory a Tssus, Alexander had the choice to continue his march east into Persia\nin search of Darius before he could recover and fund another Army of to ead south along the\nMediterranean coast to destroy the Persians naval power, he chose the later\"\n\nDuring this period the suength of your navy depended on the contol ofthe ports as Ancient\nships could not operate far fom land or could they remain at sea fora long dine as they coukd\ncary only limited amounts of food or water\n\n\u2018Alexander marched his amy down the Phoenician coast wih his army about 35,000 to 40,000\nsttong. The northern cities were quick to capitulate and recognize Alexander as their new overlord\nHe received the capitulation of Byblos and Sidon, Tyran envoys reached Alexander while he was,\n\u2018ona march, declaring they intended wo honor his wishes,\n\n\u2018Alexander\u2019 wish was a simple one. He wished t satfice to Heracles in Tyre. The Tysin's\nthought this might be a ploy by Alexander to getin and occupy the city and refused but did say he\nwas welcome to sactfie to Heracles in Old Tyre, which was built upon the mainland and held no\nstrategie importance.\n\n1c was also only the King of Tyre that could satfice to Heracles in dhe Main Temple in New\n\u2018Tyre and by doing so Alexander would be asking to be recognized as the King. The Tyrian's\n\u2018refused and closed thet gates and harbor tothe Macedonians. The refusal of the Tysian\u2019s was\ntantamount to a declaration of war to Alexander\n\n\u201cThe Tyrians were aware of Alexanders growing reputation but were confident because they\nhad a powerful navy and mercenary army. Their city ly roughly half @ mile offshore, and\nsccording o Arian, the walls facing the landward side towered to an impressive 150 fn height\n\u2018The defenses of Tyre were formidable and had withstood a number of sieges in the past. The\n\u2018Tyrians began to evacuate most ofthe women and children to ther colony at Carthage, leaving\nbehind around 40,000 people. Carthage also promised to send military help such as ships and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 28,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Figure",
+                "bbox": [
+                    49,
+                    68,
+                    558,
+                    577
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_28instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    443,
+                    547,
+                    688
+                ],
+                "ocr_text": "Figure 13 Historical Map of Tyre and Vicinity. Mlustrating the Stege of Tyre, 333-332 BC.\"\n\n\u2018Alexander was aware that Tyre was supposed to be impregnable and convened a council of\nwar. He explained to his generals how important it was to secure all Phoenician cities before\nadvancing on Egypt. Tyre was a stronghold for the Persian fleet and leaving them behind would\n\u2018threaten Alexander's rear. In the hopes of preventing a long exhaustive siege, as a last-ditch\nattempt, he sent heralds to Tyre demanding their surrender, but the heralds were executed, and\ntheir bodies thrown into the sea\n\nAfter negotiations failed, Alexander began his operations in January 332. BC. He went and\n\u2018occupied old Tyre and from there began to construct a causeway (or mole) across the channel\ntoward the walls of Tyee, using rocks, timbers and rubble taken from the buildings ofthe old city\nAt first the work progressed well, the water near the mainland was shallow, but a the causeway\n\u2018grew longer the Macedonians and Greeks began to run into wouble. The sea depth was increasing\n"
+            }
+        ]
+    },
+    {
+        "page_number": 29,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    54,
+                    69,
+                    549,
+                    725
+                ],
+                "ocr_text": "to over 18 feet. Work slowed down and the work gangs found themselves harassed by missile fire\nfrom the city walls\n\n\u2018Alexander constructed two siege towers and positioned them at the end of the causeway.\nArtillery engines atthe top of the towers were able to return fire at the walls. Alexander spent\nmuch of his time on the mole and dispensed small amounts of money to his laborers and led by\npersonal example,\n\n\u2018The Tyrians quickly devised a plan to topple the siege towers. They constructed a special ire\nship, which was weighted down aft to raise the bow The Tyrians attacked the end of the mole\nTeniting the fre ship, it rode up onto the mole setting the towers ablaze.\n\nEven though this was a setback, Alexander endeavored to complete the mole even though he\n\u2018became increasingly convinced it would take a formidable navy to capture the city. As luck would\nhhave it, 120 ships from Cyprus arived as well as another 80 that defected from the Persians. As\nhis naval stength swelled, he was able to blockade Tyre's two harbors. Refittng several ships with\ncatapults and battering rams, he anchored them near the city. The Tyrian divers dove out and eut\nthe anchor cables. Alexander countered this by ordering the cables replaced with chains\n\nWith the mole neatly reaching Tyre, Alexander ordered catapults forward which began\n\u2018bombarding the city walls. Finally breaching the wall in the southern part ofthe city, Alexander\nprepared massive assaults, While his navy attacked through the breach, siege towers were floated\nagainst the walls while troops attacked through the breach. Despite fierce resistance from the\n\u2018Tytians, Alexander's men were able to slay the inhabitants, only those who took refuge inthe cities\nshines and temples were spared,\n\nFor months the besiegers blood was up, and after long and bitter siege, they were not inclined\ntbe merciful. Six thousand Tyrians were slaughtered when the city was taken, and another 2,000\ncrucified on the beach. A further 30,000 were sold into slavery. The King and his family were\nspared and a number of Carthaginian pilgrims who took sanctuary in the Temple of Melgar.\nMacedonian losses were only 400.\n\n\u201cAfter seven months, the siege was finaly over and\" Alexander was finally able to make his\nsacrifice to Heracles and held a torch race and triumphal procession through the streets of the city\n\u201cTyre was subjugated.\nfinally over and.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 30,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    64,
+                    438,
+                    552,
+                    708
+                ],
+                "ocr_text": "From Gaza it was 140 miles across the Sinai desert to Egypt. Alexander kept close tothe coast\nand had fresh water and food supplied by the navy supporting him along the coast. When\n\u2018Alexander arrived in Memphis, he received no resistance. The Egyptians hada history of opposing\nPersian rule and Alexander was proclaimed as the new pharaoh and made sacrifices tothe Egyptian\ngods\n\nFrom Memphishe travelled down the Nile othe coast where he would found the world-famous\ncity that would take his name. Alexandtia would eventually become the largest city ofthe ancient\nWorld, home to one ofthe ancient wonders, the Lighthouse of Pharos and the enter of knowledge,\nthe Great library of Alexandria. It would become an incredibly wealthy center of trade and the\n\u2018heart of intellectual and cultural progression,\n\nFrom Alexandria, Alexander made a difficult trip, 200 miles along the coast and then 100 miles\nsouth across the Sahara desert to the Oasis of Siwah with a small number of companions. The\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    65,
+                    78,
+                    550,
+                    178
+                ],
+                "ocr_text": "Stapler seven. Alexander in Leypt\nAfter taking Tyre, Alexander continued to head south, receiving the capitulation ofall the cities\nuntil he had travelled 160 miles south to Gaza, a rich city situated atthe end ofthe southern trade\nroute. It was built on a large mound and had large walls however they were no match to the siege\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    79,
+                    174,
+                    554,
+                    463
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_30instance2.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 31,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    468,
+                    545,
+                    574
+                ],
+                "ocr_text": "Its unknown the answers received by Alexander there, but he is said to have written a letter\n{to Olympias, his mother stating that he would only reveal the answers to her on his return home to\nMacedonia. After leaving Siwah and then Alexandria, Alexander returned to Tyre where he set\n\u2018out to complete his mission to defeat Darius, which culminated with the Battle of Gaugamela\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    63,
+                    65,
+                    549,
+                    150
+                ],
+                "ocr_text": "\u2018Temple of Ammon was situated here, and the high priest would take on the character of Ammon\nand answer questions with nods and gestures. Alexander, welcomed as the Son of Ammon, was\nlead inside alone by the priest, with the rest of the party left outside. After a time, Alexander came\n\u2018out of the temple stating that he was happy with the answers given to him and everybody left.\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Figure",
+                "bbox": [
+                    68,
+                    163,
+                    553,
+                    495
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_31instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Image",
+                "bbox": [
+                    281,
+                    162,
+                    532,
+                    470
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_31instance3.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 32,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    56,
+                    71,
+                    561,
+                    646
+                ],
+                "ocr_text": "Chapter Eight: The Battle of Gaugamela\n\n[As the summer of 331BCE approached, Darius was stationed in Babylon and Alexander in\n\u201cTyre. Alexander set out East and reached the Euphrates River, fiom where Darius expected him to\nfollow the river south to Babylon, Instead, Alexander crossed and continued east reaching the\n\u2018Tigris River, staying othe North of Darius. The reason for this is that the floodplains here where\nideal for cavalry of which Darius had far greater numbers.\n\n\u201cThe two kings played cat and mouse wi neither wanting to come to Face the other where they\nwere to give away the testoial advantage. It was Darus whose far larger army was expensive to\nfeed and pay for that broke first, He moved north, crossing the Tigris river and even found an area\nlarge enough to allow his cavalry to fully maneuver, a plan at Gaugamela\n\n\u2018Alexander made camp several mile from Darius. Even with reinforcements, Alexander's army\nwas now about 40,000 infantry and 7,000 cavalty. Darius\u2019 40,000 cavalry and infantry (estimates\nrange from 100,000 to nearly one milion) dwarfed this. I is not as bad as it seems, while the\nPersian cavalry were good soles the infantry was poor and would play ony a lite role in the\nupcoming batt\n\n\u2018While on a scouting trp, Alexander came upon an advance party sent by Darius. While some\nofthe party fle, several others were captured and were more than willing to tell of Darius\u2019 numbers\nand the presence ofthe traps and obstacles on the Field\n\n\u2018The night before the battle Alexander held a council of his generals; Parmenion, the\ncommander of Alexanders left flank suggested that the lage size of Darius\u2019 forces called for them\nto attack at night; however, Alexander disagreed. The historian Arian made mention of this\nepisode in his History of Alexander:\n\nIe is said tha Parmenion came to hi in his tent and urged him to make a night atack on the\nPersians saying that thus he would fll upon them unprepared and in a state of confusion... but\nthe reply which he made to him .. was tha it would mean to steal a victory\n\nLater, as Alexander addtessed his men, he spoke of the forthcoming batl, reassuring the\ntypically superstitious Macedonians that an earlier eclipse ofthe moon was a sign of victory.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 33,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Figure",
+                "bbox": [
+                    43,
+                    67,
+                    563,
+                    495
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_33instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    452,
+                    554,
+                    685
+                ],
+                "ocr_text": "\u2018On the day ofthe battle, October 1, 331BCE, Alexander i said to have overslept. As he had\npreviously done, he made sure his men were well fed and well rested. Darius and his men, on the\nother hand, spent\u00aea sleepless night waiting for a night attack that never eame.\n\n\u2018Alexander's setup was the same as at Issus, Parmenion was t0 lead the Thessaly and allied\ncavalry on the lef, mainly in a defensive role while Alexander, onthe right of the Phalanx, was to\nlead the assault of the Macedonian cavalry\n\n[As the battle began, Alexander and his Companions immediately moved to the right at\u201d an\n\u2018oblique angle. Following Darius's orders, the Persians, under the leadership of Bessus, moved t0\ntheir left, countering Alexander in an attempt to outflank him. As the Persians moved further and\nfurther to their left and into terrain that had not been cleared, an opening or gap was created\n"
+            }
+        ]
+    },
+    {
+        "page_number": 34,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    61,
+                    69,
+                    551,
+                    266
+                ],
+                "ocr_text": "According to some historians, this entire move by Alexander had been a feint. Seeing the opening,\n\u2018Alexander formed his men into a wedge and quickly moved to his left and into the clearing,\ncharging the shocked Darius. Over on the Persian right the cavalry under Mazaeus was putting\nintense pressure on Parmenion, forcing them\u2122 back but again the Thessaly cavalry held\n\n\u2018While Alexander was challenging the Persians on the right, Darius sent his seythed chariots\ntowards the Macedonian center, a move that filed to have the effect Darius had hoped. As the\nchariots approached, the phalanx merely opened ranks, allowing the chariots to passthrough. The\ninfantry immediately set upon the Persians, and hand-to-hand combat soon followed. Alexander,\nspying Darius, seized upon the opportunity and threw a spear at the shocked king (missing him by\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    61,
+                    262,
+                    536,
+                    619
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_34instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    59,
+                    617,
+                    555,
+                    668
+                ],
+                "ocr_text": "\u2018Alexander's charge through the gap on the Persian left caused Darius to lose his nerve, so\ndespite the battle being far from lost he again decided to flee the battlefield. This caused the\n"
+            }
+        ]
+    },
+    {
+        "page_number": 35,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    53,
+                    64,
+                    557,
+                    164
+                ],
+                "ocr_text": "morale of the Persian army (even where the battle was going well o collapse and followed\ntheir king inflight and were soon routed. Alexander had won the day again and Persia lay open to\nhim, Darius, who fled to Eebatana in Media, had survived but he would never again be able to\nbring an army into the field to face Alexander.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    95,
+                    687,
+                    261,
+                    730
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 36,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    63,
+                    83,
+                    548,
+                    228
+                ],
+                "ocr_text": "ee EE EE\nFollowing his decisive victory Alexander was publicly proclaimed to be the \"King of Asia\n\u2018thus fulfilling the prophecy of the Gordian Knot. He marched south to Babylon which opened its\n\u2018gates und embraced theie new ruler, Alexander rebuilt their main temple and also now\" had access\nto the amazingly large Persian treasury kept there. After resting and relaxing in Babylon Alexander\nset out to complete the conquest of heart of Persia. In December 331BC, Alexander reached Susa\nwhich surrendered, and Alexander received the treasury containing over 1,500 tons of silver.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    72,
+                    541,
+                    549,
+                    678
+                ],
+                "ocr_text": "He then moved onto the heart of the ancient Persian Empire, Persepolis. Persepolis resisted\nand after it was stormed, Alexander let is troops sack the city, withthe exemption ofthe palaces\nAlexander then raided the treasury of over 1,500 tons of silver and gold and stayed in the Royal\npalaces for-4 months to consolidate his gains, finances and to plan his next moves Prior to leaving\nPersepolis, Alexander burnt down the palaces in revenge forthe Persian\u2019s destruction of Athens\n150 years before\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    100,
+                    700,
+                    309,
+                    728
+                ]
+            },
+            {
+                "instance_id": 3,
+                "class": "Figure",
+                "bbox": [
+                    53,
+                    123,
+                    552,
+                    588
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_36instance3.jpg"
+            },
+            {
+                "instance_id": 4,
+                "class": "Image",
+                "bbox": [
+                    136,
+                    214,
+                    548,
+                    552
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_36instance4.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 37,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    59,
+                    60,
+                    553,
+                    526
+                ],
+                "ocr_text": "Daring this time, Darius was in Eebatana (moder Hamadan) and had! managed to build up a\nsmall army and was waiting for further reinforcements from the East. Alexander sent off to capture\nDarius, hoping to capture him and make him recognize him as the rightful ruler of Asia, Upon\n\u2018hearing that Alexander was moving against him, Darius retreated from Eebatana t the northeast.\n\u2018After reaching Ecbatana, Alexander placed Parmenion as the military contoller ofthe strategically\nimportant city. To capture Darius Alexander pressed his troops, covering 200 miles in LI days t0\n\u2018ty and him off before he erossed through the Caspian gates. Upon reaching them he learned that\nDarius had already crossed through the pass so Alexander waited 5 days to rest his men and horse.\n\n\u2018After crossing through the pass, he covered 60 miles in two days, along the edge of the Dasht-\nce Kavir desert, The next day as he was foraging for food, he learnt that his own generals had\narrested Darius. Seting off on a final chase, travelling for two days and nights across the desert,\n\u2018they reached the camp where the remnants of Darius\u2019 forces had camped the night before. Learning\nfrom locals that there was a quicker way through a waterless pat of the desert to catch the Persians,\n\u2018Alexander set off with 500 of his toughest men and they rode through the night. Covering 45 miles\nby dawn, he came across the Persians. With only sixty men who had kept up with him. they\nattacked straight away, On recognizing Alexander, the Persians stabbed Darius before fleeing. By\n\u2018the time that Alexander had reached Darius cartiage, he had died\n\nHe had forced his men to cover over 250 mils in less than\u2019 a week. Which in ancient times\nas unheard of, half of the horses had died, and the remaining horses were spent. Unfortunately.\nit was all in vain as they were unable to capture Darius alive. However, Alexander gave him a\n\u2018royal funeral in Persepolis where he was buried next to his ancestors. It was July 330BC and now\n\u2018Alexander was the undisputed ruler of Asia, at only 26 years old.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    105,
+                    683,
+                    382,
+                    732
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 38,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    72,
+                    555,
+                    696
+                ],
+                "ocr_text": "\u2018Chapter Ten: To the ends of the Earth\n\nFollowing the death of Darius, Bessus who had led the Persian cavalry at Gaugamela usurped\nthe title of King of Kings, renaming himself Artaxerxes IV. In Bactria, which is modem\n\u2018Afghanistan the mountain campaign meant that no large battle was possible, instead Alexander\nhhad to conduct a series of smaller campaigns, which took three years to finally subdue the area\nUsing the speed and discipline developed over the years of campaigns, Alexander split his army\n\u2018and under the conteol of suecessful generals gradually subdued the area, After a number of sieges,\nBessus was betrayed to Alexander, who after placing him on the roadside naked, in chains and\nwearing a wooden collar, had him mutilated and executed, Also during the campaign, Alexander\n\u2018married Barsine, a Bactrian princess who was reported to be the most beautiful woman in Asia,\n\n\u2018While on the Bactrian campaigns there was a plot on Alexanders life known as the Philotas\nconspiracy. A Macedonian noble, Dimnus conspired to kill Alexander and confided this with his\nlover Nicomachus. However, when Nicomachus told his brother Cebalinus, Cebalinus had to warn\n\u2018Alexander. He came across Philotas, the son of Parmenion and told him. Philotas, however\nignored the warning, thinking that it was not serious. Cebalinus continued to try and get his\nwarning to Alexander and once he did, both Dimnus and Philotas were arrested\n\nDimnus managed to kill himself before tral but Philotas, a boyhood friend of Alexander, but\nwho was unpopular with other senior Macedonians was found guilty and murdered. Alexander\n\u2018knew this would infuriate Parmenion who was in charge of a large army\u2019 and financial reserves in\nEebatana. Taking no chances, a messenger was dispatched with great haste and Parmenion was\nexecuted.\n\nAt the star of 326BC, with Bactria finally secure, Alexander wanted to continue on his\n\u2018campaign to the ends of the world; oss the Indus River and beyond into modern India, This was\nfurther than\u201d the Persians had ever gone. Alexander crossed the Indus River in May into the\nKingdom of Taxiles, who surrendered to him, so they continued on until they ran into an Indian\nking, Porus who instead of welcoming the Macedonians drew up on the east bank of the Hydaspes|\nRiver with a force of 30,000 infantry, 4.000 cavalry and 200 war elephants.\n\n\u201cBed this sentence make bee sense. (A Macedonian aobe, Dimausconspted o kill Alexander and\n\u2018confided thle with bis haves Niconsuchus wha tohd hie brother Cohalimus focad oat and atand to wera Alowanden)\n"
+            }
+        ]
+    },
+    {
+        "page_number": 39,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    70,
+                    64,
+                    555,
+                    158
+                ],
+                "ocr_text": "Knowing that Alexander was coming, Porus aimed to prevent the Macedonians from crossing\nthe river. AC the time, the Monsoon rains meant that the rising river made\" a direet assault\nimpossible, especially forthe horses, which were frightened ofthe elephants. Alexander lft the\nmain part of his army, under Craterus directly across from Porus and stationed three phalanx\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Figure",
+                "bbox": [
+                    51,
+                    162,
+                    559,
+                    661
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_39instance1.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 40,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Figure",
+                "bbox": [
+                    47,
+                    194,
+                    539,
+                    620
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_40instance0.jpg"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    66,
+                    68,
+                    556,
+                    191
+                ],
+                "ocr_text": "\u2018The battalions stationed upstream also crossed and were able to join up with Alexander just as the\nbattle was stating.\n\n\u2018Alexander drew up his forces in standard fashion with the Phalanx guarded on the tight by\n\u2018Alexander and his companions with limited cavalry under Coenus hidden from view on the left.\nPorus placed his cavalry on his lft to counter Alexander, while placing his Key weapons, his 200\nwar elephants, at 15m intervals in front of his infantry.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 41,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    66,
+                    549,
+                    265
+                ],
+                "ocr_text": "of their army was killed. Porus was injured but when Alexander asked how he wished to be treated\nPorus said \"Like a King\u201d and Alexander gave him his kingdom back to rule on Alexander's behalf\n\n\u2018Alexander continued south-west where his tusted horse Bucephalas died of old age and\n\u2018Alexander founded the city of Bucephala in his honor. Alexander had intended to conquer the rest\n\u2018of India, which was believed to be a reasonably small country. It was becoming apparent that this\nwas not the ease when the Macedonians reached the Hyphasis River. With the seemingly never-\nending county stretched out before him, the soldiers mutinied, refusing to go any further and\nhanding Alexander his only defeat, Alexander shut himself away in his tent for three days, making\nsacrifices to the gods and (declaring the omens to be unfavorable) gave the orders to return to\n"
+            }
+        ]
+    },
+    {
+        "page_number": 42,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    77,
+                    560,
+                    548
+                ],
+                "ocr_text": "Chapter Eleven: the Return to Fersia\n\nIn September 326BCE, the forces return to Bucephala, which was on the Hydaspes river and.\nstarted fo sail downstream. In Alexander's\" absence, a large fleet had been built, consisting of?\n\u2018nearly 2,000 ships consisting of warships, troop and horse transports and supply ships. They\ntravelled downstream, entering ever-larger tributaries of the Indus river. As they travelled, they\nsubdued many people but while storming a city of the Mallians, Alexander, who was first over the\nalls was initially only supported by three bodyguards. While he managed to kill some defenders,\nthe was shot with an arrow. One of his bodyguards, using the sacred shield of Athena (taken from\n\u2018Troy at the start of the campaign) managed to protect him while the rest of the army was able 10\nscale the walls and believing Alexander to be dead, the soldiers massacred everybody.\n\n\u2018There was a rumor back at the main camp that Alexander had died and there was suspicion\nthat the generals were hiding the truth causing a near riot of the oops. Even when a letter was\nproduced from Alexander as proof that he was alive did not stop the anger. It was only when\n\u2018Alexander's body was displayed on a river barge for the army to see and then the raising of his\nhhand that bought the ioting* to an end,\n\nIi then took\" until October 325BCE to reach the mouth of the Indus river out to the Arabian\nsea. The army then set out for Persia, The army was spit, with Nearchus sailing the navy down\nthe previously unchartered coast, Craterus leading large par ofthe army through an easier inland\nroute. However, Alexander tempted fate by crossing across the very harsh, waterless Gedrosia\ndesert by sticking close tothe coast, in contact with Nearchus, to help supply the troops using the\nNavy. With temperatures of up to 120 degrees and long stretches without water, the conditions\nWere terrible. Marching only at night for sixty days, with supplies running dangerously low, the\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    604,
+                    551,
+                    728
+                ],
+                "ocr_text": "Satexandee's replacing \u201chis\n\n\u201c\u00a9 Aad \"consisting of\n\nAdded \u2018the sae\u2019 for lay\n\n+ \"Ricing\u201d replacing problems\u201d\n\n* Switched around the words \u201cook\u201d and \u201cthen.\u201d\n\nOriginally \u201cThe army was split, with Nearchus sailing the navy down the previously uncharted coast,\nCaters eading a lage pat ofthe amy thgh an easier iland route while Alexander empted fate by crossing ihe\n\u2018Gediosia dese By sticking close wo the east in contact with Neatchus to alp supply the Navy Alexander\n\u2018eaelled across very hash, waterless dest.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 43,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    58,
+                    664,
+                    553,
+                    716
+                ],
+                "ocr_text": "\u00a9 Originally \u201cMarching only at night fer sity days, with supplies runing dangerously low the Soldiers\nwere forced tol for food whatever baggage ania, which had not alfeady died fom the het and reached Persia\nasa shadow of what they were bore\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    50,
+                    67,
+                    556,
+                    132
+                ],
+                "ocr_text": "soldiers were forced to kill for food whatever baggage animals were available, since many had\nalready died from the heat and those that reached Persia were a shadow of their former selves\u201d\n"
+            }
+        ]
+    },
+    {
+        "page_number": 44,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    67,
+                    73,
+                    551,
+                    263
+                ],
+                "ocr_text": "Chapter Twelve: The Susa marriages.\n\n\u2018With the campaigning winding down, Alexander tied to fuse the Macedonian and Persian\ncultures together This had been going on ever since the Batle of Gaugamela but the crowning\nory ofthis was the Susa Weddings.\n\n\u201cThese weddings were arranged by Alexander in 324 B.C. inthe Persian city of Susa His intent\nwas to unite the Persian and Macedonian cultures by taking a Persian wife himself and celebrating\n{mass wedding witha Persian cefemony. He also arranged martages for his offices with noble\nPersian wives. The unions were not only sytubolic, but also the offspring were tobe the progenitors\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    69,
+                    655,
+                    551,
+                    733
+                ],
+                "ocr_text": "* Rearanged much ofthis paragraph to be clearer and litle less wordy. Orginally-The Susa Weddings\nwas amass wedding aranged by Alexander of Macedonia in 324 B.C. in the Pesan city of Sus. His nent was fo\nUnite the Persian and Macedonian cultures. by taking Persian wife himself and eelcrating a mase wedding with\nPosian ceremony along wth his fcrs for Whom he atanged mariages with noble Persian wives. The union Was\nsot only symbolic a the new asprin were to be the progenitors of both civilizations.\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Figure",
+                "bbox": [
+                    65,
+                    252,
+                    545,
+                    682
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_44instance2.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 45,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    63,
+                    76,
+                    557,
+                    699
+                ],
+                "ocr_text": "Mexander was already married\u2019 to oxana, the qaughter of a pactrian clet, Sur Macedonian\nand Persian customs allowed several wives. Alexander himself martied Staeira I, the eldest\ndaughter of Darius, and, according to Aristobulus, another wife in addition, Parysatis 11, the\nyoungest daughter of Artaxerxes IIL\u201d\n\n\u2018To Hephaestion he gave Drypetis, she was also a daughter of Darius. \u2018This meant that\n\u2018Alexander's wife sister. He wanted Hephaestion's children to be his own nephews and nieces. To\nSeleucus he gave Apama, the daughter of Spitamenes the Bactrian, and likewise to the other\n\u2018Companions the daughters of the most notable Medes and Persians, eighty inal\n\n\u2018The weddings were solemnized in the Persian fashion: chairs were placed for\nthe bridegroom in order of precedence. After the toasts, the brides entered and each sat down by\nher groom, who took them by the hand and kissed them. The king was the first to be matried, for\nall the weddings were celebrated inthe same manner, and inthis ceremony. he showed even more\nthan his customary approachability and comradeship. Then the bridegroom took their wives back\nto their homes and Alexander gave each of them a dowry. All the other Macedonians who had\npreviously married Persian women, he ordered to be registered. These were found to number more\n\u2018than 10,000, Alexander then gave them all wedding-presents.\n\nBy marrying the daughters of Darius and Artaxerxes, Alexander was both identifying himself\nWith the Persians and also making his own position more secure. He could now claim to be the son\nand rightful heir of both previous Persian kings. He also wanted to honor Hephaestion by making\nbi his brother-in-law\n\n\u2018What the Macedonians thought of these marriages is evident from the fact that all the nobles\ndivorced their wives after Alexander\u2019 death, except Hephaestion, who died before Alexander, and\nSeleucus. So, in spite of Alexander's precedent, the Macedonians were no more inclined to share\nequally withthe Persians than before.\n\nSoon after, Alexander's lifelong friend and second-in-command, Hephaestion, died in\nEcbatana from a fever, though some reports suggest he may have been poisoned. Historian\n\u2018accounts of Alexanders esponse to this event universally agree that his grief was insupportable.\nPlutarch claims that Alexander slaughtered the Cossaeans of \u00ab neighboring town as a sacrifice to\nhis frend, and Arrian writes that he had Hephaestion's doctor executed for failing o eure him. The\nmanes and tails ofthe horses were cu asa sign of mourning. Alexander refused to promote another\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    107,
+                    705,
+                    311,
+                    725
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 46,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    63,
+                    65,
+                    553,
+                    151
+                ],
+                "ocr_text": "1 Hephaestion's position as commander of the cavalry. He abstained from food and drink and\ndeclared a period of mourning throughout his empire and funeral rites usually reserved for a king\n\u2018and laid plans to build a great pyramid, like those seen in Egypt in Hephaestion\u2019s honor.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 47,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    62,
+                    241,
+                    552,
+                    487
+                ],
+                "ocr_text": "\u2018On May 29, he was attending a dinner party for Nearchus, who was to lead the fleet on his\ninvasion of Arabia, After a day of heavy drinking, Alexander complained that he did not feel well\n\u2018and went to bed, suffering from a fever. His health steadily deteriorated over the following days\n\u2018On the Sth of June, fearing that he was already dead the soldiers pushed into his room, demanding\nto see him.\n\nHe was unable to speak or move but he welcomed each ofthe soldiers with a nod of his head.\n\u2018or with his eyes as they filed past. The men insisted on saying their goodbyes to their general that\n\u2018they had shared the past 13 years campaigning with, He had shared their triumphs and hardships\nand was loved by his oops.\n\n\u2018On the evening of June 10th, Alexander the Great, conqueror ofthe Persians and the King of\nAsia, died. He was only thirty-two years old and in thirteen years changed the course of history\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Image",
+                "bbox": [
+                    103,
+                    152,
+                    278,
+                    239
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_47instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    54,
+                    82,
+                    562,
+                    152
+                ],
+                "ocr_text": "ee DILL IE EE ESI\nEurly in 323 BC, Alexander traveled to Babylon to oversee the building of Hephaestion's\npyramid and the construction of a great fleet for his next invasion, of Arabia.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 48,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    64,
+                    73,
+                    557,
+                    446
+                ],
+                "ocr_text": "Chapter Fourteen: After his death\n\n\u201cter his death, Alexander's most important plans were abandoned.\u00ae His invasion of Arabia\nwould never take place and Hephaestion\u2019s pyramid will never be built.\n\nInstead of continuing Alexander's work and expanding his empire, his generals and family\nmembers fought amongst themselves. The unity that Alexander had created evaporated nearly as\n\u2018quickly as it was ereated** Alexander's half-brother was crowned king along with Alexander's\nunborn son Alexander IV (from Roxane). Alexander's family was killed off during a complicated\nset of civil wars with the end result being the formation of three smaller kingdoms based around\ndifferent_generals, Ptolemy in Egypt, Antigonus in Macedonia/Greece and Seleucus in\nBabylon/Persia. These are the kingdoms that formed the pillars ofthe Hellenistic age where Greek\nculture was preserved, enriched and formed the backdrop for the development of the modern\nworld.\n\n\u2018The Antigonid dynasty was the frst to fall, in 168BC following defeat to Rome at Pydina,\nmeaning that Macedonia, Alexanders bisthplace would become a Roman provinee. The Seleucid\nDynasty would last until 64BC, when it disintegrates under pressure from Rome and the Parthians\nfrom Asia, The las ofall would be the Ptolemaic Dynasty whose last rule, Cleopatra VIE, had\n\u2018relationships with Julius Caesar and Mark Anthony, and was defeated during the Roman civil wars\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    100,
+                    679,
+                    466,
+                    721
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 49,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    82,
+                    552,
+                    185
+                ],
+                "ocr_text": "eee IS ES\nFollowing his death Alexanders body was preserved using the latest Egyptian techniques, and\nencased in honey in a see-through coffin, His funeral pyre was said to be the grandest ever ereated.\nIn 321 BCE as it was making its way back to Macedonia for burial it was stolen by Ptolemy and\ntaken to Egypt. The body was interred in Memphis.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    58,
+                    630,
+                    544,
+                    706
+                ],
+                "ocr_text": "In 280 BCE, his body was moved from his Memphis tomb and moved to Alexandeia where\nProlemy If placed it in a grand communal mausoleum. Shortly after the death of Cleopatra,\nAugustus visited the tomb and placed a golden crown on his head. By the fourth century C.E., the\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    97,
+                    192,
+                    268,
+                    406
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_49instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Figure",
+                "bbox": [
+                    67,
+                    412,
+                    551,
+                    639
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_49instance3.jpg"
+            },
+            {
+                "instance_id": 4,
+                "class": "Figure",
+                "bbox": [
+                    88,
+                    180,
+                    500,
+                    427
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Figure\\page_49instance4.jpg"
+            },
+            {
+                "instance_id": 5,
+                "class": "Image",
+                "bbox": [
+                    185,
+                    424,
+                    531,
+                    621
+                ],
+                "image_path": "annie_extracted_data/Ancient_History_Alive_Alexander_the_Great/Image\\page_49instance5.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 50,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    70,
+                    69,
+                    551,
+                    203
+                ],
+                "ocr_text": "location of his body was no longer known, and the situation was made worse after the Romans lost\ncontrol of Alexandria to the Muslims in the seventh century C.E,\n\nLater in history, some historians, such as the Arabs Tbn Abd al-Hakam and Al-Masudi, report\nvisiting the tomb. Leo Afticanus (about 1520) and George Sandys in 1611,* reportedly saw the\ntomb in Alexandria, The body however is now in an unknown location, reportedly (according to\nsome rumors) inthe Crypt of an early Christian church.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    65,
+                    653,
+                    546,
+                    722
+                ],
+                "ocr_text": "5 Fixed ie names of Lo Afticanus and George Sands. Thomas had Leo Afcanus visting Alexande's\ntomlin 191, This because RR. Madden ia his book, Phe Shrines and Sepulchres ofthe Old and New World,\n\u2018ated the date as 1491, However, since Leo was not born unl 1494, woul say thi te date is wrong. whichis\n\u2018why inserted about 1520\u201d Since the dates (1491) af he sme, think we Satie ou ist (conned) cation\n\u2018that Thomas used.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 51,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    68,
+                    91,
+                    545,
+                    264
+                ],
+                "ocr_text": "After spending days polishing up Thomas Blackwell's book, hopefully the reader (if there are\nany) thinks that I did a good job. It wasn't much ofa history of Alexander (and it still isnt), but\nhopefully ike it did me, this book helps you find the base outline of the history of Alexander\nthe Great.\n\n\u2018One thing that was vastly improved from Thomas\u2019 original is citations. Ihave tied to find\nWhere Thomas got his information, Unfortunately, i looks like Wikipedia was his main source.\nBelow, I will give afew suggestions on where you can find better, more in-depth information on\n\u201cA ecomstor the Crear.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    263,
+                    68,
+                    364,
+                    90
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 52,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    59,
+                    85,
+                    557,
+                    415
+                ],
+                "ocr_text": "An entire website complete with extra pages of detailed information ereated by John J.\nPopovic hitps//Istmuse.con/framesfindex html\nDuncan Campbell's Alevander's Great Calvary Batile: What really happened atthe River\nGranieus?\nhupssivww academia edu/3548631/Alexanders great cavalry battle What really happened at\nthe River Granicus\n\nMy favorite ofthe Alexander historians is Arian. Here is an English translation made by\nMartin Hammond in 2013, hitps/ldokumen_publarrian-alexander-the-grea-the-anabasis-and-the-\nindica-oxford-worlds-classicsnbsped-0199587248-0780199587247 him!\n\n\u2018One ofthe frst papers I came across when I was doing a small research paper for my\nEnglish class was The Historians of Alexander the Great by Andrea Zambrini. Not oly did he\nsive a decent amount of information about the earliest historians of Alexander and what they\nsaid, but also gave a small bibliography (like here) where you can obtain more information.\nups:fAwww.academia,edw39302705/The Historians of Alexander the Great\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    254,
+                    68,
+                    373,
+                    91
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 53,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    50,
+                    92,
+                    560,
+                    490
+                ],
+                "ocr_text": "ceat/a/aleranderthe great\n\n7 htp/fwww shortistororg/anclent<hilzaions/ancient macedonins/theorles-ofthe-macedonian-\nvtn-and ellen\n\n* htes/fwww.worahstory.og/Philp of Macedon/\n\n* htaslfm.quora.com/ow-longnts-hitor-could-the-Macedonan-phalanx-have-been-vable-\nsnean-couldthave-been-sed-effectivsly-up fo theeary-meheval-era-r-would-t aleady have-been relevant\nbythen\n\n= ntps/victoanweb or/cculpture/stee/' hm)\n\n* nnslommons.wkimedia og /ui/Fle-Arstotle_ and alexander she g0estJoe\n\n* nnpsdeteustedu/maps/nages/3300/31\u00a24/314a him\n\n* np J/wwu.emersonkent.com/map archie/batie ofthe grancus htm\n\n* nips//ww, crstlinks.com gordianknot htm\n\n\u2018*htip//wuwemersonkent.com/map afchive/batile of lssushim\n\n\u2018hu //uw.emersonkent.com/map_archive/battle_of sus inital suation him\n\n\u2018hp /uemersonkent.com/map_arcive/battle of leus_decive actionttm\n\n\u2018yo fu ersersonkent.com/map archive lege of Wyre him\n\n\u2018hoe ww actinate com peope/ptolemy ott\n\n\u2018 htpey/ ww. dreamstime com/panorama-zaytunake-uns-amun-oracle-temple-mountain-dakrour.\nsvs-os-ypsia-0si-\u00a2gvt-aanoram-magel0312351\u00a2\n\n\u20188 https www. woridhstoy.org/artie/108/the-batl-ofgaugamels:331-bce/\n\n2 bps ww. woridhstororg/artie/108/the-batle-ofgaugamels-31-bce/\n\n* hps vw lv orate /person/\u00e9arusi-codomanous)\n\n\u2018htp//wuwemersonkent.com/map afchive/battle of the hydaspes him\n\n* htp.d/mun.emersonkent.com/map_acchive/btile_of the hudaspes atackttm\n\n2 hupss//en wiped org/wh/Suse_wesldings\n\n2 hp /facademic brooklyn. cuny.ed/lassic/wlson/archaicaphala htm\n\nhp //lustations altervsta. ony augusteau-tombeau-dalexandreby francois:\nschommedoing_wh_con=1638142003.6553649S70465087890525\n\n\u00b0 nttp://lapasan-myblognoel 45, blosspot.com/2024/03/the-slory-and-death-of-alexander-reat.html\n"
+            }
+        ]
+    }
+]

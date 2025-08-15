@@ -1,0 +1,997 @@
+[
+    {
+        "page_number": 1,
+        "instances": []
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    25,
+                    52,
+                    417,
+                    151
+                ],
+                "ocr_text": "Alexander the Great\nThe Macedonian Who Conquered the\nWorld\n"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    32,
+                    131,
+                    379,
+                    258
+                ],
+                "ocr_text": "All rights reserved. No part ofthis book may be reproduced in\n\u2018any form or by an electronic or mechanical means, including\ninformation storage and retrieval systems, without permission in\nwriting from the publisher, except by a reviewer who may quote\nbrief passages in a review.\n\nWritten by Sean Patrick\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    106,
+                    94,
+                    315,
+                    123
+                ],
+                "ocr_text": "Copyright \u00a9 2013 by Sean Patrick\n"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    32,
+                    102,
+                    389,
+                    246
+                ],
+                "ocr_text": "\u2018The Great Mystery of Genius\n\nDrive and the Macedonian Who Conquered the World\nWould You Like to Learn About More of History's Greatest\nGeniuses...And How You Can Join Them?\n\nWould You do me a Favor?\n\n\u2018Blas fe Sean Paisiche\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    158,
+                    67,
+                    259,
+                    96
+                ],
+                "ocr_text": "Contents\n"
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    81,
+                    391,
+                    607
+                ],
+                "ocr_text": "COS COE Pyotr y VE TUS\n\u201cThousands of geniuses live and die undiscovered\u2014either by\nthemselves or by others.\u201d\n\n\u201cMark Twain\nIf could write one sentence that would magically increase\n\u2018your IQ by thirty points, would you be interested in reading that\n\nsentence?\n\nProbably. But why? What would be in it for you? Do you think\nit would help you make more money? Make a name for\nyourself? Find love, happiness, or fulfilment?\n\nI've asked many people these questions and their answers\nare invariable. \u201cOf course it would.\u201d The cultural correlation is.\nUndeniable: we've been indoctrinated to believe that the higher\nthe IQ, the more likely one is to succeed in life. Hence, we\n\u2018assume that the scientists that win Nobel Prizes, the\nbusinesspeople that go from rags to millions, the authors that\nwrite runaway bestsellers, register in the highest ranges of IO\nsimply because they're enjoying sweet successes.\n\nWell, a tremendous amount of research has been done into\nthe scientific correlation between IQ and reabife success, and a\nvery different picture has emerged.\n\n1Q and success are related...to a point. Sure, someone with\n\u2018an IQ of 150 (a \u201cgenius\u201d by all normal standards) is going to do\nmuch better in life than someone with an IQ of 80 (nearly\n\u201cmentally disabled\u2019). Similarly, a person with an IQ of 130 (\u2018near\ngenius\u2019) has a significant upper hand in life when compared to a\nperson with an 1Q of 100 (\u2018average\u2019).\n\nBut here's the catch: the relation between IQ and success.\nfollows the law of diminishing returns. That is, when you\n\u2018compare two people of relatively high IQs, you can no longer\npredict success by IQ alone. A scientist with an IQ of 130 is just\n"
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    41,
+                    390,
+                    601
+                ],
+                "ocr_text": "1s likely to rise to the top of his discipline as one with an IQ of\n180.\n\nDr. Liam Hudson, a British psychologist that headed up\n\u2018Cambridge's Research Unit of Intellectual Development in the\nsixties, compared IQ to basketball. If you're five foot five, your\nprospects of becoming even an NBA bench warmer are slim-to-\nnone. The fact is if you're less than six feet tall, you can pretty\nmuch forget about your dreams to challenge King James in his\ncourt\n\nStatistical data shows us that you have to be at least seventy-\ntwo inches tall to be allowed on the ride, and each inch you\nPush over that is probably better for you. There comes a point,\nhowever, when height just doesn't matter much anymore. Just\nbecause someone is seven feet tall doesn't mean he's a better\nplayer than someone who's six foot six (Michael Jordan's\nheight). The point is you only have to be tall enough to have a\nshot at the pros,\n\n\u2018The same pattem is true of intelligence and success in life.\n\u2018You only have to be smart enough to fulfil the intellectual\nrequirements for success. History's greatest achievers\u2014\npractical, savvy people that did big things and changed the\n\u2018world\u2014are heralded as the greatest geniuses to ever have\nwalked the earth, but while many of them had remarkably high\nIQs, many others were just smart enough.\n\nfwe can't explain their success in terms of IQ alone, what\n\u2018else did they possess that allowed them to rise to such heights?\n\n\u2018Most people would answer along the lines of \u201cextraordinary\ninherent talent.\u201d And they would be wrong.\n\nCallin the inspired bard, Demodocus.\n\nGod has given the man the gift of song.\n\nThat's one of the many god-given gifts of characters in the\nOdyssey. We've learned much since it was wrtten\u2014we've\ndecoded human DNA and discovered our place in the universe\n\u2014but we still marvel at the abilities of geniuses in the same way\n"
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    37,
+                    48,
+                    391,
+                    589
+                ],
+                "ocr_text": "as the ancient Greeks did.\n\nWhether we listen to a sonata of Beethoven's, watch highlight\nreels of Michael Jordan, or leam a law of Newton's, we view\nextraordinary human skills as gifts granted by unknown forces.\nfor unknown reasons. Such an explanation is convenient, but is\nit correct?\n\nFor the last two centuries, behavioral scientists have studied\nthat question through focused research on great performers of\nall types: business managers, chess players, swimmers,\nsurgeons, jet pilots, violinists, salespeople, writers, and many\nothers. Their findings, numbering in the hundreds, have led to\nconclusions that fly straight in the teeth of what \u201ceverybody\nknows\u201d about abilty\n\n\u2018The studies conclusively disproved the notion that great\nperformance stems primarily from a natural \u201cgift\u201d or talent. While\nsome people display innate talents for certain activities early on,\namazingly average people have become champions in all\nmanner of endeavors. Many such top performers overcame\ntheir average\u2014or even below-average\u2014intellects and\nnonexistent aptitudes to develop outstanding abilities in\ndisciplines such as chess, music, business, and medicine.\n\nExamples of such remarkable transformations abound\nthroughout history. Henry Ford failed in business several times\nand was flat broke five times before he founded the Ford Motor\nCompany. In his youth, Thomas Edison's teachers told him he\nwas \"too stupid to learn anything.\u201d Beethoven was so awkward\non the violin that his teachers believed him hopeless as a\ncomposer.\n\n\u2018The world of sports reveals similar findings. Many athletes.\nviewed as superhuman in their abilties were found to have litle\nor no inherent advantage over their peers when they first began\ntheir journeys to greatness. Michael Jordan didn't make his\nsophomore team because he was deemed too short and\naverage to play at that level. Stan Smith, a world-class tennis\nplayer and winner of Wimbledon, the U.S. Open, and eight\nDavis cups, was once rejected for the lowly position of a ball\nboy because the event oraanizers felt he was too clumsy and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    55,
+                    394,
+                    587
+                ],
+                "ocr_text": "ENEQOFANANCG\n\nHow do we explain such unintuitive findings?\n\nWhile many theories were put forth, there was one common\nfactor that researchers recognized in all great performers: they\npracticed so hard and intensely that it hurt.\n\n\u2018Ted Williams, a baseball legend considered the most \u201cgifted\u201d\nhitter of his time, was believed to have natural abiltios far\nbeyond ordinary men, including eagle-like vision, extraordinary\nhand-eye coordination, and uncanny hitting instincts. Williams.\nlater said that such stories were all \u2018a lot of bull.\u201d He had a much\nbetter explanation for his superior skills.\n\nWilliams began his path to greatness at the age of seven,\nwhen he decided to dedicate his entire life to one singular task:\nhitting a baseball as perfectly as possible. Starting at that young\nage, Williams spent every free minute he had at San Diego's old\nNorth Park field hitting balls, every day, year after year after\nyear. His childhood friends recall finding him on that field\n\u2018smashing balls with the outer shells completely beaten off, with\n\u2018a splintered bat, and with blistered, bleeding hands. He would\nspend his lunch money to hire other kids to shag his balls so he\n\u2018could hit as many as possible every day. When the city turned\nOff the field's lights, he would go home and swing a rolled-up\nnewspaper in the mirror until he went to bed,\n\nThis obsession continued throughout William's entire\nprofessional career, and i's no surprise that he excelled\nbecause of it. For \u201cThe Kid,\u201d as he was known, greatness was a\nlong, grueling process\u2014not a gift from the beyond (a claim that\nhe found insulting).\n\nStudies of people with extraordinary abilities, ike Ted\nWillams, have given rise to what Swedish psychologist Dr. K\n\u2018Anders Ericsson called the \u201c10,000 hour\u2019 rule. The rule's,\npremise is that, regardless of whether one has an innate\naptitude for an activity or not, mastery of it takes around ten\nthousand hours of focused, intentional practice. Analyzing the\nlives of geniuses in a wide range of intellectual, artistic, and\nathletic pursuits confirms this concept. From Mozart to Bobby\n"
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    45,
+                    393,
+                    549
+                ],
+                "ocr_text": "nothing toward excellence in their respective fields shared a\n\u2018common denominator: the accumulation of ten thousand hours\n\u2018of unwavering exercise\u201d oftheir crafts\n\nTo put that number in perspective, i you practiced an activity\nfour hours per day, seven days per week, it would take you\n\u2018about soven years to reach ten thousand hours. That kind of\ndedication can only come from the heart\u2014a true love and\npassion forthe activity\n\nSo, what doos all this tell us? First, thatthe seed of greatness\n\u2018exists in every human being. Whether it sprouts or nots our\nchoice. Second, that there are no such things as natural-bom\nunder- or overachievers\u2014there are simply people that tap into\ntheir true potentials and people that don't. What is generally\nrecognized as \u201cgreat talent\u201d is, in almost all cases, nothing more\nthan the outward manifestations of an unwavering dedication to\na process.\n\nTus, the advice of \u201cwork toward your ten thousand hours\u201d\nsounds completely reasonable. Right? But there's a problem.\n\u2018There are millions of people that work incredibly hard, yet have\nlitle success to show frit. Is ten thousand hours too simple of\n8 prescription for greatness?\n\nYes. overlooks another aspect of great achievement that\ncannot be ignored: opportunties\u2014conditions that often appear\nto be plain old dumb luck.\n\n\u2018As Malcolm Gladwell explains in Outliers, in many ways, the\n\u2018opportunities presented to one are just as important to success\n\u20188 one's own inherent talents and wilingness to put in\nthousands of hours of work. For instance, if your dream isto\nbecome a professional alhlete, is quite possible that you won't\nbe able to work hard enough to overcome a most devious\nobstacle: your birthday. How could that possibly be a hurdle?\n\nEasy. Most sports enforce age cut-offs\u2014that is, the ages that\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    40,
+                    422,
+                    389,
+                    593
+                ],
+                "ocr_text": "\u2018As Malcolm Gladwell explains in Outiers, in many ways, the\nopportunities presented to one are just as important to success\n46 one's own inherent talents and willingness to put in\nthousands of hours of work. For instance, if your dream is to\npecome a professional athlete, i's quite possible that you won't\nbe able to work hard enough to overcome a most devious\nobstacle: your birthday. How could that possibly be a hurdle?\n\nEasy. Most sports enforce age cut-offs\u2014that is, the ages that\ndetermine whether you can play another year in your current\nage bracket as a \u201csenior,\u201d or whether you have to move up and\nbe a \u2018freshman\u2019 in the next.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    43,
+                    390,
+                    592
+                ],
+                "ocr_text": "\u2018In Canadian junior hockey leagues, the age cutoff was\nformally January 1 its now December 31). The closer your\nbirthday was to January 2, the better. Why? Well, let's say you\nwere playing in the Bantam category, which is for children aged\n13 \u2014 14. If your bithday was in December, you were going to\n\u2018get two years of play at this level. You were going to turn fiteen\nand have to move immediately into the next category, Midget\n(which is for kids aged 15 ~ 16). If your birthday was January 2,\nhowever, you'd get an entire additional year to play in Bantam\n(and every other age group) because when the ages were\n\u2018checked on January 1, you were stil fourteen years old,\n\n{An extra year of play against players younger than you is a\n\u2018huge advantage. Your body becomes bigger, stronger, and\nfaster every day, giving you an opportunity to truly stand out\nfrom your birthday-handicapped peers. This extra\ndevelopmental time predisposes you for selection onto more\nelite teams, which in tum leads to more ice time and better\n\u2018coaching, which advances your abilties even further.\n\nSociologists call this phenomenon an \u201caccumulative\nadvantage.\u201d For the elite Canadian junior hockey leagues, the\nresult ofthis advantage was that for many years, the distribution\nof bith dates for the top performing kids was heavily weighted\ntoward \u201cfirst-quarter\u201d babies\u2014kids born between January and\nMarch,\n\nWhether we're talking birthdays in sports, or the fact that Bill\nGates just happened to go to a high schoo! that housed one of\nthe most advanced computers of the time\u2014a computer that\nmost colleges didn't even have\u2014we can easily see that being in\nthe right place (physical, educational, societal, or otherwise) at\nthe right time can influence our destinies as much as anything\nse.\n\nNow, that doesn\u2019t mean our fates are written in the stars. We\n\u2018can wholly control our dedication to thousands of hours of study,\ntraining and work. And grasping opportunities is equally\ncontrollable. Sure, we may not be built for the NFL or Kentucky\nDerby, but we're surrounded by opportunities every day,\n\u2018everywhere we go. There is no shortage of problems to be\n"
+            }
+        ]
+    },
+    {
+        "page_number": 11,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    29,
+                    50,
+                    387,
+                    560
+                ],
+                "ocr_text": "\u2018solved, needs and desires to be fulfilled, and innovative ways to\nhelp others.\n\nBut there's a catch. Most opportunities never announce\nthemselves with trumpets and confetti. They're easily missed,\nmistaken, or squandered. They can be scary. And they never\n\u2018come with a 110% money-back guarantee. They're often\nnothing more than chances to improve on something other\npeople are already doing\n\nOpportunities are whispers, not foghoms.\n\ntfwe can't hear their soft rhythms\u2014if we are too busy rushing\nabout, waiting for thunderciaps of revelation, inspiration, and\nCcertainty\u2014or if we can spot them but can't nurture them into real\nadvantages, then we might as well be blind to them.\n\nThis realization points us tothe real heart and mystery of\n\u2018greatness. Just knowing that great achievers work very hard\nand take advantage of opportunities isn\u2019t enough. Why do some\npeople recognize, appreciate, and pursue opportunities with\npassion and determination, whereas others don't? Why are\nsome people wiling to push through hell and high water to win,\nwhereas others quit early and easily? Are there practical\n\u2018answers to these questions, or are they unsolvable enigmas of\nhuman psychology?\n\nWell | believe there are very practical answers to what\nmakes a genius tick. | believe there are principles that we can\nisolate and use to better our own lives. I believe that genius is a\npath that we can all take and derive much benefit, happiness,\nfulfilment, and success from...not a genetic windfall or divine\nGift. Ultimately, this is the path to greatness.\n\nNot sure if you buy into that? Well, | wouldn't either if| didn't\nknow about Dr. Alfred Barrios.\n\nPsychologist Dr. Alfred Barrios conducted research on the\nNature of genius in the seventies. He set out to answer the\n"
+            }
+        ]
+    },
+    {
+        "page_number": 12,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    41,
+                    45,
+                    388,
+                    574
+                ],
+                "ocr_text": "To look for an answer, he decided to analyze the lives of\nnany of history's greatest geniuses. Were there pattems of\nircumstances, events, behaviors, attitudes, or ideas that could\naccount for their success? Did the chronicles of their ives\nollectvely hold the secrets to their greatness? He was going to\nind out.\n\nHe first noted and categorized a long list of factors outside of\nhe geniuses\u2019 control. Things like lineage, birthright, geography,\njenetics, education, familial tes, upbringing, and unexpected\nwindfalls. The more data he accumulated and analyzed along\nhis line, however, the more it looked lke a dead end. The\nDackgrounds of our species\u2019 greatest thinkers and achievers\nappeared infinitely varied. If there were pattems among the\nfata, he couldn't see them.\n\nBarrios was undeterred and continued to study. Eventually, 2\nferent kind of common denominator emerged, one that he\nound within each of the people he studied. Barrios discovered\nhat his subjects had each developed and routinely displayed a\n\u201combination of very specific characteristics throughout their\nives, and not ust mildly but conspicuously.\n\nThis character-driven idea fascinated Barrios. It suggested\nhat genius is much more than high inteligence, innate talent,\nextraordinary work ethic, or uncanny luck, but rather a\n-omposite manifestation; a synthesis of very specific types of\nworidviews and behaviors. The more he looked at data through\nhis lens, the more things started to make sense.\n\nBarrios then wondered if anyone could operate at a genius\nevel\u2014and achieve genius-level greatness\u2014simply by learning\nand adopting the same educated views and disciplined\nnehaviors that so repeatedly characterized history's greatest\nachievers.\n\nBy the end of his research, Barrios had pieced together his\ngenius code\"\u2014a profound insight into what really spawns\nyreatness. He also concluded that we could all indeed use his\njenius code as a roadmap to walkin the footsteps of history's\nvrichtaet and boldest thereby laamina tn nnaraia at @ nankin\n"
+            }
+        ]
+    },
+    {
+        "page_number": 13,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    29,
+                    35,
+                    390,
+                    592
+                ],
+                "ocr_text": "\u2018An attractive concept, no doubt, but is it true?\n\nIn this book, we will delve into a single characteristic of\nBarrios\u2019 code: drive. We will ook at how it defined one of\nhistory's greatest military geniuses, Alexander the Great, and\nhow we can further develop it in ourselves.\n\n\u2018My proclamation is that while Barrios\u2019 research may not be\nthe end-all on the subject, it certainly illuminates the path to\n{greatness via a unique, accessible, and practical decoding of\ngenius.\n\nThis immediately involves us in a bigger picture question, too\n\u2014one that's deeply penetrating and personal: why do we desire\nto heighten our genius and pursue the path of greatness?\n\nWe all face a fundamental choice in our lives. Do we take the\npath prescribed by our \u201cnow you're supposed to\u201d society, or do\n\u2018we take our own path to toward the life we feel we ought to be\nliving? Do we choose our lfe's work based on the U.S.\nDepartment of Labor's list of highest-paying jobs, or do we\nfollow our bliss? Do we heed the call to conformity, or the call to\nadventure?\n\nEvery day we see how people have answered these\nquestions, whether consciously or otherwise. We're constantly\nconfronted with the lazy, the apathetic, the immoral, the\nindifferent, the irresponsible, and the disconnected\u2014the signs of\n\u2018a decaying culture.\n\n\u201cWhat does it all mean?\u201d many wonder while chasing\npurposes they're told are worthwhile, but which feel empty.\n\u201cWhat is the purpose of this Ife?\" humans have wondered for\nmillennia, contemplating how insignificant we are in the great\n\u2018cosmic symphony.\n\nWell, as the preeminent mythologist Joseph Campbell said,\ndeep down inside, we don't seek the meaning of ife, but the\n\u2018experience of being alive. And that\u2019s what the nature of genius\nis ultimately about.\n\nIt's about how we can empower ourselves to bring true\nmeaning to our lives and the lives of others in ways most people\n\u2018would consider impossible. It\u2019s about rising above a life of, as\n"
+            }
+        ]
+    },
+    {
+        "page_number": 14,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    41,
+                    393,
+                    254
+                ],
+                "ocr_text": "\u2018Thoreau said, \u2018quiet desperation\u2019 that ends with our songs still\nin our hearts, and experience the rapture of truly ving. It's\n\u2018about saying yes to our adventures.\n\nWe rely on geniuses to entertain us, educate us, lead us, and\n\u2018show us all what our species is capable of. We rely on geniuses.\nto give us smart phones, electric cars, cures for diseases, social\nnetworking sites, subime art, world-class food, and, indeed, the\nvery fabric of our culture.\n\nIf you've ever dreamed of playing a hand in the development\n\u2018of humankind, orf you just have a burning desire o improve\n\u2018one small aspect of it, then you have an adventure waiting\n\nWill you take it?\n\nTris book is your invitation,\n"
+            }
+        ]
+    },
+    {
+        "page_number": 15,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    91,
+                    390,
+                    597
+                ],
+                "ocr_text": "Conquered the World\n\n\u201cDon't ask what the world needs. Ask what makes you come\n\nalive, and go do it. Because what the world needs is people who\nhave come alive.\u201d\nHoward Thurman\n\nAny great adventure involves trials and tribulations that\ntransform the hero into something greater than she was when\nshe began it\n\nIs been seven years since J.K. Rowing graduated from\nuniversity, She sees herself as the biggest failure she knows:\nshe is recently divorced after only a year of marriage, jobless,\nand living off social security with a young daughter to support.\n\u2018She's diagnosed with depression and even considers killing\nherself. She has something, though\u2014an unfinished manuscript\nof a story that occurred to her while riding a train several years\n\u2018ago. She walks her baby each day to lull her asleep and then\nsettles into various cafes around Edinburgh, Scotland to\nhammer away on a manual typewnter, writing and re-writing\n\u2018chapters. She finishes Hany Potter and the Philosopher's Stone\nin 1995, which 12 publishing houses reject before Bloomsbury\npicks it up. She's paid an advance of \u00a31,500 and told by her\neditor to get a day ob because she has litle chance of making\nmoney with children's books. The height of her ambition is for\nthe book to just get reviewed, but within five months of its\npublication, she wins her first book award. Her story is already\nbeing compared to the vaunted work of C.S. Lewis and J.R.R.\nTolkien. Rowiing is in shock. Ths sit, she realizes. This is her\nchance to shed the grief of her past and create a beautiful new\nfuture, Five years later, she releases the fourth book in the\n\u2018series, which sells over 370,000 copies on the first day. Today,\nthe books are the #1 best-selling series of all time with over 400\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    37,
+                    63,
+                    383,
+                    202
+                ],
+                "ocr_text": "Drive and the Macedonian Who\nConquered the World\n\u201cDon't ask what the world needs. Ask what makes you come\nalive, and go do it. Because what the world needs is people who\nhave come alive.\u201d\n-Howard Thurman\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    45,
+                    58,
+                    375,
+                    128
+                ],
+                "ocr_text": "Drive and the Macedonian Who\nConquered the World\n"
+            }
+        ]
+    },
+    {
+        "page_number": 16,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    46,
+                    393,
+                    590
+                ],
+                "ocr_text": "milion copies sold worldwide. For the first time in her life,\nRowling doesn't have to worry if she'll have enough money to\nmake it through the week, and she summarizes her journey of\ntranscendence thus: \"We do not need magic to transform our\nworld. We carry all the power we need inside ourselves already.\n\u2018We have the power to imagine better.\u201d\n\nJesus travels through the Judean desert without food for 40\ndays and nights. The Devil plans on leading him astray in his\nmission, and appears in disguise with an offer of stones that\nJesus can change to bread and eat. Jesus refuses to use his\npowers for selfish purposes. But the Devil has another trick\nready. He leads Jesus to a great temple atop a summit\n\u2018overlooking Jerusalem and challenges him to test God by\njumping off the peak to be caught by angels. Jesus sees no\nreason to prove himself, and declines. In desperation, the Devil\ntakes Jesus to the pinnacle of a soaring mountain and shows\nhim the world. \u201cAll this | will give you if you will bow down and\n\u2018worship me,\u201d he says. Jesus has had enough and finally\ndismisses Satan as a false god. Only then is he joined by\nangels and allowed to continue toward the final establishment of\nhis divinity\n\n\u2018Some people lke to think that geniuses are so inherently\n\u2018extraordinary that they navigate their journeys with clairvoyant\n\u2018ease. This simply isn\u2019t true. Greatness does not come lightly. It\nrequires that you make sacrifices of time, interests, and\u2014\nsometimes\u2014possessions. The further you move toward\ngreatness, the more greatness demands from you.\n\nIn whatever form your adventure takes, there will be\n\u2018obstacles to overcome. Your dedication to your cause will be\ntested. Your wits will be forced to their limits. People will ty to\n\u2018exploit your weaknesses and negate your strengths. The\njoumey toward greatness is not for the meek.\n\nBut all barriers yield to one mythical quality: drive. The will to\nPersist and overcome. To never give up. To never accept\ndefeat.\n\nWriter and philosopher L. Ron Hubbard said that \u201cthere's no\n\u2018excuse for any failure that ever occurred any place in history,\n"
+            }
+        ]
+    },
+    {
+        "page_number": 17,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    33,
+                    161,
+                    392,
+                    585
+                ],
+                "ocr_text": "When Alexander Il of Macedon was ten years old, his father,\nKing Philip II, saw him tame a fierce horse and thus prophesied\nthat the kingdom of Macedon was too small for his ambitions.\n\u2018The king wouldn't live to see it, but his prediction would prove to\nbe an understatement.\n\nAlexander was only 16 when Philp led a military invasion into\nthe neighboring lands of Thrace, relinquishing to him the power\nto rule all of Macedonia, the most powerful kingdom in ancient\nGreece. Macedonian dominance was new and precarious,\nhowever, and dissent mounted in the recently conquered lands.\n\nWith Philip and a large portion of the Macedonian army\nabsent, a Thracian tribe saw an opportunity to start a revolt\n\u2018against their rulers. Their underestimation of the young\n\u2018Alexander, however, proved great and fatal when he quickly\nmarshaled an army, marched them into battle against the\nrebels, crushed the resistance, and renamed their city to\nAlexandropolis,\n\nImpressed with his son\u2019s achievement, Philip employed his\nteenage son's military prowess further by dispatching him to\ndeal with other Thracian and Greek revolts. One by one,\n\u2018Alexander broke the mutinies and subdued the dissidents. He\n\u2018even saved his fathers life in a battle against the Greek city of\nPerinthus, and repelled an invasion by the nearby kingdom of\nllyria. Upon this momentum, Philip, Alexander, and their armies\n\u2018continued to march through Greece to cement Macedonian rule,\ntaking city after city. Those that surrendered were spared\nbloodshed. Those that resisted fell to the Macedonian sword.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    45,
+                    379,
+                    161
+                ],
+                "ocr_text": "\u2018except this: There was just not quite enough carry-through and\npush-through.\u201d The annals of history offer many examples of\nthis sentiment in action. However, there is pechaps no finer\n\u2018example of one person's capacity to persevere and prevail than\nthe greatest military commander of all ime, a man who\naccomplished in four years what his ancestors failed to\n\u2018accomplish in the centuries prior, and what nobody has,\nmatcharl eince.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 18,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    42,
+                    393,
+                    577
+                ],
+                "ocr_text": "The last bastion of Greek resistance was the powerful city of\n\u2018Thebes, which had allied with Athens against Macedonia. The\npowerhouses collided in the village of Chaeronea, with Philip\n\u2018commanding the right wing of the army and Alexander the left. A\nprotracted, ferocious battle ensued. Alexander faced the\nfearsome brotherhood of 300 elite warriors known as the Sacred\nBand of Thebes. Through ingenious infantry and cavalry\nmaneuvering, Alexander secured an advantageous position and\nlaunched a charge that broke the Theban line. The Sacred Band\nheld their ground until all 300 had fallen.\n\nAlexander's miltary feats were so tremendous that rumors\nbegan to spread that he, now only 18, was in fact a descendant\nof Achilles or possibly the son of Zeus. The rumors were\nsteeped in prophecy; Alexander would rise to incredible power.\nTwo years later, he would take the next step in fuiling the myth\nthat was quickly forming around him.\n\nIn 336 BC, while attending the wedding of his daughter, Philip\nwas assassinated by the captain of his bodyguards, Pausanias.\n\u2018The regicide\u2019s motive is unknown as he was chased down and\nkilled on the spot, but whispers pointed to Alexander's mother,\n\u2018Olympias, and possibly Alexander himself as the instigators.\n\u2018Olympias desired revenge for Philip's divorce and glory for her\n\u2018son by taking the throne and surpassing his father's\n\u2018accomplishments. Alexander wasn't wanting of a motive either;\nhe was bitter after being exiled for two years over a filial feud\nregarding Philip's desire to produce a full-blooded Macedonian\nheir with his new wife.\n\nInvolved or not in his father\u2019s assassination, Alexander was\nproclaimed king by the nobles and army at age 20. News of\nPhilip's death caused an outbreak of revolts in Thebes, Athens,\nThessaly, and the Thracian tribes to the north of Macedon.\n\u2018Alexander would have to act quickly and decisively as the new\nking, or his sovereignty would collapse before his crown could\n\u2018even sett.\n\nHe began by eliminating any potential rivals to his throne,\nincluding his cousin and two other Macedonian princes. And he\n"
+            }
+        ]
+    },
+    {
+        "page_number": 19,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    47,
+                    391,
+                    591
+                ],
+                "ocr_text": "secretly being courted by Athens to wage war against the young\nking. Olympias also moved to protect Alexander's regency by\nhaving her two daughters by Philip burned alive\u2014a barbarism\nthat infuriated Alexander.\n\nOnce the home front threats were neutralized, Alexander\ntumed his attention to the intrigues of his Greek neighbors.\n\u2018Advisers urged Alexander to deal with the rebellious cities,\ndiplomatically, but he had no interest in delicate, protracted\nnegotiations. He mustered the entire Macedonian cavalry\u2014a\nformidable force of over 3,000 experienced warriors\u2014and rode\nsouth toward Thessaly. He ambushed a large Thessalian army\nwhile en route, and added to his forces.\n\nBefore Alexander reached Corinth, the Greek and Thracian\ninsurgents reconsidered their position. Fearing the wrath of the\nfierce young king, they backed down and declared Alexander\nthe leader of the \u201cHellenic Alliance\u2019\u2014a league formed by his\nfather. Alexander pardoned the rebels, and announced that he\nwould continue his father\u2019s plans for the conquest of Persia\n\nHis stated motives were uncharacteristic of his position,\nhowever; they were greater than mere vengeance and\nimperialism. Alexander's purpose was to \u2018combine barbarian\nthings with things Hellenic, to traverse and civilize every\n\u2018continent, to search out the uttermost parts of land and sea, to\npush the bounds of Macedonia to the farthest Ocean, and to\ndisseminate and shower the blessings of the Hellenic justice\n\u2018and peace over every nation.\u201d Such altruism seems ironic when\nyou consider his hawkish plans. Was it empty rhetoric used to\nraise an army with which he could smash, usurp, and dominate,\n\u2018or would Alexander act in accordance with his professed\nintentions to unite and uplift the known world? What really drove\nhim? We shall see.\n\nBefore Alexander could begin his Persian campaigns,\nhowever, Thracian tribes again revolted against his rule, He\nimmediately gathered his army and advanced east into Thrace\nto quell the insurrections. The Thracians planned to ambush\n\u2018Alexander in a narrow mountain pass near the Thracian and\nMacedonian border, but he out-maneuvered the garrison and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 20,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    40,
+                    53,
+                    392,
+                    581
+                ],
+                "ocr_text": "USTERISG K, GEITENG Onwy 00 he laNGS. \u201cCEXaNCer Bien CAUGt @\nribe of barbarians lurking in his rear, and led an attack. The\nThracians lost over 3,000 men in the battle, and Alexander lost,\ness than 50.\n\nThe Macedonians continued on to the shores of the Danube,\nand faced off with 18,000 warriors of the Thracian Gatae tribe.\nAlexander knew that his enemies expected him to use boats to\njerry his men over in waves, so instead, he organized a mass\ncrossing of the river in the middle of the night using dugouts and\nather improvised rafts and floating devices. 1,500 cavalry and\n4,000 troops swam nearly 1,000 feet through the powerful\nDanubian currents, and upon a surprise attack at sunrise, the\nGatae soldiers disbanded and fled. Nearby tribes heard of\nAlexander's bold deeds and sent ambassadors to ask for the\nyoung king's friendship, which was gladly granted. The Thracian\nvolts were hushed,\n\nAlexanders drive would be challenged next by an lllyrian,\n;evolt that threatened to cut off his passage back into Macedon.\nf Alexander's retum to Greece was delayed for too long, his\nkingdom was vulnerable to another Athenian and Theban\nuprising, who were reported to be amassing forces,\n\n\u2018The lilyrians held the pass of Pelium, and its nearby fortress,\nwhich was the only way back into Macedonia. The Macedonians\nbore down on the city but were repelled. Precious time was lost\nand, to make matters worse, King Giaukias of the Taulanti tribe\nmarched in a massive army to reinforce the illyrians. They\nspread out amongst the hills and forests surrounding the gap,\nfeady to cut off any advance through the pass or retreat back\nnto Illyria, Alexander was in dire straits: supplies and rations\nwere scant; his enemies outnumbered him many times and held\nsuperior, fortified positions; and the Greek insurgency swelled in\nnis absence. He couldn't retreat or wait for reinforcements\u2014he\nnad to take Pelium, and fast.\n\nWhat Alexander did next was a briliant display of his\nfesourcefulness and cunning\u2014two characteristics that flourish\nhrough extraordinary drive. Just as nothing produces paralyzing\n"
+            }
+        ]
+    },
+    {
+        "page_number": 21,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    49,
+                    393,
+                    587
+                ],
+                "ocr_text": "like staring down a crisis with a lionhearted snarl.\n\nAlexander marched a sizable portion of his army into plain\nsight in the fields in front of Pelium, surrounded by the enemy,\nand began a rehearsed military drill that his men had perfected.\n\u2018The Macedonian phalanx paraded in perfect synchrony, as if\n\u2018going through a rigorous inspection by their generals. The\nIlyrians looked on in bewilderment, wondering what their enemy\n\u2018was doing and how they should respond. Their amazement at\nthe procession led to careless formations on Alexanders left\nflank. This was the opportunity he was looking for. He suddenly\ncalled for his infantry to aggressively charge the weakened\n(ground, and the barbarians quickly realized their mistake and\nfled the hills. Simultaneously, Alexander led a cavalry charge to\nthe hills on his right flank, which was also surrendered by\nGlaukias\u2019 men.\n\nThe dispersion of the enemy forces allowed Alexander to\n\u2018secure the entirety of the surround hills, winning him a place of\nsafety. Before he could return to Macedonia, however, he\nneeded to take the city to guard against any future Illyrian\n\u2018attempts at invasion through the pass.\n\nThree days later, Alexander's scouts reported that Cleitus\n\u2018and Glaukias had become careless in their position in front of\nPelium, and were vulnerable to attack. That night, Alexander led\n\u2018a body of infantry and archers to the flank of the barbarians\u2019\n\u2018camp, and launched an assault. The lllyrians were caught by\nsurprise, with many stil in their beds. The resulting slaughter led\nto a quick rout. Pelium was again under Macedonian control,\nand the defeated Illyrian kings accepted Alexander's terms and\nswore fealty to the fearsome commander.\n\nAlexanders ingenuity at Pelium offers another insight into the\n\u2018special nature of his drive, something that is often summarized\n\u2018as impatience but is actually quite more than that. Some\nhistorians criticize the young king's ruse as reckless and its\nsuccess as lucky. But, as you'll see in the baffling successes of\nhis later campaigns, Alexander was either the luckiest man in\nhistory, or there was some other force at work. | believe the\nlatter, but what might that force be? His actions at Pelium offer\n"
+            }
+        ]
+    },
+    {
+        "page_number": 22,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    61,
+                    392,
+                    585
+                ],
+                "ocr_text": "Alexander's position was desperate. His officers suggested\nretreat. Reinforcements could be sent, they said, but Alexander\n\u2018would hear nothing of it. Not only were their rations insufficient\n{or it, i's very likely that his kingdom would fall to Athens and\nThebes while they waited. No, he had to have Pelium, and\nquicker than any of his men believed was possible. But\nAlexander felt otherwise. While his men saw an impenetrable\ncitadel, he saw frail bowling pins ready to be smashed by the\nright roll of his mighty forces. Behind Alexander's \u201cimpatience\u201d\n\u2018was an incredible impetus and sense of forward motion that\nmade nothing of anything or anyone that dared get in his way.\nHe rarely paused because, frankly, nothing was intimidating\n\u2018enough to really give him pause. In analyzing the drive of men\n\u2018and women of Alexander's caliber, you find in every case a\ndownright heroic concentration of confidence and flippancy that\ninspires others to believe that they, too, can do the impossible.\n\nWithin a few days of taking the pass, Alexander learned that\nthe Persians were spreading money amongst the anti-\nMacedonian Greeks to encourage revolution, and that a rumor\nhad spread that the liyrians killed him. These influences\n\u2018spurred the Thebans to throw out Macedonian garrisons,\ndeclare independence from Alexander's rule, and recruit several\nother city-states to do the same.\n\nEnraged, Alexander marched an army of over 30,000 men\n300 miles south to Thebes at a breakneck pace, arriving in only\ntwo weeks. The sudden emergence of Alexander and his\nformidable army stunned the Theban allies, causing them to\nwithdraw their support for the rebellion, leaving Thebes to stand\nalone against Alexander. Alexander camped north of the city\n\u2018and waited, giving the Thebans the chance to send an embassy\nland ask for pardon. The Theban generals responded by\n\u2018sending out a force of infantry and cavalry to attack Alexander's\n\u2018outposts, which was repelled,\n\nNevertheless, Alexander remained patient with the Thebans.\nHe demanded the ringleaders of the resistance, and promised\nno harm to any cthere that eurrandered Theban leadere refueed\n"
+            }
+        ]
+    },
+    {
+        "page_number": 23,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    29,
+                    43,
+                    390,
+                    586
+                ],
+                "ocr_text": "the demand despite the fact that the bulk of the citizens favored\niving in.\n\n\u2018Theban soldiers built fortifications outside of the city to\nprepare for the upcoming battle, and Alexander made plans for\nan invasion. He still refused to act, however, wishing to save the\n{glorious city and prevent loss of his ranks. The delay was\nbrought to an end not by Alexander, but by his general\nPerdiccas, who seized an opportunity to siege the city and\nbreak through the city wall. The breach was successful, and\nAlexander ordered thousands of his soldiers to reinforce the\nattack,\n\n\u2018Thebes\u2019 warriors fought bravely, but their defenses fell and\nthe city was overrun, Boetians, Phoeians, and Plataeans\u2014\nfighting within Alexander's ranks~slaughtered thousands of\n\u2018Thebans, including women and children, out of revenge for\nyears of Theban oppression. 30,000 survivors were captured\nand sold into slavery, and the city was razed to the ground,\n\nThe force and cruelty with which Alexander smashed the\nTheban rebellion sent shock waves throughout all of Greece.\n\u2018Athens wouldn't dare risk his wrath and immediately withdrew\ntroops they had sent to fight with their now-vanquished allies.\nSparta was amazed to see the powerful city, which had\n\u2018conquered them at Lenetra, shattered to pieces as if by the\ngods themselves. Athens and its allies again asked the king's\nforgiveness, which Alexander again granted. What happened at\nThebes served as a warning, while at the same time a call for\npeace. Alexander had no desire to inflict any more suffering on\nhis people.\n\nIn one year, Alexander secured himself against the\nbarbarians of the north and subdued all of Greece. But that was\n\u2018only an overture to what was to be his life's work and ambition:\nPersia, the land of Xerxes, of Darius, of Cyrus\u2014a land of untold\nresources and wealth, and full of brave men. The conquering\n\u2018and integration of Persia represented the truest test of his\nambition for greatness, an adventure that would rival the\n\u2018exploits of his idol, Achilles, as well as transform the course of\nhuman history forever.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 24,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    40,
+                    38,
+                    391,
+                    579
+                ],
+                "ocr_text": "Invading Persia promised to be the most formidable of\nundertakings, challenging Alexander's genius and drive in every\nway. And yet, despite Persia's impressive wealth and might, the\ngreat kingdom had a key weakness: it was a disjointed mass 30\nmes the size of Macedonia's territories, comprised of many\nindependent regions ruled by local governors. Many of these\nssatraps\u201d were dissatisfied with the sovereign and with each\nother. Alexander knew this and counted on thelr discord to\nmean lax, uncoordinated defenses.\n\nBut Alexander wasn't one to take things for granted. His\nobsessive attention to detail and uncompromising work ethic\ndrove him to spend the coming winter months relentlessly\nworking to assemble his army, equip his ships, and devise a\nplan for the largest attack ever attempted by a man. In this we\nglimpse another chromosome of the DNA of drive. Alexander's\nadamantine will and belief in himself stemmed from the fact that\nne was willing to out-plan, out-work, and outlast anyone. He\ndidn't chase dubious shortcuts, and in some cases, purposely\navoided them just to experience the glory of overcoming a great\nchallenge. He didn't beg for the favor of the gods; he strove to\naverawe them.\n\nAlexanders thorough preparations accounted for what would\npe a long absence from his home kingdom. He appointed his\nrusted general Antipater as regent and left him with a sizable\narmy to maintain the peace. He even gave away all of his\npersonal possessions to be sold to help cover the tremendous\ncosts of his ambitions, leaving himself, as he laughingly said,\nonly with his hopes. Many of the rich men that served in his elite\nCompanion cavalry unit were inspired to do the same.\nRegardless, Alexander had to borrow a sizable sum to fully\nfeady his military.\n\nIn 335 BC, at 22 years of age, Alexander crossed the\nHellespont strait into Asia Minor with over 35,000 Macedonian,\nGreek, and Thracian troops, a fleet of 120 ships with crews\nnumbering nearly 40,000, and only a month's worth of supplies.\nOnce hiss ship reached the coast of Asia Minor, Alexander threw\n"
+            }
+        ]
+    },
+    {
+        "page_number": 25,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    39,
+                    37,
+                    391,
+                    588
+                ],
+                "ocr_text": "would accept the whole of Asia as a gift from the gods.\n\nDarius, the Persian king, ignored the crossing, unafraid of an\narmy that his military outnumbered by many times,\nConsequently, the Macedonians moved through Asia Minor with\nlittle resistance, liberating several Greek towns from Persian,\nrule. Darius still refused to take Alexander seriously despite\nthese affronts against his empire and the wamings of his\nexperienced generals that the young Macedonian was not to be\nunderestimated.\n\n\u2018Memnon, a competent general favored by Darius, knew that\nAlexander's provisions and funds were scant, and\nrecommended a \u201cscorched earth\u2019 strategy wherein the satrapies\nthat lay before Alexander would be burned to the ground,\ndenying him forage and resources. Persian officers wouldn't\nhear of it, however, and resolved to meet the Macedonian king\nin pitched battle. An army of 20,000 cavalry and an equal\nnumber of Greek mercenaries was assembled to drive back\nAlexander and his invaders.\n\nAlerted by his scouts that the Persian forces were in his\nvicinity, Alexander forged ahead to the Grancius River. As the\nMacedonians approached the shore, the sun was setting and\nthe Persian army could be seen in the piains on the horizon.\nParmenio, Alexander's chief general, advised that the army\ncamp for the night and persuade the enemy to do the same.\n\nAlexander had other plans, though. He preferred the morale-\nboosting effect of a bold offensive, and didn\u2019t want the Persians\nfo think that he would pause even for an instant at such a pitiful\nbarrier, which may bolster their confidence to repel his advance.\n\nInstead, he ordered his scouts to survey the Persian lines\nand report their findings. As he had suspected, the disposition of\nthe Persian troops was faulty, and he was determined to force a\night at once. Alexander's commanders moved the Macedonian\narmies into position, and there was a moment of profound.\nsilence as they faced their neighbors across the river. Then, a\nMacedonian bugle sounded, followed by a deafening war cry,\nand spear-wielding infantry began to cross. The Persians rained\nsevaniine clesam tine Gham, srl dlanaiehad canaine 9, drtee thar,\n"
+            }
+        ]
+    },
+    {
+        "page_number": 26,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    54,
+                    391,
+                    590
+                ],
+                "ocr_text": "coe\n\n\u2018A furious fight ensued. Alexander slew several notable\nPersians, including Darius\u2019 son- and brother-in-law. The latter\n\u2018almost took Alexander's life, slicing part of his helmet off before\nfalling to his spear. This heroic charge enabled the entire right\n\u2018wing of the Macedonian army to cross the river and press the\nattack. The full might of Alexander's cavalry fell upon the\nPersians and broke their lines, but the Persians still had their\nGreek mercenaries, which had been merely spectators to the\nslaughter thus far. They would prove no match for the\nMacedonians. Over 18,000 were cut to pieces, and the\nremaining 2,000 were captured.\n\nWhen the fighting finally stopped, the Persians had lost over\n41,000 horsemen, many nobles, and 18,000 Greek mercenaries.\nAlexander lost less than 200 men.\n\nAlthough the road to the heart of Persia was now open, it\n\u2018couldn't be taken until Alexander had the coastal cities under his\n\u2018control to protect his rear and flanks from the formidable Persian\nnavy. All of the important coastal cities were Greek, and many\n\u2018welcomed Alexander with open arms. In each case, he threw\n\u2018out the Persian tyrants, established a democratic form of\n\u2018government, began some type of public improvement in\n\u2018commemoration of their freedom from the Persian yoke, and\n{granted the inhabitants ancient privileges that had been denied\nto them for the last two hundred years of foreign rule.\n\nSeveral cities that had been granted exceptional privileges by\nDarius resisted Alexander, but one by one, they fell to his\nsuperior tactics. As he conquered each, he continued his\nstrategy of befriending the Greeks, pardoning surviving citizens,\n\u2018and granting the cities autonomy and freedom. There was no\nplundering to help pay for the campaign, as was customary in\nwartimes, only the collection of reasonable taxes to fund his war\nchest.\n\nWith the coast of Asia Minor now under his control, Alexander\nhad effectively nullified Persia's most powerful military asset: its\n\u2018world-renowned navy. He was now prepared to move into the\ninterior of the Persian Empire. But winter was approaching, and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 27,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    46,
+                    396,
+                    579
+                ],
+                "ocr_text": "Alexander's men needed to rest and heal. So he granted a\nleave of absence to a considerable number of his newly married\nsoldiers to be with their wives until spring, when they would\nmove to bring down the entire Persian empire.\n\n\u2018Alexander himself, however, would not rest. His unremitting\ndrive wouldn't allow it. So he gathered a body of troops and set\n\u2018out to close any remaining ports on the mainland and further\nstarve out the Persian navy. Over the next several months, he\nland his men marched through bitter weather and conquered all\nof westem Asia minor\u2014nearly 40 towns were subdued, with\n\u2018most surrendering without contest, knowing that they would be\ntreated liberally by the conqueror. Those that rebuked his offer\nof a peaceful surrender, no matter how well fortified, fell\n\nWhen spring of the next year came, the wounded warriors\nhad healed and the soldiers on leave returned, many bringing\nnew recruits. It was time for Alexander to drive his spear\nthrough the heart of Persia, fulfiling his ambition to conquer and\ncivilize the known word,\n\nDarius belioved that the defeats of his generals in Asia Minor\nwere mere accidents and misfortunes. The territory lost was a\nsliver on the fringe of his vast empire, and while he didn't\n\u2018comprehend the significance of Alexander's progress, he did\n\u2018comprehend that Memnon\u2019s early advice should've been\nfollowed. He put the Greek rogue in supreme command of the\nPersian military with the orders to crush the Macedonian\ninvader.\n\n\u2018Memnon, an incredibly inteligent and able general, and\nprobably the only man in the service of Darius who could pose a\nthreat to Alexander, set plans in motion to bring the war to\nMacedonia and instigate a revolt amongst Alexander's enemies\nin Greece. To do this, he would muster a large fleet of warships\n\u2018and soldiers to take istands near Macedonian shores and use\nthem as bases from which to launch an invasion. But, as fate\n\u2018would have it, Memnon died of fever after only the first\n\u2018successful siege of the island of Chios, and his successor was\nby no means up to the task he inherited. Alexander's good\n"
+            }
+        ]
+    },
+    {
+        "page_number": 28,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    48,
+                    396,
+                    589
+                ],
+                "ocr_text": "Alexander reunited with the main body of his army at the city\n\u2018of Gordium, which contained the famous Gordian Knot. Legends\nheld that the intricate knot was tied by King Midas, and the man\nwho unraveled it would go on to become king of all of Asia. How\n\u2018Alexander solved the knot is disputed. According to certain\nhistorians, he thoughtfully disassembled the looped mass.\nAccording others, he promptly drew his sword, slashed the rope,\nand unraveled it. Either way, he made his intentions clear, which\noffers us another chance to understand the effectiveness of his\nuncanny drive.\n\nWhether sieging an \u201cimpregnable\u201d city, facing an \u201cinvincible\n\u2018army, or solving an \u201cimpossible\u201d knot, Alexander refused to\nbelieve he couldn't succeed. He was driven to win by any\nmeans necessary, and he rarely played by the \u201crules.\u201d One of\nhiss hallmarks was, through diligent analysis and planning,\ndevising radically new strategies and tactics that his enemies.\nhad no preconceived defenses for. Sometimes circumstances\ncalled for a carefully orchestrated gambit, as you saw in Pelium,\n\u2018As you'll see in one of his greatest military victories, however,\nthe most unexpected move is sometimes a direct assault so\n\u2018audacious that nobody would dare attempt it. Nobody but\nAlexander, that is.\n\n\u2018The Macedonian forces moved on toward their goal, taking\nminor cities as they went and leaving garrisons to consolidate\ntheir position. They met lite resistance as the moved deeper\ninto the Persian lands, but finally, in 333 BC, Alexander met the\n{ull power of the Persian king at the city of Issus. Darius\n\u2018commanded the forces in person upon the advice of his\ncourtiers and generals.\n\nMacedonian scouts estimated the Persian army at no less\nthan 200,000 men and possibly as many as 00,000. Alexander\nhad just over 40,000 soldiers. He called his Companions and\n\u2018other commanding officers to ascertain their views about the\nproximity and enormity of the enemy's forces. They were eager\nto follow him into battle, and plans were outlined of where and\nhow to stage the confrontation.\n\nDarius and his hordes were expected to wait in nearby plains\n"
+            }
+        ]
+    },
+    {
+        "page_number": 29,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    43,
+                    390,
+                    597
+                ],
+                "ocr_text": "where his numbers could engulf and swallow the smaller\nMacedonian army. Instead, however, Darius impatiently\nmarched his massive army to Alexander's rear, choosing a\nmuch narrower theater of engagement, asthe flatiands infront\nof Issus were bound by the ocean on one side and the\nmountains on the other.\n\nWhen the Macedonians learned that they wouldn't face the\nPersians in three days as anticipated but rather the next day,\ndisconcert spread amongst their ranks. Alexander was himself\nstartled at the maneuver, but he emboldened his men by\ndalivering an impassioned speech\n\n\u201cOur enemies are Medes and Persians, men who for\n\u2018centuries have lived soft and luxurious lives,\u201d he bellowed. \"We\n\u2018of Macedon for generations past have been trained inthe hard\n\u2018school of danger and war. Above al, we are free men, and they\nare slaves. There are Greek troops, to be sure, in Persian\n\u2018service\u2014but how differents their cause from ours!\n\n\u201cThey willbe fighting for pay\u2014and not much of at that. We,\n\u2018on the contrary, shall fight for Greece, and our hearts will be in\nit As for our foreign troops\u2014Thracians, Paeonians, lyrians,\n\u2018Agrianes\u2014they are the best and stoutest solders in Europe,\n\u2018and they will find as their opponents the siackest and softest of\nthe tribes of Asia. And what, finally, of the two men in supreme\n\u2018command? You have Alexander, they...Darius!\u201d\n\nThe next moming, both armies faced off, looking for an\n\u2018opportunity to strike the first blow. Through skilful\nreconnaissance and positioning, Alexander gained an\nadvantage on his ight flank and launched the first successful\nattack on the Persian lines.\n\nA the two commanders manipulated their armies into the\nbattle, it was Alexander who systematically gained ground and\npositon first, namely on the Persian left. At the same time,\nhowever, the Greek mercenaries under Darius\u2019 command\nattacked Alexander's center phalanx with a dangerous ferocity.\nThe tide was tuming against the Macedonian center, and the\nphalanx was in grave danger.\n\n\u2018As usual, however, Alexander came to the reecue. His wing\n"
+            }
+        ]
+    },
+    {
+        "page_number": 30,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    39,
+                    47,
+                    392,
+                    586
+                ],
+                "ocr_text": "had completely driven back the Persian left and thus was free to\nrush to his center's aid. Alexander and his cavalry and brigades\njore into the Greek\u2019s flank and relieved the center, which\nreformed and thereafter held its own against the aggressors.\nMeanwhile, a veritable avalanche of Persian cavalry poured\nforth and imperiled Alexander's left flank. Despite being\noutnumbered and all but crushed, Alexander's Thessalian riders\nbravely stood their ground, rallying and returning again and\nagain to the charge.\n\nDarius, as was customary with Persian kings, occupied the\nabsolute center position in a gleaming chariot, surrounded by\nhis top officers and family. Having secured his own center and\ncut a path through the Persian line, Alexander headed straight\nfor Darius and his nobles. Within minutes, the Companions\ncame down upon Darius\u2019 royal guard with a godlike fury and\nslaughtered his men wholesale. When Darius saw that his left\nlank had collapsed and that his life was in danger, he chose to\nlee the battle, signaling defeat.\n\nPersian cries of the king's flight crushed morale, and soon the\nentire army was fleeing forthe hills. Vast numbers of Persians\nwere slain by the end of the conflict, stated at over 100,000\nincluding many generals. Darius even abandoned his wife,\nmother in law, and son. The Macedonian loss was 450 men.\n\nAfter the victory at Issus, Alexander moved south into\nPhoenicia to secure its important coastal cities and neutralize all\nopposition as far as Egypt. He met ite resistance as he moved\nfrom city to city, offering, as always, amenable terms for\nsurrender.\n\nWhile in Syria, he received a letter from Darius, in which he\nasked for his family back and proposed a friendship and\naliance. To this letter, Alexander responded by reciting the\ninjuries of Persia to Greece, the beginning of hostilities by\nDarius, and the instigation of his father\u2019s murder by the Persian\ncourt, He ended his letter in no uncertain terms:\n\n\u201cLam lord of Asia. Come to me, and you shall receive all that\nyou can ask. But if you deny my right as your lord, stand and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 31,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    39,
+                    391,
+                    604
+                ],
+                "ocr_text": "Alexander's dauntiess drive would next meet a much more:\n{formidable foe, however\u2014one that would strain his\nresourcefulness to its limits.\n\nTyre remained as the last city of importance to take in\nPhoenicia, which was not only the chief naval station of the\nregion but of the world. Once it was secured, Alexander could\n\u2018safely continue south into Egypt and Babylon. Tyrian\nambassadors met with Alexander and offered submission and\ntheir fleet, but withthe stipulation that he would not be allowed\nto enter the city. The Tyrian officials wanted to retain their\nindependence in case Persia won, an unacceptable condition to\n\u2018Alexander. So the city shut its gates and prepared their\ndefenses.\n\nAlexander and his officers agreed that Tyre must be taken,\nBut the question was how? The city was situated on an island\n\u2018two miles long, less wide, and separated from the coast by a\n\u2018channel a half-mile wide and some eighteen feet. High, sturdy\nwalls surrounded it, and housed 30,000 men fit for battle,\nmachines to resist a siege, and a number of warships.\n\n\u2018The Macedonian generals thought their task impossible, to\nwhich Alexander replied, \u201cThere is nothing impossible to him\nwho will try.\u201d As he had no ships, Alexander made up his mind\nto build a highway of stone, earth, and wood across the\n\u2018channel, two hundred feet wide.\n\nLaborers were procured from every part of the neighboring\n\u2018country, and the highway progressed rapidly. As they\napproached the deeper waters, however, they came within\nmissile range of the city, and the Tyrians were waiting. They\nattacked Alexander's mole day and night from the walls with\narchers, ballistae, catapults, and other siege weapons, and from\nthe sea with ships loaded with similar weapons. Alexander\nresponded by building fortifications to protect his workers, and\n\u2018wo large towers to lead the construction, manned with archers\nand siege engines of his own to keep the Tyrian ships at a\ndistance.\n\nUnder this cover, the work progressed again. The Tyrians\nmounted a devastating counter-attack, however. They waited for\n"
+            }
+        ]
+    },
+    {
+        "page_number": 32,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    37,
+                    394,
+                    596
+                ],
+                "ocr_text": "\u2018a day when the winds were blowing directly into the highway,\nland loaded an old ship with a massive store of flammable\nmaterial and hung cauldrons of combustible substances off the\nyard-arms and booms. They towed the fire ship to the\nMacedonians, set it ablaze, and smashed it into the towers,\n{ortications, and siege engines, engulfing everything in flames.\n\nThe strong winds fanned the fires, which proved too violent to\nbe extinguished. The towers and breastworks were lost, and the\n\u2018end of the highway was cracked and weakened, and was being\nwashed away by the waves. The work of months and multitudes\nhad been destroyed in a short hour.\n\nSeveral of Alexander's officers suggested that they offer a\ntreaty with Tyre, but he was convinced that he couldn't move\nfurther into Persia so long as their navy could ferry troops into\n\u2018Tyre and thus gain access to his rear. No, Alexander said, Tyre\nmust fall, and he already had plans to overcome the setback,\n\u2018They would construct a wider highway in a better position; it\n\u2018would support more than two towers, which would shield his\nworkers and soldiers from the city's defenses. And they would\ndeploy warships of their own.\n\n\u201cWarships?\u201d his officers asked. They had no ships. Not yet, at\nleast.\n\nAfter work began on the new highway, Alexander mustered a\nsmall army and marched to nearby cities that he didn't control.\nHe quickly received their surrender and formed a fleet of 80\nships, which were outfitted with siege engines. When his fleet\nwas ready and highway completed, he set sail for Tyre to launch\nhis attack.\n\nThe siege proved tremendously difficult for the Macedonians.\nUnder constant attack from the Tryian engines, they fought\nbitterly to secure positions from which they could work to reduce\nthe walls ofthe city. This effort proved almost impossible,\nhowever. Alexander's siege weapons, which were on ground\nthanks to the highway, and on mounted on ships, could make\n1no impression on the city walls, which were widely renowned as\nthe sturdiest in the world,\n\n\u2018After long efforts and trials on every part of the city, the\n"
+            }
+        ]
+    },
+    {
+        "page_number": 33,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    42,
+                    49,
+                    389,
+                    590
+                ],
+                "ocr_text": "loating engines finally found what they were looking for: a\nection of wall that was of weaker masonry, as the Tyrians\nlever expected siege engines to be mounted on ships and\nsailed to their walls.\n\nThe Macedonians succeeded in breeching the wall, but the\nrst storming party was driven back by showers of missiles, fre-\nots, and other devices. Three days later, however, when the\nea was calm, Alexander arrayed his battering engines at the\nveakened position and ordered his vessels carrying missile-\nhrowing engines and archers to skimish around the island s0\n38 to confuse the garrisons. Once the siege engines crumbled a\narge section ofthe wall, bridges were thrown down, and\nMacedonian infantry poured in.\n\n\u2018Alexander led the second wave of soldiers into the city, and\nthough the Tyrians fought bravely, their men were no match\nor the highly skilled Macedonians. The city was swarmed and\naken. Alexander's men wanted vengeance for their brothers\nvho had been captured, tortured, executed on walls in full sight\nthe invaders, and tossed into the sea to prevent a proper\nural. Thousands of Tyrians were siaughtered,\n\nThus fell Tye, after a seven-month siege, and Alexander's\neputation grew in the lands to that of an invincible god,\n\nWhile Alexander was besieging Tyre, he received a second\netter from Darius in which he offered a fantastic sum for the\nelease of his family his daughter's hand in marriage, and all\nhe Persian territory west of the Euphrates. \u201cIf were Alexander,\n\nwould accept,\u201d Parmenion told the king. \u201cSo would |, i | were\n~armenion,\u201d he replied.\n\n\u2018Alexander told Darius that the whole of Persia was his, that\n1e would marry his daughter if he so wished, with or without\nDarius\u2019 consent, and that he had no need for the money. He\nvould keep Darius\u2019 family hostage, albeit nobly cared for, to\nurther distress the Great King and to interfere wit his ability to\nfefend his kingdom, or so Alexander hoped.\n\nIts interesting to note that a great drive often produces a\nride that can, at times, manifest as hubris. Darius wasn't half\nee ee eee a ease ee eee eens Wes\n"
+            }
+        ]
+    },
+    {
+        "page_number": 34,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    46,
+                    395,
+                    588
+                ],
+                "ocr_text": "At the mere implication that they were peers. No great men or\nwomen, no matter how outwardly humble and gracious, are self-\ndeprecating, difident, weaklings. They possess a rare\n\u2018concentration of intelligence and abiity, and they aren't\nashamed to make it known, even if only by their actions. This\nself-confidence is often misinterpreted and denounces as\nshameless self-love, implying that the only way to be\n\u201cacceptable\u201d is to assume an air of tottering docilty. The genius\nknows better though\n\n\u2018September 331 BC soon arrived and saw Alexander\nmarching toward Egypt. He reached the formidable city of Gaza,\nwhich refused to submit. Like Tyre, Gaza presented imposing\nproblems for the siege parties, namely the height of the ground\n\u2018on which the city was built. But Alexander would consider no\ndifficulty whatsoever.\n\nHe conferred with his engineers and devised a plan to build a\nmassive mound around the city so that the siege engines could\nbe rolled up to the walls and set to work. The scheme worked:\n\u2018Alexander's engines breached the walls within two months. The\nfirst three raiding parties were driven back by fierce Gazan\nwarriors. The fourth broke through, however, opening the gates.\nof the city and bringing the destruction of the Gaza garrisons.\n\nAlexander continued through the region, setting up a strong\n\u2018government in Syria and Phoenicia, and headed for the country\nof the Nile. Egypt had no bond whatsoever with its Persian\nmasters. They were a peaceful folk, and the arrival of a new\n\u2018conqueror mattered litle to the population and rulers alike.\n\n\u2018The Egyptians, who had lived under the Persian yoke for two\n\u2018centuries, welcomed Alexander and his Macedonians with open\narms. Alexander retumed to the Egyptians the freedom to\n\u2018exercise their religions and ancient customs, gave them political\n\u2018autonomy, and arranged for the taxes to flow to his coffers. At\nthe mouth of the Nile, Alexander founded the city of Alexandria-\nby-Egypt, which would later become a major economic and\ncultural center in the Mediterranean world. Month by month,\n\u2018Alexander was making good on his promise to use his sword\n\u2018and the swords of his brethren to not just kill, but lift the known\n"
+            }
+        ]
+    },
+    {
+        "page_number": 35,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    54,
+                    394,
+                    580
+                ],
+                "ocr_text": "WORT 1 & NEW SGNEION OF SCONSTING, SOC, ENG SCRCSTNS\nprosperity\n\nAfter receiving reinforcements from Europe, Alexander\nreorganized his forces and started for Babylon. He marched\nnorth up the Tigris River, deeper into the bowels of the Persian\nterritory, and founded cities as he went to provide asylum for the\n\u2018wounded. Together, these cities formed a chain of military posts\nthat served to provide communications, and to build up a\nknowledge of Hellenic culture throughout the country.\n\nA year had passed since Darius\u2019 embarrassing defeat at\nIssus, which he spent amassing an unspeakably large army.\n\u2018Alexander's men had captured Persian scouts, who claimed that\nDarius\u2019 army stood at a milion soldiers to Alexander's 41,000.\n\u2018Anxiety gnawed at the Macedonians. No obstacle thus far was\ninsurmountable for Alexander, but a million men?\n\nAlexander leamed that Darius had positioned his hordes to\nintercept his planned crossing of the Tigris, which would spell\n\u2018certain disaster for his army. So the young king changed his\nPoint of crossing to well north of Darius, and the army forded the\nriver without opposition. After days of marching, the\nMacedonians finally encountered the Persians at the plains of\nGaugamela. Darius\u2019 army was a sight to behold: Infantry as far\nas the eye could see. Rolling waves of cavalry numbering close\nto 100,000. Companies of fearsome war elephants,\n\nAlexander and his Companions conducted a careful survey of\nthe enemy and grounds. He was slow to fight, knowing that his\n\u2018only chance to succeed against such odds was strategic and\ntactical perfection. General Parmenio suggested a surprise night\nattack, but Alexander rejected it. He wanted to defeat Darius in\n\u2018open battle and leave him with no excuse to use to rally another\narmy.\n\nThe armies squared off the following moming. The large,\n\u2018open field had been leveled and cleared of obstacles to allow\nDarius\u2019 masses maximum mobility, which would be used to try\nto encircle the Macedonians. The Macedonians were heavily\n\u2018out-flanked, but Alexander had anticipated this and brilliantly\n"
+            }
+        ]
+    },
+    {
+        "page_number": 36,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    47,
+                    392,
+                    584
+                ],
+                "ocr_text": "maneuverable troops, which could spread out and guard against\n\u2018outfianking movements,\n\n\u2018The battle began when a Persian chariot charged into\nParmenio's left lank and center. Alexander countered by\nleading his Companions into battle on the right.\n\nParmenio and the men of the left repelled the chariots. By\n\u2018contrast, Alexander made headway into the overwhelming\nnumbers that lay before him. Darius tried to out-flank Alexander\n\u2018on both sides, but the protective columns fanned out and held\nthe edges admirably. Darius tried the maneuver again, this time\nordering his center cavalry to try, and edged his center infantry\nin that direction too. Alexander's exceptional ability to retain\n\u2018complete battlefield awareness even while engaged in combat\nhimself detected the ploy and, consequently, the gap in the\nPersian front.\n\nAlexander seized on the opportunity by rapidly forming a\ndeep wedge of infantry, headed it personally with his\n\u2018Companions, and drove it ke a battering ram into the Persian\n\u2018center. Darius was positioned just beyond them.\n\n\u2018The bravest Persians stood fast and contended the charge,\nbut they were no match for Alexander and his Companions and\nphalanx, which had never yet found their match. The\nMacedonians hewed their way through the living masses.\nDarius watched in horror as Alexander broke his center and\nangled toward him. Instead of ordering reinforcements to\nretrieve what might have been a temporary disadvantage,\nDarius turned and fled.\n\nDespite Darius\u2019 second cowardly retreat, his skilled and able\ngenerals knew that the battle could still be won, and pressed on\nwith ferocity. Alexander's bold move had opened a gap in his\n\u2018own lines, which allowed Persian infantry and cavalry to pour in\n\u2018and envelope his left flank. This put incredible strain on\nParmeni's lines, which were on the brink of being fatally\n\u2018compromised.\n\nSensing the threat, Alexander wheeled his Companions and\ngalloped to Parmenio\u2019s aid. Simultaneously, vast columns of\n"
+            }
+        ]
+    },
+    {
+        "page_number": 37,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    44,
+                    392,
+                    596
+                ],
+                "ocr_text": "again. They melted into retreat, completely dissolving the\nPersian center.\n\nDespite the carnage on the left, which left 60 of Alexander's\n\u2018lite Companions dead, demoralization spread quickly amongst\nthe Persian ranks. Macedonian fervor rose in response,\ngalvanizing them to regain their position and drive back the\n\u2018enemy until their ranks collapsed completely. Alexander wasn't\ndone, however\u2014he immediately set out to pursue and capture\nDarius. His men marched rapidly, covering 70 miles by the next\nday, but Darius kept well ahead.\n\n\u2018Although he would live to see another day, Darius lost\nbetween 40,000 \u2014 90,000 men at Gaugamala as well as any\nhope of retaining his throne. Alexander's losses were just over\n41,000 men, Word of the unthinkable victory spread quickly. Ifa\nmillion men couldn't stop Alexander and his claim to Asia, what\n\u2018could?\n\nThis sentiment was the final, wheezing breaths of the Persian\nEmpire, which illustrates an important lesson in overcoming\nincredible odds. No matter the journey, one will aways face\n\u2018opposition, whether in the form of competitors, enemies,\nmeddlers, saboteurs, incompetents, and the like. The simplest\nway to defeat them alls to accomplish what you set out 10\n\u2018accomplish. Don't let them divert your efforts into undesirable\ndirections. Don't let them convince you that compromises are\nadvantageous or necessary. Be like Alexander in your drive:\nshow them just how dauntless and incorrigible you really are,\nand just as the sprawiing Persian Empire did, with its millions of\nable-bodied men, they'l lose their will to keep fighting and\n\u2018accept your ascendance.\n\nAlexanders story isn't complete, however. There is more we\n\u2018can learn about drive\u2014including its dangers\u2014from his\nlegendary exploits\n\nThe wondrous wealth of the megalopolis Babylon and the\ntreasure-laden Susa, the next cities to capitulate to Alexander\n\u2018and welcome him as their king, staggered even him. He used\nthe riches to pay his troops handsomely. He also sent a sum\nhome to Antipater six-times the annual income of Athens to put\n"
+            }
+        ]
+    },
+    {
+        "page_number": 38,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    52,
+                    394,
+                    593
+                ],
+                "ocr_text": "down a Spartan rebelion.\n\nAlexander named Mazaeus, a Persian general who had\nfought bravely in Gaugamala, viceroy of Babylon, and appointed\nseveral other ranking Persians who had surrendered to other\nPositions of political power. The miltary control, however, would\nremain with Macedonian soldiers, This was another stroke of\n\u2018Alexander's genius, as it fostered allegiance and respect among\nthe conquered, and reinforced his standing offer to the\nremaining peoples that lie ahead: accept me and live well, or\n\u2018oppose me and perish. \"I have not come to Asia to destroy\nnations,\u201d he explained to the defectors. \"| have come here that\nthose who are subdued by my arms shall have naught to\n\u2018complain of my victories.\"\n\nThe rugged Macedonians enjoyed a long rest and the many\nluxuries of Babylon before preparing for their final journey to\ntake Persepolis, the primary capital of Persia, and thus the\n\u2018entire kingdom. To get there, however, would require the\ntraversal of several rivers and a mountain range comparable to\nthe Alps in size and altitude, which was occupied by hostile,\nhardy tribes. And it was the winter. Nevertheless, the\nMacedonian legions set out into the labyrinth of rocks,\nprecipices, torrents, valleys, and passes at the end of 331 BC.\n\nThe Uxian mountaineers maintained a fortress deep in the\nmountains and controlled the lands. If Alexander was to pass,\nthey said, he would have to pay them tribute just as the\nPersians did. Alexander laughed at their demands and found\nanother road, albeit a very difficult one, onto the mountain. He\n\u2018soon located the Uxian villages and quickly swept over them.\n\u2018The Uxians were dumbfounded at the speed with which\nAlexander navigated the rugged terrain, and mounted a last.\nstand at their stronghold, Despite a staunch defense, Alexander\nled a siege that only lasted a few hours before the Uxians\noffered surrender, which Alexander accepted.\n\n\u2018Onward Alexander went, moving ever-closer to the\ntreacherous mountain pass known as the Persian Gates. The\nGates marked one of two routes that lead to Persepolis, through\nthe lands controlled by the satrap Ariobarzanes, who remained\n"
+            }
+        ]
+    },
+    {
+        "page_number": 39,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    44,
+                    393,
+                    589
+                ],
+                "ocr_text": "loyal to the Persian cause. While Alexander could have avoided\nthe pass by taking the safer road to Persepolis, he decided not\nto\u2014quite literally choosing the road less traveled. He did so for\n\u2018a good reason, though: to prevent Ariobarzanes and his force of\n40,000 men from having a clear view of his rear as well as a\ndirect path to Susa, Babylon, and other freshly conquered lands,\n\n\u2018Thus, Alexander split his army, sending Parmenio with the\nbaggage and siege train along the secure road through the\nfoothills to the south, and leading himself the Companion\n\u2018cavalry, the lancers and horse-bowmen, and the archers to the\ndangerous canyon. He arrived at the Gates to find it walled off.\nAlexander prepared a direct assault, as was his custom. Once\nthe offensive began, however, he was dismayed to learn that he\nhad led his men into a devastating ambush.\n\nAriobarzanes had anticipated the Macedonians and allowed\nthem to march deep into the pass with no resistance\nwhatsoever. When the head of their column reached the\nnarrowest section, the Persians unleashed a terrifying attack\nfrom above, raining down arrows, stones, and boulders, Whole\nfiles of Macedonians were crushed, but they pressed on. They\ntried to scale the granite walls of the pass, helping each other\nUp and defending each other with their shields. But the\n\u2018onslaught continued to decimate the Macedonian ranks, forcing\n\u2018Alexander to withdraw his forces from the seemingly\nunassailable defense. He had to find another way to the\nPersians.\n\nAs if sent by the gods themselves, a shepherd came forth\nwho had been sold into Persian slavery and who knew the\nregion intimately. He showed Alexander several unknown,\ndifficult paths through the foothills that would take him to.\nAriobarzanes' rear. Alexander promised the shepherd incredible\nwealth if he led his army honestly, and a quick death if he\nbetrayed them\n\nThe pian was simple: Alexander would take a large\ncontingent of his best soldiers with the shepherd while Craterus,\nhis commander of the phalanx, would keep the rest of the men.\nlooking busy in front of the wall so as to maintain pretenses of\n"
+            }
+        ]
+    },
+    {
+        "page_number": 40,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    42,
+                    38,
+                    390,
+                    588
+                ],
+                "ocr_text": ";nother frontal assauit. When Alexander was in position to strike\nrom the rear, he would sound trumpets, and Craterus would\nead a charge in the front\n\nThe shepherd, Alexander, and his men set out that night, into\nviolent storm. They had 12 miles to cover and time was of the\nsssence. If Ariobarzanes suspected the maneuver and caught,\n\\lexander in the wilds witha force of his own, Alexander's saga\nvould likely come to a bloody end. But Alexander took such\nalculated risks with carefree ease, as ifthe sheer force of his\nntention would bend the universe to his favor. A reflection of his.\nsccomplishments makes one wonder if such is possible\n\nThe group marched through the night in hushed silence and,\ny the morning, reached a path that led directly to the Persian\namp. Alexander waited through the day untl the following\night, and then split up his men. A detachment would head to\nhe nearby Araxes River and build a bridge over it to occupy the\nnly escape route available to the Persians. The second\nfetachment, led by Alexander, would descend directly into the\n ersian camp.\n\n\u2018Alexander's vanguard soon came upon their enemy's\nposts and, through surprise attacks, eliminated each,\nlowing him and his men to reach the edge of the camp\ninperceived. Meanwhile, Craterus had done well maintaining\nis pretense with numerous campfires representative of\nslexanders full army. When Alexander's trumpets blared, the\ntre camp froze. Mayhem immediately followed when\nhousands of Macedonians poured in from all sides. Craterus\n1nd his brigades simultaneously charged the wall, scaled it, and\nverran the dumbfounded garrisons.\n\nThe ambush was a resounding success. The enemy was cut\no pieces. Ariobarzanes and his bodyguard tried to escape\nhrough the rear, only o meet the Macedonians that had\nridged the river. The Persians chose to die with their swords in\nwand. Afterward, Alexander gathered his Companions and set\nut to Persepolis at once, traveling over 40 miles in one night,\nhrough the snow, and reached the magnificent capital before\nsend beaed corms anche of what Ineenanndl bathe mesunieben. The\n"
+            }
+        ]
+    },
+    {
+        "page_number": 41,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    42,
+                    395,
+                    586
+                ],
+                "ocr_text": "city opened its gates and welcomed its new king,\n\nGreat feasts were held in Persepolis, and against his usual\nhabit of preserving whatever he conquered, Alexander gave in\nto his men\u2019s demands of retaliation. Athens had been buried\nand desecrated by the Persian king in times past, and the\nMacedonians wanted to inflict the same wounds upon\nPersepolis. Thus, the great city was given up to plunder and the\nmagnificent palace of the Persian kings was burned to the\n{ground after a drunken celebration. Women and their jewels\nwere to be left untouched, however, as ordered by Alexander.\n\n\u2018Alexander lavished his men as usual, who spent their days\nand nights in revelry. He was never one to rest for long, though.\nWithin a month of taking Persepolis, he made various\n\u2018excursions to neighboring tribes to complete the Hellenic\n\u2018subjugation once and for al. This included a clan of fierce.\nmountaineers not unlike the Uxians who controlled roads from\nPersis to the sea, which Alexander intended to use. To reach\nthe tribe, icy rain had to be endured and snow-clad hills.\ntraversed; steps had to be cut into frozen slopes; and roads had\nto be hewn through the woods. Every difficulty was overcome\nwith the king leading the way. The mountain people were\nreached and agreements were struck, thus accomplishing\n\u2018Alexander's great vision. In a mere four years, the Macedonians\nhad vanquished the mighty Persian army and claimed its lavish\n\u2018empire, reversing the conquest accomplished by King Xerxes\nover a century before,\n\nBy 324 BC, 11 years after his ascension to the Macedonian.\nthrone, Alexander had led his army 22,000 miles, was\nUndefeated in battle, and founded some 70 cities in the lands he\n\u2018conquered, 22 of which he named after himself. These epic\nachievements pay homage to his simple philosophy on life. \u201cI\n\u2018would rather live a shor life of glory than a long one of\nobscurity,\" he wrote. Thanks to his unparalleled ambition, drive,\nand willpower, few figures in the pages of history embody a\nspirit of carpe diem\u2014seize the day\u2014like Alexander did.\n\nIn June of 323 BC, at age 32, Alexander contracted a\nmysterious fever. Within a week. he was dead. Whispers of\n"
+            }
+        ]
+    },
+    {
+        "page_number": 42,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    35,
+                    391,
+                    579
+                ],
+                "ocr_text": "\u2018conspiracy and murder filled the air, but nothing definitive was.\nbrought to light.\n\nAlexander had written a lengthy will in case of his death,\nwhich called for his successors to conduct military expansion\ninto the southem and western Mediterranean, build monumental\n\u2018constructions, and further unify Eastern and Western\nPopulations. After he was gone, his generals dismissed the\nplans as impractical and extravagant. Instead, they carved up\nthe conquered territories for themselves and went to war with\n\u2018each other and the rest of Greece, This feud lasted 40 years\n\u2018and culminated in the blood-soaked collapse of the entire\nkingdom of Macedonia.\n\nAlexander's legendary apotheosis is a testament to the\ntransformational power of drive, and of the will to physically,\nmentally, and spiritually push oneself beyond the impossible.\n\u2018Although his method was war, and some choose to remember\nhim as a ruthless savage, there's no denying that his\n\u2018compassion for the vanquished and diplomacy represented\nsomething much greater in him, and that his legacy was far\nmore profound than meaningless camage.\n\nGeniuses don't work long and hard from a begrudging sense\n\u2018of duty\u2014they do it because they have a strong desire to give\n\u2018everything they've got to a project and see it through to the best\nOf their abilities. Ambition shows you the path to success, but\ndrive is what gets you through it.\n\n\u201cIdo not think there is any other quality so essential to\nsuccess of any kind as the quailty of perseverance,\u201d wrote John\nD. Rockefeller. \u201cit overcomes almost everything, even nature.\u201d\n\n\u2018Many people now recognized for their stellar achievements.\nwere once listless and purposeless. Stephen Hawking was once\n\u2018a young college student who felt \u201cbored with life\u201d without\n\u201canything worth doing.\u201d When he was diagnosed with\n\u2018Amyotrophic Lateral Sclerosis at age 21, the doctors gave him\n\u2018two-and-a-half years to live. While many people would have\n"
+            }
+        ]
+    },
+    {
+        "page_number": 43,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    49,
+                    391,
+                    546
+                ],
+                "ocr_text": "horizon, Hawking decided that there were still many things he\nwanted to doin his life. Stephen turned 70 this year, baffling\nscientists with his extraordinary longevity, and he has become\n\u2018one of the most celebrated scientists of our times.\n\n\u2018Alexanders drive was nothing short of godlike. \u201cSex and\nsleep alone make me conscious that! am morta,\" he said\nWhen he landed on the shores of Asia Minor, he looked at the\nvast expanses ahead of him\u2014the invincible cites, the milions of\nPersian solciers\u2014and simply saw heaps of mud and stone to\ntake and hordes of men that will soon call him king\n\nOur journeys to greatness will probably never require the\n\u2018sheer power of will that Alexander's did. | don't know if there's.\n\u2018any modem experience quite comparable to charging headlong\ninto a few hundred thousand roaring soldiers. But if we could\ncapture just a fraction of Alexander's spirit and worldview, we\nwould be unstoppable in our adventures.\n\n\"A passionate desire and an unwearied will can perform\nimpossibiites or what may seem to be such to the col, timid,\n\u2018and feeble,\u201d wrote the famous English doctor Sir James,\nSimpson.\n\n\u2018So what lies behind drive? How do geniuses find the energy\n\u2018and confidence to believe in their goals and their abiltes, as\nwell as the audacity to continue so believing unti their wils are\nreality?\n\n\u2018The Power of Purpose\n\nPurpose isthe primary fuel of ambition. Purpose creates a\ndestination. We can only become fully engaged in Ife when we\n{eel that we are doing something that really matters. Purpose is\nwhat inspires us, ights us up, and floats our boats.\n\nWashington Irving\u2014the famous author, historian and essayist\n\u2014s2id, \u201cGreat minds have purposes, others have wishes. Little\nminds ere tamed end subdued by misfortune. but arest minds\n"
+            }
+        ]
+    },
+    {
+        "page_number": 44,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    28,
+                    46,
+                    388,
+                    584
+                ],
+                "ocr_text": "time. Youll find it in Homer's Odyssey, and it has inspired some\nof the greatest spiritual figures in history: Jesus, Buddha,\nMoses, Mohammad, You'll even find it in modern culture in\nmovies like Indiana Jones and the Last Crusade, which re-tells\nthe story of Perceval's search for the Holy Grail through the\ndaring character of indiana Jones, as well as the famous Star\nWars trilogy, in which Luke Skywalker confronts his deepest\nfears by confronting and vanquishing Darth Vader and the\nEmpire. It's no coincidence that these movies\u2014which\nmodernize the legendary virtues of the hero's journey, the.\nsearch for meaning and the triumph of good over evil\u2014are\n\u2018among the most popular and successful of alltime.\n\n\u201cThere is one quality we must possess to win,\u201d said Napoleon\nHill, author of one of the best-selling books of aime, Think and\nGrow Rich, \u201cand that is definiteness of purpose, the knowledge\nof what one wants, and a burning desire to possess it\u201d\n\nFor a time, Alexander was an almost inhuman force, alive\nwith unbridled and unmatched purpose. While many in his\nposition would've been content with a life of kingly hedonism,\nAlexander was cut from a different cloth. He pawned off,\n\u2018everything he owned to finance what he truly cared about: his\nvision of a glorious destiny and immortality. But perhaps more\nimpressively, he conducted himself with extreme equilibrium,\nsanity, and benevolence startlingly uncharacteristic of a\n\u2018conqueror. He lived in a time where men of his ilk were\n\u2018expected to indulge in mindless slaughter and degradation of\nthe people they subdued, but he not only discouraged it, he\nforbade it\n\nOne year before his death, however, his quest required an\nadvance from Persia to India to conquer what was left of the\nknown world. When Alexander announced this to his soldiers,\nthey mutinied. They were exhausted and longed to return to\ntheir families. Despite inspired, moving speeches, Alexander\n\u2018couldn't convince them to continue, so he released them from\nduty and relegated himsetf to the role of administrator of his\n\u2018empire\u2014a post he loathed. Months later, Plutarch wrote that the\nking \u201clost his spirits, and grew diffident of the protection and\n"
+            }
+        ]
+    },
+    {
+        "page_number": 45,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    43,
+                    390,
+                    591
+                ],
+                "ocr_text": "assistance of the gods, and suspicious of his friends.\u201d\n\nIronically, during this time of ennui, Alexander suffered his\nworst losses. Intrigues led to the execution of his great friends\nand loyal generals Philotas and Parmenio. He killed his brave\n\u2018and loyal officer, Cleitus, over drunken slurs. Alexander sank\ninto a deep depression, almost driving him to suicide, and\nsowed much discontent amongst his people that had come to\nlove him deariy\n\n\u2018exanders plight didn't stop there. Hi best fiend and\ngeneral Hephaeston died a mysterious death, rumored to be\nfom poisoning. The loss sent Alexander into an revocable\nrage that cost thousands of Persians their lives and led to his\nfurther self-deification as well as his increased adoption of\nPersian customs, which many Greeks despised\n\nFinally, Alexander\u2014a man who had defied death so regularly\n\u2018and against such odds that his enemies had deciared him\ninvincible\u2014lost his life to an unexplainable fever that began\nafter a night of heavy drinking. The morality of Alexander's\nambitious purpose notwithstanding, i's very clear that once he\nhad lost it, he rapidly lost everything. If we are to succeed in our\nendeavors toward greatness, we must learn and apply this final\nlesson of Alexander's to our journeys. Simply put: If purpose\ndies, the entire adventure quickly follows suit.\n\nBut what isa purpose, exactly? The dictionary defines it as\nfollows:\n\nThe reason why something is done or why something exists.\ntis something set up as an objector an end to be attained: an\nintention.\n\nWhere the goal isthe what, the purpose is the allmportant\nwhy. Purpose gives goals meaning. When the intention to make\n\u2018something happen is weak\u2014when you're just not feeling the\n\u201cfre\u2122\u2014i's not going to happen. People that ignore purpose don't\n{90 very far in fe, Nobody can love what they don't fee! in their\nhearts. The wll to go on expires, soon or later.\n\nHow excited are you to get to work in the morning? How\nmuch do you enjoy what you do for is own sake rather than\n"
+            }
+        ]
+    },
+    {
+        "page_number": 46,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    44,
+                    390,
+                    592
+                ],
+                "ocr_text": "\u2018what it gots you? And how accountable do you hold yourself to\n\u2018a deeply held set of goals?\n\nThese are the questions of purpose all adventurous souls\nmust ask themselves. If your answers to these questions are\nenthusiastic, then chances are you're bringing a strong sense of\npurpose to your pursuits. if your answers to these questions are\nanything less, chances are you're just going through the\nmotions. The former path breeds persistence and grit, which\nlead to opportunities and successes thereafter. The latter\nbreeds indifference and lethargy, which can't handle even the\npettiest of pressures.\n\nImagine that you're out at sea on a boat, voyaging to a far-off\ndestination. Your boat springs a leak, which immediately\nbecomes your priority. You jump down and start bailing water to\nprevent going under, but forget that nobody is left to navigate\nthe ship. One day, after doing nothing but bailing water for who\nknows how long, you poke your head over the bow and wonder\nwhere the heck you are and how you got there. This is the\npurposeless life, People can become so preoccupied with just\n\u2018staying afloat that they fail to realize that nobody is at the helm.\n\nUnfortunately, clarifying purpose takes time\u2014quiet,\nUninterrupted time\u2014which is something many of us feel we\ndon't have. We rush from one obligation to another without a\n\u201c50,000 foot\" view of where we're going. It may seem self-\nindulgent to stop and reflect on questions of meaning and\nPurpose, but your journey will demand it.\n\nWhen Steven Spielberg, Jeffrey Katzenberg, and David\nGeffen started DreamWorks, their purpose was to entertain and\ndelight people. Profits were second to that. They went through\n\u2018some tough times, coming close to bankruptcy twice. But they\npersevered in large part due to their dedication to the studio's\nvision and reason for being. Today, DreamWorks is one of the\nlargest film studios in the world.\n\nNobody can force a purpose on you\u2014you must choose it of\n\u2018your own free will. There are so many ways to help people in\nthe world, but you need to find your way\u2014the way that makes\nyou want to put this book down right now and get into action. As\n"
+            }
+        ]
+    },
+    {
+        "page_number": 47,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    35,
+                    53,
+                    392,
+                    588
+                ],
+                "ocr_text": "TOWerd TRUTEN GEIG, YOU MUS TING WHER MEKSS YOU COMB\nalive.\n\nSo, before beginning any adventure\u2014before choosing any\nParticular path\u2014don't forget to ask yourself why: Why are you\ndoing this? Why is it exciting? Why does it really matter? When\nyou've addressed these questions with true convictions, you\nknow you've unlocked your purpose. This is the wellspring of\nany strong drive to succeed.\n\nThere\u2019s more to this story, though. By awakening purpose,\nyou've created an ember, not a fire. You've begun something,\nbut must quickly pile on the kindling to complete the\ntransformation that all geniuses undergo. You're ready to fight\nthe first battle in your journey to greatness, the battle between\nthe Work and the Resistance.\n\n\u2018Some people will do anything to avoid the work. They have\nPretty spreadsheets, fancy proposals, slick PowerPoint\npresentations, and sparkling visions of champagne baths and\nkeynote speeches.\n\nThey'll rattle off a long lst of industry bloggers that love their\nideas, the interviews they have lined up to woo top talent, and.\nthe play-by-play of their ten-year plans and distribution models.\nBut ask them about the rea/ work\u2014the hard work that\u2019s required\nto materialize ideas into something usable, valuable, and viable\n\u2014and they're likely to fall into an awkward silence,\n\n\u2018These self-styled visionaries just don't get it. Or they don't,\nwant to get it. They aren't doing the work, and they won't\nsucceed regardless of how busy they keep themselves with not\ndoing it. So what is the work, anyway?\n\n\u2018The work consists of the actions that directly create\nsomething with tangible, exchangeable, enduring value. Once\nthat's complete, the work includes the actions that move the\ncreation out into the hands of users and consumers, in\n\u2018exchange for something of equal value. The drive of a genius is\nalways in the direction of doing the work\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    47,
+                    373,
+                    280
+                ],
+                "ocr_text": "Howard Thurman said, you must find what makes you come\nalive.\n\nSo, before beginning any adventure\u2014before choosing any\nParticular path\u2014don't forget to ask yourself why: Why are you\ndoing this? Why is it exciting? Why does it really matter? When\nyou've addressed these questions with true convictions, you\nknow you've unlocked your purpose. This is the wellspring of\nany strong drive to succeed.\n\nThere\u2019s more to this story, though. By awakening purpose,\nyou've created an ember, not a fire. You've begun something,\nbut must quickly pile on the kindling to complete the\ntransformation that all geniuses undergo. You're ready to fight\nthe first battle in your journey to greatness, the battle between\nthe Work and the Resistance.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 48,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    44,
+                    394,
+                    597
+                ],
+                "ocr_text": "Cf the world works, tweeting and blogging about it isnt the work.\nCoding a proof of concept that you can use to raise funding with\nis, however. i you have a story string inside you thatthe world\nneeds to read, spending another 50 hours searching for\ninspiration or bouncing your ideas off others isnt the work.\nFinishing the outine and starting the first drafts.\n\n\u2018Alexander was renowned for his unequalled dedication to the\nwork. Once he locked his sights on the next milestone is his\njoumey, whether it be the next city to subdue or next region to\nassimilate, he spent every waking minute in action, making it so,\nIn his own words, the most slavish thing was to \u201cluxuriate,\u201d\nwhereas the most royal thing was to \u201clabor.\u201d\n\nHe also understood the power of momentum, Once you're in\nmotion, its much easier to stay 80, which allows for greater and\n\u2018greater acceleration. And the closer Alexander approached the\naccomplishment of a goal, the harder he pushed. Look at his\nactions after his briliant, but harrowing, breakthrough at the\nPersian Gates. He hadn't slept in over a day and just completed\n\u2018another perilous assault, and his officers suggested that he join\nhis men in celebration of what was sure to be the ast ofthe\nPersian defenses. After a well-deserved rest, Persepolis would\nbe theirs. Instead, Alexander did what ust came natural to him.\n\u2018A man of such impetuous drive couldn't stop when the finish line\nwas just over the horizon,\n\nIf doing the work isthe key to victory in our journeys to\n\u2018greatness, what has the power to stop us? The answer takes us\ninward, and if we are to advance in our quests, it must be\n\u2018conquered with the same vigor and determination of Alexander.\n\nThe Invisible. Insidious, and Impersonal Enemy That Hates the\nWork\n\nResistance is invisible, insidious, and impersonal. It can't be\n\u2018seen, but it's in you right now, and it can be felt. Resistance tells\nyou anything to keep you from doing the work. It wil ie, argue,\nluster, seduce, and bully you to get its way. It will say anything\nto strike a deal and then stab you in the back. It doesn't care\n"
+            }
+        ]
+    },
+    {
+        "page_number": 49,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    35,
+                    389,
+                    583
+                ],
+                "ocr_text": "who you are or wha you want todo. It has no conscience.\nWhile the genius code awakens our potentials, Resistance\n\u2018obscures them.\n\nWhat kinds of things does Resistance hate most?\n\nAny creative artistic action. Any type of entrepreneurial\nventure. Any new diet or fitness regimen. Any method of\nspiritual advancement. Any type of education. Anything\n\u2018courageous. In short, anything that requires us to forego\nimmediate gratification in search of long-term growth oF\nfutfilment.\n\nResistance loves excuses, justifications, and compromises.\nStart tomorrow, it says. Wait until you're a bit smarter, stronger,\nwealthier, happier, motivated, or prepared. Don't rock the boat,\nit advises. Who are you to challenge the status quo? Do you\nreally think you can bear the cross that comes with it?\nResistance\u2019s stock in trade is diversions, folies, and dead ends,\n\u2018and i's a remarkable salesperson\n\nInhis last year, Alexander lost the only work that mattered to\nhim\u2014the heroic pursuit of glory for himself and for Greece\u2014and\nwith it, the only defense against Resistance. This malevolent\nforce relished the chance to conquer the man that conquered\nthe world, and proved more than capable ofthe task. Ifitcan\nundermine someone of Alexander's strength, itcan do atleast\nthe same to us\n\nResistance has a fatal weakness, though. We can turn the\ntables oni. Itcan be defeated.\n\nIn his biliant book, The War of Art, Stephen Pressfield\nreveals that Resistance\u2019s Achilles heel les inthe fact that it will\n\u2018only fight that which is truly important in your life. It wants to kil,\nyour deepest purposes and desires, your true calling and git.\nYes, kill them. In this way, however, it shows you what work you\nmust do-your very personal path to profound fulfilment,\nhappiness, and success. Resistance dares you to meet itin\npitched battle.\n\nWhen you do anything but the work, Resistance sneers at\nyou. It's playing you like a marionette. You're feeding it, making\n"
+            }
+        ]
+    },
+    {
+        "page_number": 50,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    30,
+                    41,
+                    396,
+                    432
+                ],
+                "ocr_text": "it stronger. But when you do the wor, it shrieks in horror.\n\u201cAnything but the work\u201d it cries. Itinvades your mind and\nflashes shiny distractions. Facebook! Twitter! Television! Phone!\nANYTHING BUT THE WORK!\n\nMake no mistake. The fight against Resistance is a war to the\ndeath. It will tell you you're too weak to kilt. Too stupid. Too\nlazy. But you're not. Ironically, it depends on your obedience for\nits strength,\n\nDefiantly do the work instead and Resistance withers. Every\nbit of work done strikes at it. Do enough work and its armor\n\u2018crumbles, ts power fades, and all that's left is a whispering\n\u2018ghost. Do more work and it even stops whispering,\n\nIfyou're trying to create a business, a career, a relationship,\n\u2018or anything else in your life, you're a wartior.\n\nYour primary enemy is Resistance, and as we saw in\nAlexander's story, i's ultimately more dangerous\u2014and powerful\n\u2014than barbarian hordes, impenetrable castles, and sweeping\n\u2018empires.\n\n\u2018The journey to greatness requires that you fight the battle\n\u2018against Resistance anew every day by doing the work. Drive\n\u2018compels you forward. If we are to learn from Alexander's\nbrilliance, you strengthen your will by clarifying purpose, getting\ninto motion, and never relenting. And if we are to lear from\nAlexander's greatest mistake, you retain your strength by never\n\u2018accepting anything less than the adventure you yearn for\u2014your\n\u2018call tn creninonn\n"
+            }
+        ]
+    },
+    {
+        "page_number": 51,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    45,
+                    494,
+                    376,
+                    599
+                ],
+                "ocr_text": "his book reveals things like...\n\n+ How to view and deal with the world as Leonardo da\nVinci did, and embrace the one trait that most\naccounted for his incredible genius and talents.\n\n+ How Thomas Edison was able to go from a mischievous\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    34,
+                    59,
+                    386,
+                    263
+                ],
+                "ocr_text": "WOULD You LIKE TO LEARN ABOUT\nMoRE OF HISTORY\u2019S GREATEST\nGENIUSES...AND HOW YOu CAN JOIN\nTHEM?\nIf you'd like to know what some of history's greatest\nthinkers and achievers can teach you about awakening\nyour inner genius, and how to find, follow, and fulfill your\njourney to greatness, then you want to read Awakening\n\u2018Your Inner Genius today.\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Image",
+                "bbox": [
+                    129,
+                    275,
+                    287,
+                    489
+                ],
+                "image_path": "annie_extracted_data/Alexander_the_Great/Image\\page_51instance2.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 52,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    42,
+                    47,
+                    392,
+                    456
+                ],
+                "ocr_text": "academically challenged kid to the world\u2019s most\n\u2018successful inventor, and how you too can formulate and\nrealize goals lke he did\n\n+ The secret to Alexander the Great's superhuman drive\nland work ethic, and how you can inspire yourself to,\npursue your own goals and dreams with the same\nvigor and tenacity.\n\n+ What geniuses like Elizabeth | can teach you about the\nimportance of individualism in your jourey to greatness,\n\u2018and how to strengthen your will to break away from\n\u2018conventions, ignore the naysayers, and stay true to your\nvision and principles.\n\n+ How Hippocrates\u2019 epic quest to reform medicine in\nancient Greece was fueled by his unparalleled\nJudgment, and how you too can sharpen your ability to\n\u2018make the right decisions at the right times and thus.\n\u2018move closer to your dreams, one good call at a timo.\n\n+ And much, much more.\n\nn this book you're going to learn something most people will\njever know: What it really takes to find and follow your:\niss, and how you can use the lessons passed down to us\nny some of history's greatest geniuses to systematically\nise to top of your fields, activities, and endeavors.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    56,
+                    66,
+                    384,
+                    279
+                ],
+                "ocr_text": "\u2018Successful inventor, and how you too can formulate and\nrealize goals lke he did\n\n+ The secret to Alexander the Great's superhuman drive\nland work ethic, and how you can inspire yourself to,\npursue your own goals and dreams with the same\nvigor and tenacity.\n\n+ What geniuses like Elizabeth | can teach you about the\nimportance of individualism in your jourey to greatness,\n\u2018and how to strengthen your will to break away from\n\u2018conventions, ignore the naysayers, and stay true to your\nvision and principles.\n\n+ How Hippocrates\u2019 epic quest to reform medicine in\n"
+            }
+        ]
+    },
+    {
+        "page_number": 53,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    27,
+                    76,
+                    392,
+                    590
+                ],
+                "ocr_text": "WOULD YOU DO ME A FAVORS\nThank you for reading my book. | hope you enjoyed it! I'm\npostive thal you decide to walk the path to greatness, you can\nUnlock possbilis for happiness and accomplishment that you\nnever believed possible.\n\nUhave a small favor to ask. Would you mind taking a minute to\nwre a blur on Google Play about tis book? I check al my\nreviews and love to get feedback (that's the real pay for my\nwork\u2014knowing that I'm helping people).\nClick here to leave me a review on Google Play\n\u2018Aso, i you have any ends o amy that might enjoy tis book,\n\u2018spread the love and lend it to them!\nNow, | dont just want to sell you a book\u2014t want to connect with\n28 many people as | can and hear tel stores, lam rom thelr\nwisdom, get nepired by their courage, and, wel st enjoy the\ndebits of iendship,\nThus, dove to hear from you, and what you thought of his\nbook! Al feedback is welcome, and if you have any ideas you'd\nlike to share on how | can improve th book or what you think |\nshould we about next let me know! You can reach me at\n\u2018sean@yourinnergenius.com, or on Facebook, Twitter, and G+:\nLike me on Facebook:\nwww.facebook.com/AwakeningYourinnerGenius\nFollow me on Twitter: www.twitter.com/ayigenius\n\u2018Thanks again, | hope to hear from you, and wish you the best!\nSean\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    31,
+                    59,
+                    388,
+                    274
+                ],
+                "ocr_text": "WOULD You DO ME A FAVOR?\nThank you for reading my book. | hope you enjoyed it! I'm\npositive that if you decide to walk the path to greatness, you can\nunlock possibilities for happiness and accomplishment that you\never believed possible.\n| have a small favor to ask. Would you mind taking a minute to\nwrite a blurb on Google Play about this book? I check all my\nreviews and love to get feedback (that's the real pay for my\n\u2018work\u2014knowing that I'm helping people).\n\nClick here to leave me a review on Google Play\n"
+            }
+        ]
+    },
+    {
+        "page_number": 54,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    44,
+                    321,
+                    373,
+                    440
+                ],
+                "ocr_text": "Awakening Your Inner Genius\nI you'd lke to know what some of history's greatest thinkers\nland achievers can teach you about awakening your inner\n\u2018genius, and how to find, follow, and fulfil your journey to\n\u2018greatness, then you want to read this book today.\nClick here to learn more about this book!\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Image",
+                "bbox": [
+                    129,
+                    109,
+                    295,
+                    315
+                ],
+                "image_path": "annie_extracted_data/Alexander_the_Great/Image\\page_54instance1.jpg"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    86,
+                    59,
+                    328,
+                    107
+                ],
+                "ocr_text": "ALSO BY SEAN PATRICK\n"
+            }
+        ]
+    }
+]

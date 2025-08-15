@@ -1,0 +1,193 @@
+[
+    {
+        "page_number": 1,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    56,
+                    81,
+                    556,
+                    691
+                ],
+                "ocr_text": "\u2018Alexander the Great as a Philosopher-King\nBy Donald Joseph Broussard\nKing Alexander II of Macedon, besides being a general par excellence, was also a philosopher.\nHis eatly life was like that of his hero Ackilleus; his education consisted both of lessons from\n\u2018one of the time's greatest philosophers as well s \u201cuneducated\u201d barbarians\n\n\u2018Alexander became king on the death of his father, Philip Il of Macedon, in 336 B.C. He\nwas prepared for this awesome responsibility partly because Aristotle, himself a Macedonian and\nstudent of Plato, was secured as teacher to tutor prince Alexander: the fourteen-year-old prince\nprobably owed his desire to pursue the unknown geographic areas of his time to Aristotle\n(Bosworth 1988, 21,\n\nIn youth, Alexander learned passion fiom his mother, Olympias, a \u201cdevotee of the\n\u2018orgiastic cults of Dionysus\u201d (Hamilton 1974, p 29). His father, Philip II, \u201chas sometimes been\ncontrasted with Olympias as supplying the Apolline or rational aspect of Alexander's characte\u201d\n(GHansilton 30) The prince's reading consisted of Euripides, who fled to the court of Atchelaus I\n\u2018of Macedon in 406 B.C. and whose plays he knew by heart (Bosworth 26) Also standard reading\nwas Homer, from which Alexander styled himself after Achilles, and his best trend,\nHephuestion, as Patrclus (Lipsius 1974, 41). Alexander would become familiar with the\nhistorian Philistus and the dithyrambie poets Telestus and Philoxenus (Bosworth 20).\n\nAlexander saw himself as destined to topple the mighty Persian empire, which had, under\n\u2018Xerxes I, antagonized Greece 150 years before (Benoist-Mechin, 1966, 28). It was conventional\nGreek thought to seek revenge: proof of this isthe traditional maxim lex talionis ~ law of\n\u2018etalation (Benoist-Mechin 40) in Aeschylus's Orestia. Greece remembered the invasion in 480\nBC. by Xerzea (ibid 22% thle led to demande of retritetion.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    52,
+                    66,
+                    556,
+                    705
+                ],
+                "ocr_text": "Aristotle taught the prince that \u201cthe tyrant\u2019s aim is pleasure; the king\u2019s is duty. Hence\n\nthey differ in their appetites and ambitions: the tyrant grasps at money, the king at honor\u201d\n(Cipsius 45). Aristotle, moreover, considered Persia tyrannical in his Nichomachean Ethics\n(1160030); therefore Persia was to be subdued as an ancient and evil enemy.\n\u2018An example of this education occurs when the king was il, before the batle of Issus. His most\nsenior general, Parmenion, sent a letter accusing the king's doctor, Philip the Arcananian, of\n\u2018conspiring with the enemy Persians to kill him. As Alexander drank his medicine, he handed his\ndoctor the letter and so remembered \u201cAristotle's lessons in distinguishing the self-assured king\nfiom the eternally suspicious tyrant\u201d (Lipsius 114),\n\nHe would subjugate the Persians, not obliterate them; be had admired Cyrus the Great,\nDarius I and Xerxes 1. Upon coming to a fallen statue of Nerxes, Alexander accosted the\nlong-dead tyrant\n\nShall we negletfully pass thee by, now that thou ait prostrate on the ground, because\n\nthou once invadedst Greece, of shall we erect thee again, in consideration of the greatness\n\n\u2018of thy mind and thy other virwes? (Plutarch 263)\n\n\u2018Alexander contented himself with burning down Persepolis, the palace of Xerxes (ibid). That\nsepaid Persia for er war with Greece\n\n\u2018The concept of oikumene ~ literally family state (Historia Terraum iv, 4) became poliey\nat Alexander's court, When he visited the tomb of Cyrus Il of Persia, forefather of Darius I and\n\u201cXerxes I, Alexander became convinced that \u201che must add to his Macedonian heritage that of the\nKing of Kings. . . \u201c (Benoist-Mechin 187). The empire would be ideally held together by\n\u2018common culture, This policy caused much bite division between the King and his oops. This\ndivision was personified in the quarrels of Hephaestion and Craters, two of Alexander's most\ntrusted fiends, Plutarch relates that \u201cHephaestion was a friend of Alexander's, while Craterus\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    67,
+                    390,
+                    554,
+                    695
+                ],
+                "ocr_text": "Shall we negletfully pass thee by, now that thou ait prostrate on the ground, because\n\nthou once invadedst Greece, of shall we erect thee again, in consideration of the greatness\n\n\u2018of thy mind and thy other virwes? (Plutarch 263)\n\u2018Alexander contented himself with burning down Persepolis, the palace of Xerxes (ibid). That\nsepaid Persia for er war with Greece\n\n\u2018The concept of oikumene ~ literally family state (Historia Terraum iv, 4) became poliey\nat Alexander's court, When he visited the tomb of Cyrus Il of Persia, forefather of Darius I and\n\u201cXerxes I, Alexander became convinced that \u201che must add to his Macedonian heritage that of the\nKing of Kings. . . \u201c (Benoist-Mechin 187). The empire would be ideally held together by\n\u2018common culture, This policy caused much bite division between the King and his oops. This\ndivision was personified in the quarrels of Hephaestion and Craters, two of Alexander's most\n\u2018trusted friends, Plutarch relates that \u201cHephaestion was a friend of Alexander's, while Craterus\n"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    53,
+                    57,
+                    556,
+                    698
+                ],
+                "ocr_text": "\u2018was a ftiend of the King's\u201d (Plutarch 272). Hephaestion ageeed with the King\u2019s policies;\n\u2018Craters, however, opposed them, preferring Macedonian customs (ibid). The two men clashed\nvehemently\n\n\u2018They came to blows which Alexander himself had to break up, swearing that he loved\nboth men more than any other human beings. At the same time he told them that he would kill\nthem both ~or atleast the one who started it ~ were they to fight again (Lipsius 162).\n\nHis fiend Cleitus, whose sister had nursed him as a baby (Lipsius 170) and who saved\nhis if at he battle of Granicus (Bosworth 43), challenged the king with a quote from Euripides\nAndromache: \u201cAlas, what evil custom reigns in Greece\u201d (Lipsius 180). In drunken rage, Clitus\nreminded the king precisely who had saved his impetuous life, and decried the increasing\n(Orientalism ofthe court (ibid). Alexander grabbed a spear and, in equally Dionysiae passion, ran\nhis fiend through\n\n\u2018When Alexander entered the palace of Darius Ill, \u201che beheld the bathing vessels, the\nwater pots. all of gold... and tured to those about him and said, \u201cThis it seems, is royalty\"\n(Plutarch 245). This was the palace of the King of Kings, in whose presence courtiers were not\npermitted to stand (Historia Teerarum, vo. i, 4).\n\n\u2018Alexander's \u201cview thatthe whole world is a whole unit, and all things may be brought\ntogether\u201d possibly came from the ecumenical philosopher Aristotle (ibid). This was exactly how\n\u2018Alexander proceeded to unite his empire. He would amalgamate non-Greek with Greek: not\npurely Hellenic, but Hellenistic. He started with the oriental idea of proskynesis ~ prostration\nAristotle's nephow Callisthenes refsed to peeform the ritual; he was accordingly \u201cgoaded by the\nking into damning the Macedonians since, said Alexander, quoting Euripides, \u201cOn noble subjects\nall men can speak well\u201d. The sophist Callisthenes \u2014 general Lysimachus considered him such\n"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    55,
+                    73,
+                    557,
+                    679
+                ],
+                "ocr_text": "(Plutarch 250) \u2014 was then imprisoned (Lipsius 162).\n\u2018At the Hydaspes river, Alexander encountered King Porus: the Macedonians, never\nhaving seen elephants before rallied under Alexander and an old phalanx commander, Coenus\n(ipsius 195). Porus lost many of his oops, among them two sons, and the meeting between\nVictor and vanguished left an impression on the vietor: \u201cNever had he seen a man show such\ndignity in adversity\u201d (Benoist-Mechin, 110)\n\u2018The unpopular assimilation policy regarding the cultures hecame a evsis when the tops\nsebelled twice: at the river Hyphasis (Bosworth 132), and at Opis inthe summer of 324 B.C.\n\u2018The first time, the men refused to eros the river ecause of utter exhaustion: Coenus, speaking\nfor them, expounded their cause by demanding a hall. Alexander angrily retired 10 his tent\nibid), but gave into his troops and ordered the army to turnaround. He ordered sacrifices to ask\nthe gods\u2019 advice, which was negative (Lipsius 200). But when the army moved, \u201cAlexander\nstayed with the rear guard, as though he could not bear to teat himself away from a landscape\nWhich he would never see again. A page in his life had been turned, He chatted about this and\nthat with Hephaestion, but his casual terms deceived no one\u201d (Benoist-Mechin 119),\n\u2018The revolt at Opis concerned emotions of betrayal (Bosworth 160). By this time, Coenus had\ndied (ibid.). Alexander, having tied of the complaining of his Macedonians, reminded them\nwhat his father ade had done for them, then ordered thems home:\nVery well then, Go! And when you get home, tll the peopl that your king, Alexander.\nWho sealed the Caucasus: who crossed the Oxus, the Jaxartes, and the Indus, which only\nDionysus had reached before him ~ as well as the Hydaspes, the Aeschines, and the\nHyphasis, and who would have crossed the Hyphasis with you, had you not prevented\nhim; whose fleet opened the ocean route from the Indus to Persia ~ that this king you\ndeserted and let to the protection ofthe defeated barbarians! (Benoist-Mechin 175)\nHe then sulked in bis tent as hs hero Actilleus had done. The mea, with the old cavaley\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    73,
+                    68,
+                    329,
+                    87
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    66,
+                    558,
+                    704
+                ],
+                "ocr_text": "do not with endless warfare but with the King making Persians his \u201cKinsmen,\u201d something he had\n\u2018not done for his own Macedonians (ibid). Alexander responded, \u201cI make you all my kinsmen\u201d\n(ipsius 212\n\n\u201cAfter the two revels, Alexander sent Craterus home with older veteran troops; \u201cCrates.\n\nhhad been most outspoken in defense of Macedonian tradition, and, like Parmenion, had been\n\n\u2018kept regularly from court...\u201c (Bosworth 161). The king believed strongly in his policy: whoever\ncould not accept that would be dismissed. What could move him to do this to fellow\nMacedonians who had come so far with him?\n\u2018The epitaph of Cyrus, Plutarch relates, moved Alexander with simple dignity. It read\n\n(\u00a9 Man, whosoever thou art, and from whencesoever thou comest (for I know thou wilt\n\ncome), Lam Cyrus, founder of the Persian Empite: do not grudge me this litle earth\n\nWhich covers my body (Plutarch 292)\n\n\u2018The reading \u201csensibly touched Alexander, filling him with thoughts of the uncertainty\nand mutability of human affies\u201d (bid)\n\u2018Alexander had begun crossing the Hellespont by offering libation atthe tomb of Protesilaus, the\nGreek who was the first to set foot on Trojan soil and the fist to die there (Bosworth 37). He\nprayed to avoid that hero's fate while possessing his boldness; even Ackilleus had hesitated at\nthe prophesy of death forthe fist Argive soldier setting foot at Troy. By tracing his genealogy to\n\u2018Achilleus\u2019 son Neoptolemus and Trojan princess Andromache, the young king \u201cwas eager to\nreconcile the two sides of his lineage\u201d (Bosworth 39). This idea of oiktumene (*umily-stae\u201d\nHistoria Terrarum) foreshadowed later fact and was responsible for Alexander's celebrated\nnultiple marriage ceremony at Susa. Alexander, having just seen the final resting place of Cyrus,\n\u2018wanted 10 \u201cunite the wo nations by the communication of children\u201d (Benoist-Mechin 146). He\nhimself wed the daughter of Darius I; her sister he gave to Hephuaeston; her cousin he gave to\n"
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    58,
+                    46,
+                    556,
+                    693
+                ],
+                "ocr_text": "Craters (ibid, 47). The mixture in bloodlines would become a precursor to the mixture of\ncultures necessary to hold the empe together. Had he not told the mother of Darius HI, when\nshe mistook the taller Hephaestion for the king, she was not to wony, for \u201cHe is another\nAlexander\"? Aristotle had defined a friend as another self, and now his alter ego would have\nchildren that were cousins 0 his\n\n\u2018This idealism was not embraced by his two most senior generals, Antipater and Parmenion. The\nformer was left at home as regent for most of the king's reign, while the latter was assassinated\n\u2018on charges of conspiracy, with his son Philotas (Lipsius 79). Parmenion and Alexander disagreed\nphilosophically; the old general always urged caution, the king heard none of it, rooted as it was\nin an older system unsympathetic o youthful boldness. Antipater, also growing old, was judged\nto be past his effectiveness, They were both ofthe generation of Philip I; therefore Alexander's\n\u2018new ecumenical attitude was not shated by them,\n\n\u2018Atany rate, Anipater \u201cdidnot respond immediately. Instead he sent his eldest son, Cassander, 10\ncourt\u201d (Bosworth, 162). Alexander coolly received him into camp, but the atmosphere of the\n\u2018camp became despondent when Hephsestion died at Echatana, to which the army had marched\n(Plutarch 294)\n\nHephuaestion had been one ofthe king's closest intimates his grief did not wane upon crucifixion\n\u2018of Hephaeston\u2019s unfortunate physician, shearing the manes ofall mules and horse, razing the\ntemple of Asclepius, or prohibition ofall music in camp, according to Plutarch (24),\n\n\u2018Alexander leamed many lessons from many people. Aristotle gave him curiosity forthe\nunknown, Darius II had shown him what it was lke to be king of kings. Cyrus I had\nposthumously reminded him of mortality. Porus, the Indian who so nearly defeated him atthe\nHydaspes, had shown him \u201cdignity in adversity\u201d (Benoist-Mechin 110). But it was Hephaestion\n"
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    55,
+                    59,
+                    559,
+                    703
+                ],
+                "ocr_text": "who gave Alexander friendship - philos. He embodied Aristotle's admonition to have \u201cexcellent\nfriends\u201d (Ethics ix, 1170b15). Just as Achilleus never thought of death until it held Patrochs in\nits inexorable grasp, so too Alexander never considered his future. Not even the message of\n(Cyrus If had such an effect: as great as he was, Cyrus was not divine, while Alexander thought\nthe was, Had not the sacred Oracle of Delphi proclaimed, \u201cMy son, thou at invincible\u201d (Plutarch\n238)? How could death have power over the son of the god of Delphi, Apollo, himself son of\nZeus?\n\n\u2018After a long period of mourning for Hephaestion, the army went to Babylon\n(Benoist-Mechin 220). The king undertook various explorations of the area (bid): he listened\nWith interest to his childhood fiend, admiral Nearchus, explain what discoveries his fleet had\nmade near the Tigeis and Euphrates rivers. Meanwhile, at the Babylonian palace, a stranger\ncalling himself Dionysus seated himself on the vacated throne. The King ordered him taken\n\u2018away for execution, but the omen was not missed (Benois-Mechin 222), Plutarch relates that\nSeleucus and some other generals went tothe temple of Serapis for divine assistance: none was\nforthcoming. The king felt surrounded by enemies. Antipaer\u2019s sons, Cassander and Tolaus, the\nlater being cupbearer to the king, became incarnations of terror to him (Plutarch 296). Also,\n\u2018Nearchus had heard of ominous warnings thatthe march to Babylon be postponed (iid. 295).\n\nHephuestion\u2019s replacement, Perdceas, discreetly disobeyed Alexander's order for two\nIhuge funeral monuments, one for Philip I, 10 be consteucted on a scale similar to the Great\nPyramid in Egypt, and one for Alexander Ill (Boswoath 164).\n\n\u2018Alexander spent his final days inthe palace of King Nebuchadnezzae (Boswomth 172); rumors of\npoising ran throughout the city, with Cassander and lolaus suspected (Bosworth 170).\nHis generals carved the empire amongst themselves. Ptolemy took Egypt: Antigonus ruled Asia\n"
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    57,
+                    70,
+                    556,
+                    705
+                ],
+                "ocr_text": "Minor: Antipater retained Macedonia. Media was divided between Python and Atropates while\n\u2018Archon obiained Babylonia. Eumenes received Cappadocia, and Lysimachus took Thrace\n(Benoist-Mechin 229), Most of the men already governed their provinces as satraps;\nsignificantly, this idea was borrowed fom Cyrus and Darius I (Bosworth 229)\n\nPerdiccas was appointed overall commander of the army. with Seleucus in charge of the\ncavalry and Meleager the infantry; Cassander was given command of the foreign contingents,\nand Craters \u201cbecame intendant-general ofthe empire\u201d (Benoist-Mechin 228)\n\n\u2018The proclaimed king of Macedon was Arrhidaeus, who was given the name Philip II; he\nwas an imbecile paternal half-brother of Alexander and would die in 317 B.C.,the same year as\nhis guardian, Antipater (Boswoxth 174).\n\n\u2018The king's posthumous son, Alexander IV, an infant who ruled with Philip II, was\n\nassassinated in 310 B.C. by none other than Cassander (Bosworth 174). The generals Antigonus,\nSelecus, and Ptolemy proclaimed themselves Kings in Macedon, Asia, and Egypt, respectively\n(Historia Terrarum, iv, 4). Alexander's idea of ecumenism died with him Antigonus I held the\nland from the Aegean to the Euphrates, and Seleucus I from there to India (Bosworth 176). The\n\u2018only generals who sought to pursue Alexander's dream of eikumene were Antigonus I and his\nson Demetrius I Poiorcetes; they were defeated by Seleucus I and Lysimachus with elephants\n\u2018gained from Porus after the bate of Hydaspes, in 301 B.C. at the cataclysmic batle of Ipsus\n(Benoist-Mechin 244)\nMost of the Seperatist Kings, in imitation of Alexander, styled themselves as olfspring of\ndivinities; Seleucus 1 Nicator \u201cclaimed Apollo as his heavenly father,\u201d and Ptolemy 1 Sote (he\nepithet means \u201csavior\") became son ofthe demigod Heracles (Bosworth 177),\n\nWith Alexander lying in state in Alexandria, Egypt, his \u201cbody and name were being used\n"
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    59,
+                    66,
+                    551,
+                    232
+                ],
+                "ocr_text": "to underwrite a regime whose very existence would have been anathema to him\u201d (Bosworth\n180). The various kings rejected the idea of oikumene altogether, preferring individual\nmonarchies. The monarchy would no longer be cemented by culture. Alexander had predicted\nthis when, om his deathbed, be was asked to whom the empire would be let. The dying king\nanswered, \u201cTo the strongest\u201d (Lipsius 210). Too late had he planned for the future of his\nkingdom. War, not oikumene, would now decide its fae\n"
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    50,
+                    98,
+                    550,
+                    326
+                ],
+                "ocr_text": "Aristotle. Nicomuchean Ethics. Tans. by Terence Irwin, Indianapolis: Hacket, 1985,\n\nBenoist-Mechin, Jacques. Alexander the Great. New York: Hawthorn Books, In. 1966,\n\nBosworth, A. B. Conguest and Empire: the Reign of Alesander the Great. Cambridge University\nPress, 1988,\n\nHamilton, J. R. Alexander the Great. University of Pitsburgh Press, 1974\n\n\u201cHistoria Terrarum.\u201d Burnam W. Reynolds, ed. Professor Press Lt, 1990.\n\nLipsius, Frank, Alexander the Great, New York: Saturday Review Press, 1974\n\nPlutarch, Twelve Lives. Trans. by John Dryden, Cleveland: Fine Editions Press, 1950\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Header and Footer",
+                "bbox": [
+                    245,
+                    79,
+                    363,
+                    105
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,588 @@
+[
+    {
+        "page_number": 1,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    307,
+                    796
+                ]
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    302,
+                    87,
+                    531,
+                    143
+                ],
+                "ocr_text": "INTERNATIONAL HELLENIC UNIVERSITY\n\u2018SCHOOL OF HUMANITIES\nMA IN BLACK SEA CULTURAL STUDIES\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Figure",
+                "bbox": [
+                    76,
+                    290,
+                    564,
+                    568
+                ],
+                "image_path": "annie_extracted_data/Alexander_the_Great_in_Central_Asia/Figure\\page_1instance2.jpg"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    123,
+                    69,
+                    520,
+                    258
+                ],
+                "ocr_text": "\\& INTERNAT INTERNATIONAL HELLENIC UNIVERSIT\nYS HELLENIC SCHOOL OF HUMANITIES\n2A\u201d University MAIN BLACK SEA CULTURAL STUDIES\nThe Black Sea region and Asia: Politics and\nInternational Relations\n"
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Page Number",
+                "bbox": [
+                    288,
+                    776,
+                    305,
+                    795
+                ]
+            },
+            {
+                "instance_id": 1,
+                "class": "Form",
+                "bbox": [
+                    72,
+                    11,
+                    511,
+                    598
+                ],
+                "image_path": "annie_extracted_data/Alexander_the_Great_in_Central_Asia/Form\\page_2instance1.jpg"
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    306,
+                    795
+                ]
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    75,
+                    157,
+                    525,
+                    665
+                ],
+                "ocr_text": "(Ph: Classical Philology\nJH: Joumal of Hellenic Studies\n>\n\n\u2018The figure of Alexander IIL of Macedon, commonly known as Alexander the\nGreat, inevitably dominates the history of his reign. Historians typically identify\n\u2018Alexander the Great as brilliant military tactician and commander and, accondingly, it\nis his own military actions which receive the fullest documentation. nthe eleven\nyears between his erossing of the Hellespont in the spring of 334 B.C. and his death in\nBabylon in 323 B.C, Alexander ereated one of the biggest and most powerful empires\nof the ancient world that stretched from Greece to Egypt and into modem-day\nPakistan, pushing the frontiers of Greco-Macedonian civilization aeoss the borders of|\nIndia\n\n\u2018Alexander's legacy extended beyond his conquests. His armed campaigns\nfused the Greeks\u2019 Mediterranean centered economy with the Asian centered economy\nof Persia, Commerce flourished between the Greek and Persian worlds, with trade\nTinks being established as far east as India and China, creating virtual world\neconomy. Moreover, vast areas to the east were significantly exposed to Greek\ncivilization and influence and some of the cities, which have been founded by\n\u2018Alexander, became major cultural centers and many of them surviving into the 21\u00b0\n"
+            }
+        ]
+    },
+    {
+        "page_number": 4,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    76,
+                    80,
+                    519,
+                    762
+                ],
+                "ocr_text": "influence!\n\nEspecially, the Central Asia, which has inthe past tended to be regarded as a\nfrontier region of the worlds of the Mediterranean, Near East, India and the Eurasian\n\u2018Steppe, is increasingly coming to be studied as a cultural and political entity in its\n\u2018own right, The area was an especially dynamic zone of cultural interaction, which\npolitically became part, at the beginning of the Achaemenid Persioan Empire until the\n\u2018Alexander's conquest. There is a rich archaeological record available from this\nperiod, much of which has only relatively recently become accessible to scholars.\n\nHowever, a critical estimation of scholarly writings reveals plainly not only\nthe qualitative but also the quantitative differences inthe acceptance of the Alexander,\neven though the available textual sources remained immutable. In other words, the\nstudy of Alexander's conquers is frustrating and challenging because of the nature of\nthe source material, The modem scholarships have only a small number of\ninscriptions, numismatic evidences and random comments from historians that are\ncontemporaneous\u2019, Although much was written about the life and the seizures of\n\u2018Alexander during his reign, these contemporary works has not survived in their\nentirety to the present day. What remains of them are to be found quoted or\nparaphrased by much later authors in their own histories of Alexander\u2018, There is, then,\n\u2018a hiatus of close to three centuries between the death of Alexander in June 323 B.C.\n\u2018and the fist connected narrative of his reign.\n\n\u201cThe main purpose of this paper is to present an overview of the conquests of\n\u2018Alexander in Asia, Moreover, the latest archaeological material obtained during the\n\u2018excavation of the Central Asia is, beyond any doubt, extremely important and needs\n\"1s imeresting to observe that Alexander did wot impose te use of Macedonian dialect, but be opted\nfor the Amie dialect, peehaps because it was already a dialect spread tnoughout the Meditetanean\nworld because of trade. 8, Horrocks 200, 457\nNarain 1965 155,\n\n\"Row scholars judge Alexander the Great as a conquetor and tyrant, despite the fact that many other\nscholars eat again this negative tendency, transforming him to a ciillaesUberatr ofthe Hellenistic\nworld, The reslt that seis of ieconciable version of Alexander ar preseting but no an\nuuuform o coheretpituseS- Bosworth 1986, 1\n\neis aot unl several centuries after the \u2018Alexander's death that modem historiography gots\nconnected nara of the feign by Diodorus Siulus (1\u00b0 cenury B.C.) Quitus Curtis Rus (\"\nfontuy AD) Pluaich (1 century B.C. 1\" ceatuy AD.) Laciws Flavius Anianus (2 century\n\u2018AD) and Justin (3\" century A.D.) who epitomized Pompeius Trogus history ofthe world (1* century\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    777,
+                    307,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 5,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    73,
+                    66,
+                    523,
+                    180
+                ],
+                "ocr_text": "to be investigated further. It opens up possibilities for a revaluation and a substantial\nrevision of the history of this region. However, only the continuation of a properly\nplanned archaeological and historical research can provide new materials, which will\nmake it possible to expand even more our picture of the history of Central Asia under\n\u2018Alexander the Great and to specify its detailed features more accurately\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    289,
+                    776,
+                    305,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 6,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    76,
+                    121,
+                    530,
+                    758
+                ],
+                "ocr_text": "\u2018Alexander was born in July 356 B.C. at Pella, the capital of the Macedonian\n{Kingdom and was the son of the Philip I, the king of Macedon\u2019, and his fourth wife,\n\u2018Olympias, the daughter of Neoptolemus 1, king of the Molossian kingdom of Epirus\nin north-west Greece*. In his childhood, Alexander was tutored by the strict Leonidas,\nWhose methods did not meet with the expected success. In contrast, Alexander's\neducation under Aristotle was more creative and substantial\u201d, bringing the frst into\nlose contact with Greek culture\u2019\n\nEarly on, Philip associated his son with him in the exercise of power and its\nrelated responsibilities. When Philip waged war against Byzantion in 340 B.C., he\nentrusted the conduct of the kingdom to the sixteen-year-old Alexander. During\nPhilip\u2019s absence, the young prince was also given the opportunity to mount an\nexpedition against the formidable Thracians Maedi on his eastem border, founding in\nparallel a new Greek-style city on the site of their capital, and giving itis own name,\n\u2018Alexandroupolis\n\nMeanwhile, the city of Amphissa began to work lands that were sacred to\n\u2018Apollo near Delphi, a sacrilege that gave Philip the subtle opportunity to meddle in\nthe affairs of southem mainland Greece\u2019. Although Philip had often tied to lessen\nGreek unease over his activities, it was apparent that a confrontation with Greek\npowers could no longer be avoided. Thus, at the famous Batle of Charonea in 338\nB.C. the Macedonian army marched against a coalition of Greek city-states, which\n* Macedon was the product ofthe union of Upper and Lower Macedoa, which was completed inthe\ntime of king Philip land to which were ade new cites conning new citizens. S. Sheppard 2008,\n49. Worthington 2012.23\nCane 2004, 13\n* Roan 1989, 566-567\n* Gaus 2008, 232, supports hat itis possible wo demonsuate that Alexander proceeded wih his\n{umpaigs onthe bass of geographical conceptions which are mentioned in the works of Ase\n\"The teat was acutely noticed by the Athenian sttsman Demosthenes, who cautioned other\n\u2018Athenians against giving tenclver over to Macsdonian contol, Demosthenen First Philippe. 43\nDiclorus Siculus, Libsary of Histors, XWL84 LD. retete thet Philie wee anabitious to wean the.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    288,
+                    777,
+                    307,
+                    795
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    83,
+                    70,
+                    170,
+                    89
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 7,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    82,
+                    63,
+                    523,
+                    459
+                ],
+                "ocr_text": "hhave been head by Athens and Thebes\", Philip's superior leadership along with the\nactive participation of Alexander outmatched the Greek allies. The result was a\nsonorous defeat for the Greek ally\", which led to Macedonian hegemony\"? . Philip\nsought to establish his leadership over Greece and unite the whole of Greece with\nMacedon against the Persian Empire, seting the stage for a pan-Hellenie expedition\u201d\nHowever, the good relationship between Philip and Alexander suffered a\nsetback in 337 B.C. when Philip repudiated Olympias and married Cleopatra\nEurydice, a Macedonian princess, and Alexander along with his mother went into\nexile, because of his violent altercation that inevitably ensued. Diplomacy served\neventually o bring about the son\u2019s return, despite the fact that Olympias remained in\nEpirus. In 336 B.C., while at Aegae attending the wedding of his daughter Cleopatra\nto Olympias\u2019s brother Alexander I of Epirus, Philip was assassinated, shortly before\nthe was due to take over command of the expedition that he had already dispatched\n\u2018against the Persian Empire\". Alexander at the age of 20 was proclaimed king by the\nnobles, expressing his deste to sucveed his father as king and hegemon of the Greeks,\nand to fulfil Philips last ambitious plan, the invasion of Persia. Although the Greeks\nand Thracians revolted when Philip died\", Alexander swiflly reimposed Macedonian\nhegemony in Greece and in eatly spring 334 B.C. he led his army into Persia\"\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    308,
+                    795
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    83,
+                    529,
+                    526,
+                    772
+                ],
+                "ocr_text": "\"ta the fest half ofthe 4 contury B.C, during the early yous of Philip's live, shore had Been sce\n\u2018major Greck powers Athens. Sparta and Thebes which coasistd a tet obstacle in Pailip's uy 10\nextend he power of Macedon over the whole Geek auinand S. Sheppard 2008, 26-30.\n\n\"sin, Aplome.IX.3 refers ta the Heedom ofthe Geek ete died onthe Held of Chaeronea.\n\n\"= Rodbuck 1948. 78. After the victory at Chactonea, Philip Was named Hegemon of the Hellenic\n\u2018Alliance \u201cLeague of Corin, which was established at Cori, including the majority ofthe Greek\ncay-states, except Sparta, ad announced his plas to atack 10 the Persian Empire the Grooks\n\u2018chal and to punish Persian for the juries they ificted on the Greoks and especially their\ndesecration of Greck temples in thee ivasion of 480479 B.S, Diodorus Steals, Library of History.\nYXVLB9.1 Fredicksmeyer 2012, 335, Poddighs 2012, 129\n\n\"The Pesian Empie under the Achaemenid dynasty founded by Cyrus, was stetched from the River\nIndus inthe eas to the Aegean an the west. from the River Janats (Syr-Darya) in the northeast\n(ich flows through the modern-day Uzbekistan and Kazakstan) to the Egypt in the south. .\nGatledge 2004, 4.\n\n\"The dolls of this sondd event are imposible to unravel satsfactoily and conspiracy theories,\nancient and moder, abound,\n\nDiodonsStuls, Library of History, XVI,\n\n\"asian, Anabasis, LAL.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 8,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    73,
+                    66,
+                    521,
+                    771
+                ],
+                "ocr_text": "IL. The major stages of conquest in Asia\n\nWith Greece and Thrace in order, Alexander invaded Persia in 334 B.C. with\napproximately 50.000 soldiers, drawn from Macedon and various Greek city-states\".\nHe crossed the Hellespont, symbolically casting a spear into Asian soil before he\ndisembarked to show he regarded Persia as \u201cspear-won\u201d territory, and then\nimmediately went to Troy to sacrifice atthe tomb of his hero and ancestor Achilles.\nSoon after Alexander advanced to the Granicus River in Phrygia, where he defeated a\nPersian army\u201d, the fist of the three major pitched battles between Alexander and the\nprime forces ofthe Persian Empire, he proceeded along the Ionian coast, dealing with\nany resistance and freeing Greek cites from Persian rule, in accordance with one of\nthe reasons for the invasion that he had promised before to the League of Corinth*\u2122\n\nIn 333 B.C. Alexander detoured to Gordium, where he untied the famous\nGondian knot\". tn the same year, Alexander journeyed south, where he was met by\nDarius\u2019 significantly larger army in Fssus, which he easily defeated, causing the Great\nKing to panic\u2122. The Battle of Issus was quite certainly significant from the point of\nView of the morale of Alexander and his troops. Rather than pursue Dasius\u00ae after the\nbattle, the Macedonian king announced his attention to go to Egypt, which he reached\nin 332 B.C., while he proceeded to take possession of Syria and most of the coast of|\nthe Levant and after being distracted for some time (almost seven months) by the\nifr in a big sean this part. S. Cade 200,30\n\u2122 alexander was inordinately proud of his descent from Heracles and Achilles, and, stepped in Homer\nfrom an early age he certnly believed that it was his destiny to val the explais of the eros.\nStewat 1993, 78, Sheppard 2008, 100-101. Fedihamyer 2012 343,\n\"atthe Ganis Aleander showed ot aly the supetirity of his arty\u2019 skis and ning, but also\nability commande. 8. Sheppard 2008, 125-128\n2 Cards 2004, 112.\nThe symbol of Alexander's act was obvious, fr twas writen that whoever cut the knot would\nconguce Asia. According tothe sory. Alexandr proclaimed tht i didnot mater how the knot was\n{done a hacked apr wh is sor.\necoclized and feaol for his lif that he fed the Bate, lwing behind among the camp\nfallowets who flint Alexanders hands hs own wife, histo dadghers and his mothe. Alexander\nindess owards hose be conguered. 8. Sheppard 2008 138-117\n2Maleunder was defintely ilunced by the integration policies of Dav, who had lid the\nfoundations forthe rue of vast, socal heterozeneos Kingdoms, suchas his own empire. 8.\nSovpwslon 2013, 484\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    307,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 9,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    76,
+                    60,
+                    527,
+                    787
+                ],
+                "ocr_text": "famous siege of the Phoenician city of Tyre. His main object was to isolate the\nPersian fleet from its bases and soto destroy it as an effective fighting force\u201d\n\n\u2018The Egyptians welcomed him as a liberator, since they had suffered cruelly\nunder the Persian yoke, and Alexander in tur flattered Egyptian national sentiment,\ndoing conspicuous honour 10 their gods, while the Persian satrap, Mazaces,\nsurrendered the country to him. During his stay in Egypt, he founded Alexandria (the\nfist city of that name), a major centre for the dissemination of Hellenic civilization\nand culture throughout the Middle East and the Roman world, and he also visited the\nOracle of Zeus Ammon atthe oasis of Siwah, inthe western desert of Egypt bordering\n\u2018on Libya, a visit that was a key turning point in his pretensions to personal divinity*\n\n\u2018Alexander had now completed the frst stage of his grand strategy. He had\nfirmly secured the whole ofthe east Mediterranean seaboard, and in summer 331 B.C.\nthe marched eastward in pursuit, again, of Darius. The Great king was stil alive, and\nthad managed to regroup his forces by gathering reinforcements. Leaving Egypt in 331\nB.C, Alexander marched eastward into Mesopotamia (now northern Iraq) and met\nDarius in the Battle ar Gaugamela, the old capital of the Assyrian Empire, where\n\u2018again defeated him, Darius once fled the field, and Alexander chased him as far as\nArbela, while marched to occupy the important palace capitals of Babylon, Susa and\nespecially Persepolis. The last was the symbolic heart ofthe Persian Empire, and as\n\u2018Alexander prepared to leave it, five months after, at early spring 330 B.C., the palace\n\u2018bummed tothe ground\u2122\n\n\u201cThe destruction of the palace eame to symbolize the end ofthe Persian Empire\nand Darius, who was murdered at Hecatompylus (in west Khurasan in Tran) in the\nsummer of 330 B.C. Bessus, Satrap of Bactria (north and central Afghanistan),\nsucceeded him, proclaiming himself Artaxerxes V, before retraining into Central Asia\nto launch a guersilla campaign against Alexander. However, Alexander faced over\n\u2018wo years of intense guewilla fighting before pacifying the biggest part of the Cental\n2 Sheppard 2008, 151-164\n\u2018Ammon was confirmation of his divine patonage and his sight wo rule the world. Platarch, Le of\n\u2018Aiecander, 27. Diodos Stun, Library of History. XNILS13. ain, Epitome, XL.U.10. Crt,\n\u201cLf of Alcander the Great IN-128- 8. Wortinglon 2012, 33\nint 201,18. The baring of Pespols meat, in effect, tht the original aims ofthe ivasionof|\n\u2018Asia -pnisheat ofthe Persians ad fing the Greeks ccs of Asia Minor had been aekieved. 8.\n\u2018Worthington 2012. 208\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    777,
+                    307,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 10,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    74,
+                    65,
+                    528,
+                    420
+                ],
+                "ocr_text": "\u2018Asia, a campaign that culminated in his marsiage to Roxana, the daughter of a\n\u2018Sogdian nobleman Oxyartes\u201d. During this period, Alexander founded a series of new\ncities, all called Alexandria, including modern Kandahar in Afghanistan and\n\u2018Alexandria-Eschate in modem Tajikistan, while the campaign took Alexander through\nMedia (North-Western Iran and South-East Turkey), Parthia (Iran), Aria (West\nAfghanistan), Drangiana (a territory around the lake Hamun on the Irano-Afghan-\nPakistan border), Arachosia (South and Central Afghanistan), Bactria and Seythia\nDuring his time in Asia, Alexander did not only take the Persian ttle \u201cking of\nkings\u201d but also adopted some elements of Persian dress and customs\". Both of these\n\u2018actions ean only be connected to his belief in his own divinity, reflecting the dramatic\nchange of his personality\". In addition, the integration of Persians into his army\n\u2018caused dissatisfaction, and because of growing discontent against him and thems,\n\u2018Alexander grew suspicious of those who were close to him. Thus, at Phrada (modern\nFarah in western Afghanistan) in 330 B.C. he had Philotas executed and his father\nParmenion assassinated\u201d, and in 328 B.C. after a drunken quarrel he killed Cleitus at\nMaracanda (modern day Samarkand in Uzbekistan) for his undue praise of Philip\"\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    777,
+                    308,
+                    796
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    667,
+                    523,
+                    772
+                ],
+                "ocr_text": "% Shepp 2008, 196\n\n* Alter the visto Sia in 332 B.C. Alexander callod himself son of Zeus and wo make maters worse\n{in 277 B.C. at Balkhstempted to enforce the Aslan custom of proslynets(genuflection fact that\npst him the sympathies of is counuymen,\n\nSent 2012, 59\n\n\u00a9The exection of Philos and the murder of bis fier, Parmenion shed an unfavourable ight on\n\u2018Alexander character and on telationships of his younger Macedonian geetals.S. Heckel 2012, 37,\n\n* Worthington 2012. 205.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 11,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    78,
+                    150,
+                    526,
+                    737
+                ],
+                "ocr_text": "After his martiage to the Baetrian noblewoman Roxana, Alexander turned to\nthe Indian subcontinent. However, the Indian campaign is characterized by the\nexcessive slaughter of local people and itis the bloodiest part of Alexander's entire\nexpedition. In spring 327 B.C. Alexander marched from Bactra through the Hindu\nKush (an 800 km long mountain range that stretches between central Afghanistan and\nnorthern Pakistan) and advanced towards the plain of the Indus. He split the invasion\nforce into two, one half under the command of Hephaestion and Perdiceas, which was\nto march Co the Indus via Hindu Kush and secure the main communications route, and\nthe second under himself, which marched east through Laghman (eastern\nAfghanistan) into the Swat (north of the modern Khyber-Pakhtunkhwa Province of\nPakistan)\"\n\nIn the winter 327/326 B.C., Alexander faced the Aspasians of Kunar valleys\nin modem Afghanistan and Pakistan), the Gouraians of the Guraeus valley\n(northwestern Pakistan) and the Assakenians of the Swat (located close to the\nAfghanistan-Pakistan border) and Buner (province of Pakistan) valleys, while in\nspring 326 B.C., the Macedonian forces met at the Indus, and after bridging it, moved\nto the capital Taxila (in Pakistan), When news came that a neighboring prince,\nPorus, refused to yield to Alexander, the Macedonian king set out immediately 10\nmeet him and the two sides did Bate ar the Hydaspes River (modern Jhelum River\nthat flows in India and Pakistan)\". Alexander erossed the river against no small\nadversity, and once on its opposite bank quickly and decisively defeated Porus\" This\nsignificant victory of him was celebrated by founding two new cities on opposite\nsides of the Hydaspes River, naming one Bueephala, after his horse Bucephalus, who\n\u00a9 Narain 1965, 156. Khan 2013292,\n\u00ae Malden 1880, 28,\n\nArian, Anabasls, IV 23.1\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    288,
+                    777,
+                    306,
+                    794
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    82,
+                    70,
+                    173,
+                    90
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 12,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    78,
+                    70,
+                    528,
+                    622
+                ],
+                "ocr_text": "\u2018had died from exhaustion following the battle, and the other Nicaea (thought to be\nlocated atthe site of modern day Mong in the Punjab province of Pakistan)\"\n\nEast of Porus\u2019s kingdom, near the Ganges River (a trans-boundary river of,\n\u2018Asia which flows through India and Bangladesh), were the Nanda Empire of\nMagaadha (extended from Bengal in the east -in modern south Asia-, to Punjab in the\nWest and as far south as the Vindhya Range -is a range of older rounded mountains\nand hills in the west-central Indian subcontinent, which geographically separates the\nIndian subcontinent into northern and southern India-) and further east the Gangaridai\nEmpire (of modem day Bangladesh). Fearing the prospect of facing other large armies\nand exhausted by years of campaign, Alexander's army mutinied at the Hyphasis\nRiver (Beas, in north India), some 390 miles from the Hydaspes, refusing to march\nfarther east, marking the castemmost extent of Alexander's conquests\". Alexander\neventually agreed and turned south in 325 B.C., marching along the Indus. Along this\nway his army conquered the Malhi (in modem day Multan in Pakistan) and other\nIndian wibes. Alexander sent a big part of his army to Carmania (modern southern\nIran) with general Craterus, and commissioned 4 fleet to explore the Persian Gull\nshore under his admiral Nearchus, while he decided to led the rest army back to Persia\nthrough the more dificult and dangerous southern route along the Gedrosian Desert\nland Makran (now part of southern Iran and Pakistan)\u201d.\n\n\u201cThat march was a disastrous epilogue to the Indian campaign, for it cost him\ndearly in manpower, because of the harsh environment and the lack of food and\nwater. In addition, any successes he had won in India evaporated almost as soon as\nhe left, as the native people shrugged off Macedonian rule and retured to the status\nquo\", With the horrors of the Gedrosian march behind them, the Macedonian army\narrived in Susain 324 B.C.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    307,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 13,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Page Number",
+                "bbox": [
+                    286,
+                    777,
+                    307,
+                    795
+                ]
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    79,
+                    460,
+                    524,
+                    766
+                ],
+                "ocr_text": "Nothing daunted, it was while at an advanced stage of planning yet another\nmajor campaign, this time against the Arabs, that Alesander was taken il at Babylon\n\u2018Atihe end of May, Alexander developed a fever, which soon confined him to his bed.\n\u2018Alierlapsing into a brief coma, he died on June 323 B.C., atthe age of thiny-three\n\u2018years under somewhat musky circumstances\u201d, Alexander had never made adequate\nprovision forthe secession, nor did he name an heit or even an executor of his wil\n\u2018Thus the history moves ftom the period of the brilliant conqueror to that of his\n\u00a9 Yan 2012.28,\n\u00a9 Bowwort 2012, 293.\n\n\u201c Despite the fact that Alexander did no aiize the people who compe his rece funded empire\nsubject, but sequal member tere had aver ben te acl of per putipaton a alin\n\u2018euper sip of administration. Convey. Aled believed in th Cla spiny fol 0\n{pon of heap, he Macedonians and ihe Pesan S.Syopouas 203,86\n\n2 Wethngton 12 2102\n\n\u201cAa Anh, VILTS 1 341-3,\n\n\"The case of Alexanders death wil always be a tpi for dbus, since the sous give a whole\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    70,
+                    68,
+                    532,
+                    761
+                ],
+                "ocr_text": "Not long after, Alexander left Susa, and by summer 324 B.C. he was at Opis\n(not far from modem Baghdad, the capital of the Republic of Iraq), where he\nannounced the discharge of his wounded and veterans. His oops misunderstood his\nintention and they refused \u00a9 be sent away and criticized his adoption of Persian\ncustoms\", Alexander faced the men\u2019s refusal to back down for three days, until\nfinally he began to transfer Macedonian military tiles and commands to Persians\n\u2018The Macedonians quickly gave in, and to celebrate the end of the mutiny and his,\nforgiving them, he held a great banquet of reconciliation and prayed for concord\n\nFrom Opis Alexander travelled to Ecbatana (in the east of Iran), where his\nclosest friend Hephaestion died, Alexander ordered various honors for him, as well 3s\n1 decree for public mourning. In early 323 B.C, Alexander and his army arsived at\nBabylon, despite various warnings and portents that indicated his life was in danger\u201c,\nand he had drawn up plans to invade Arabia, and intended to launch that campaign\nfrom Babylon.\nSS\n\nIL. Alexander's death and succession\n\nNothing daunted, it was while at an advanced stage of planning yet another\nmajor campaign, this time against the Arabs, that Alexander was taken ill at Babylon.\nAt the end of May, Alexander developed a fever, which soon confined him to his bed\n\u2018After lapsing into a brief coma, he died on June 323 B.C. at the age of thirty-three\nyears under somewhat murky circumstances\". Alexander had never made adequate\nprovision for the succession, nor did he name an heir or even an executor of his will\n\u2018Thus the history moves from the period of the brilliant conqueror to that of his\n\u00a9 tan 2012, 281,\n+ Bosoah 3012, 293\n\u201cDespite he fat that Alexander did no utilize the people who comprised his een founded empice\n\u2018he upper sip of administration. Conversely, Alexander believed i he cultural speioty of ony 0\n\u2018tions of his empite,te Macedonians andthe PeiansS. Syopouls 2013, 486\nWorthington 2012. 210211\n* Avram, Anas, VILL 1.2813,\n\u201c\u00a9 The cause of Alexander's death will always be a topic for debate, since the sources give a whole\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    77,
+                    63,
+                    519,
+                    379
+                ],
+                "ocr_text": "Not long after, Alexander left Susa, and by summer 324 B.C. he was at Opis\n(not far from modem Baghdad, the capital of the Republic of Iraq), where he\nannounced the discharge of his wounded and veterans. His oops misunderstood his\nintention and they refused \u00a9 be sent away and criticized his adoption of Persian\ncustoms\", Alexander faced the men\u2019s refusal to back down for three days, until\nfinally he began to transfer Macedonian military tiles and commands to Persians\n\u2018The Macedonians quickly gave in, and to celebrate the end of the mutiny and his,\nforgiving them, he held a great banquet of reconciliation and prayed for concord\n\nFrom Opis Alexander travelled to Ecbatana (in the east of Iran), where his\nclosest friend Hephaestion died, Alexander ordered various honors for him, as well 3s\n1 decree for public mourning. In early 323 B.C, Alexander and his army arsived at\nBabylon, despite various warnings and portents that indicated his life was in danger\u201c,\nand he had drawn up plans to invade Arabia, and intended to launch that campaign\nfrom Babylon.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 14,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    81,
+                    67,
+                    523,
+                    277
+                ],
+                "ocr_text": "\u2018Successors. However, the empire could hardly survive Alexander's death as unit. As a\n\u2018result, not only the army was divided and each section favoring its own commander or\ncombination of commanders, but also a long and bitter struggle for control of the\nempire ensued,\n\nBy the early 3\" century B.C. there were three major kingdoms in Greece and\nthe Middle East: the Antigonid in Macedonia and rest Greece, the Ptolemaic in Egypt\n\u2018and the Seleucid in Asia, of which the latter two were the most powerful, and the\nSeleucid the nearest to retaining something like Alexander's Asiatic legacy intact. A\nfourth, the Atalid kingdom based on Pergamum, was added in the course of the 3rd\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    775,
+                    307,
+                    796
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 15,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    74,
+                    84,
+                    521,
+                    467
+                ],
+                "ocr_text": "sm progue\n\nIt is undoubtedly easy to conclude that the vision of an empite where the\nconquerors should not feel like conquerors and the conquered should not feel Tike\nconquered was the challenge Alexander tied to resolve during his shot life. Very\nsoon he realized the need for social and national integration of the numerous cultures\nhe ruled. The Macedonian king applied extensive policies on creating common\ncultural points of reference for the political and cultural heterogeneous nations he\ncontrolled by using common language, common currency and common traditions,\nWithout, however, to uproot the individual characteristies of each of them\n\n\u2018This model for Alexander's administration of his vast empire was based on\nPhilip\u2019s IL political experimentations in northern Greece, and in its turn this was\ninspired by the Persian system of administration. Its interesting to observe that not\n\u2018only almost all the previous system of administrating culturally heterogeneous nations\nhha failed ~ a fact that can be seen in recent European history with the breakdown of\nYugoslavia ~ but also that the conscious effort for the unity of contemporary Europe\ndraws many of ts principles on the system modelled by Alexander the Great\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    286,
+                    777,
+                    307,
+                    795
+                ]
+            },
+            {
+                "instance_id": 2,
+                "class": "Header and Footer",
+                "bbox": [
+                    79,
+                    753,
+                    209,
+                    775
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 16,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Page Number",
+                "bbox": [
+                    287,
+                    776,
+                    308,
+                    796
+                ]
+            },
+            {
+                "instance_id": 1,
+                "class": "Text",
+                "bbox": [
+                    98,
+                    418,
+                    530,
+                    769
+                ],
+                "ocr_text": "\u2018\u00a9 Bosworth A. B. (1986): \u00abAlexander the Great and the Decline of Macedon\u00bb,\nin Jounal Hellenie Studies (HS), Vol. 106, pp. 1-12.\n\n\u2018\u00a9 Bosworth A. B. (2012): \u00abThe Indian Satrapies under Alexander the Great\u00bb, in\n1. Worthington (ed), Alexander the Great, a Reader. New York: Routledge,\npp. 237-244.\n\n\u2018\u00a9 Bosworth A. B. (2012): \u00abThe Death of Alexander the Great: Rumour and\nPropaganda\u00bb, in I. Worthington (ed), Alexander the Great, a Reader, New\nYork: Routledge, pp. 251-275\n\n\u2018\u00a9 Bosworth A. B. 2012): \u00abAlexander and the Iranians\u00bb, in Worthington (ed).\nAlexander the Great, a Reader, New York: Routledge, pp. 286-312.\n\n\u2018\u00a9 Briant P. (2009): \u00abAlexander and the Persian Empire, between \u201cDecline\u201d and\n\u201cRenovation\u2019\u00bb, ia W. Heckel ~ L, Trittle (eds), Alexander the Great: a new\nHistory, Oxford: Blackwell pp. 171-188.\n\n\u2018\u00a9 Briant P. (2010): Alexander the Great and his Empire. A short Introduction,\n|A. Kuht (tr1), Oxford: Princeton University Press,\n"
+            },
+            {
+                "instance_id": 2,
+                "class": "Text",
+                "bbox": [
+                    80,
+                    87,
+                    529,
+                    765
+                ],
+                "ocr_text": "Arian, Anabasis of Alexander, L11.3, 17.1,1V.23.1, V8.4, 19.4-5, VILI6.1, 24.1.3.\nCurtius, Life of Alexander the Great, 1.7.2.\nDemosthenes, First Philippic, 43\nDiodorus Siculus, The Library of History, XVL84.1-2, 89.1, XVILSI3.\nJustin, Epitome of the Philippie History of Pompeius Trogus, X.3, X10.\nPlutarch, Alexander ~ Perseus, LXLI, LXULL\nPlutarch, Life of Alexander, 27\nBibliography\n\n\u2018\u00a9 Bosworth A. B. (1986): \u00abAlexander the Great and the Decline of Macedon\u00bb,\nin Jounal Hellenie Studies (HS), Vol. 106, pp. 1-12.\n\n\u2018\u00a9 Bosworth A. B. (2012): \u00abThe Indian Satrapies under Alexander the Great\u00bb, in\n1. Worthington (ed), Alexander the Great, a Reader. New York: Routledge,\npp. 237-244.\n\n\u2018\u00a9 Bosworth A. B. (2012): \u00abThe Death of Alexander the Great: Rumour and\nPropaganda\u00bb, in I. Worthington (ed), Alexander the Great, a Reader, New\nYork: Routledge, pp. 251-275\n\n\u2018\u00a9 Bosworth A. B. 2012): \u00abAlexander and the Iranians\u00bb, in Worthington (ed).\nAlexander the Great, a Reader, New York: Routledge, pp. 286-312.\n\n\u2018\u00a9 Briant P. (2009): \u00abAlexander and the Persian Empire, between \u201cDecline\u201d and\n\u201cRenovation\u2019\u00bb, ia W. Heckel ~ L, Trittle (eds), Alexander the Great: a new\nHistory, Oxford: Blackwell pp. 171-188.\n\n\u2018\u00a9 Briant P. (2010): Alexander the Great and his Empire. A short Introduction,\n'A. Kuhrt (trsl), Oxford: Princeton University Press.\n"
+            },
+            {
+                "instance_id": 3,
+                "class": "Text",
+                "bbox": [
+                    80,
+                    150,
+                    488,
+                    345
+                ],
+                "ocr_text": "IS EOE OIE EIN ADA NES EOE NII OO\nCantus, Life of Alexander the Great, 1.7.28\nDemosthenes, First Philippic, 43\nDiodorus Siculus, The Library of History, XVLS4.1-2, 89.1, XVILSI.\nJustin, Epitome ofthe Philippic History of Pompeius Trogus, 3, XI...\nPlutarch, Alesander ~ Perseus, LXI, LXILL\nPlutarch, Life of Alexander, 27.\n"
+            }
+        ]
+    },
+    {
+        "page_number": 17,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    98,
+                    63,
+                    532,
+                    742
+                ],
+                "ocr_text": "\u2018\u00a9 Brunt P.A, (2012): \u00abThe Aims of Alexander\u00bb, in L Worthington, Alexander\nthe Great, a Reader, New York: Routledge, pp. 59-70\n\n\u2018\u00a9 Cartledge P. (2004): Alexander the Great. The Truth behind the Myth, Essex:\nMacmillan 2004\n\n\u2018+ Fredricksmeyer E, A. (2012): \u00abAlexander's Religion and Divinity\u00bb, in 1\n\u2018Woxthington (ed), Alexander the Great, a Reader, New York: Routledge, pp.\n335-356.\n\n\u2018\u00a9 Geus K. (2003): \u00abSpace and Geography\u00bb, in A. Erskine (ed), A Companion to\nthe Hellenistic World, Oxford: Blackwell, p.p. 232-245,\n\n\u2018+ Heckel W. (2012): \u00abThe Conspiracy against Philotas\u00bb in L Worthington (ed).\nAlexander the Great, a Reader, New York: Routledge, .p. 370-380.\n\n\u2018+ Horrocks G. (2001): \u00abFxom Classical Greek to Koines, in A. F. Chaistides\n(ed), loropia ms Eiiquwcjs Ti\u00e9ooas. And uc Apyis tos mv Yorn\nAppeadrnra, AOiyva: Centee for the Greek Language, Institute for Modern\nGreck Studies (M. Triantaphyllides Foundation) pp. 457-467\n\n\u2018+ Khan 1. (2013): \u00abAlexander's campaign aeross the Hindu Kush. Genealogy\nand political history of his Successors\u00bb, in M. Trios ~ M. Papanikolaou ~ S.\nPavlidis (els), Alexander, the Greek Cosmos ~ System and contemporary\nslobal Society, Vol. A, Thessaloniki: Academy of Institutions and Culture,\npip. 229-238.\n\n\u2018+ Malden H. E, (1880): \u00abAlecander the Great in Affganistan\u00bb, in Transactions\nof the Royal Historical Society, Vol. 8, pp. 223-229.\n\n\u2018\u00a9 Narain A. K, (1965): \u00abAlexander and India\u00bb, in Greece and Rome, Second\nSeries, Vol. 12, No.2, pp. 155-168,\n\n\u2018+ Poddighe E. (2012): \u00abAlexander and the Greeks: The Corinthian League\u00bb, in\n1. Worthington (ed), Alexander the Great, a Reader. New York: Routledge,\npp. 129-151\n\n\u2018+ Roebuck C. (1948) \u00abThe Settlements of Philip If with the Greek States in 338\nB.C, in Classical Phililogy (CPh), Vol. 43, No. 2. pp. 73-92.\n\n\u2018+ Romm J. S. (1989): \u00abAristotle's Elephant and the Myth of Alexander's\nscientific Patronage>, in American Journal of Philology (AJPh), Vol. 110, No.\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    286,
+                    776,
+                    307,
+                    795
+                ]
+            }
+        ]
+    },
+    {
+        "page_number": 18,
+        "instances": [
+            {
+                "instance_id": 0,
+                "class": "Text",
+                "bbox": [
+                    103,
+                    64,
+                    530,
+                    461
+                ],
+                "ocr_text": "\u2018\u00a9 Sheppard R. (2008): Alexander the Great at War. His Army, his Battles, his\nEnemies, London: Osprey 2008,\n\n\u2018\u00a9 Stewart A, (1993): Faces of Power. Alexander's Images and Hellenistic\nPolitics, United States of America: University of California Press.\n\n\u2018\u00a9 Syropoulos S. (2013): \u00abThe European Poliey of Unity and Alexander's Poliey\n\u2018of Omonoia\u00bb, in M. Tritos ~ M. Papanikolaou ~ S. Pavlidis (eds), Alexander\nthe Greek Cosmos ~ System and contemporary global Society, Vol. B.\n\u201cThessaloniki: Academy of Institutions and Culture, p.p. 484-493.\n\n\u2018\u00a9 Tarn W. W. (2012): \u00abThe Mutiny of Opis\u00bb, in L Worthington (ed), Alexander\nthe Great, a Reader, New York: Routledge, pp. 281-282.\n\n\u2018+ Worthington 1. (2012): \u00ab<The Question of Macedonian Ethnicity\u00bb, in 1\n\u2018Woxthington (ed), Alexander the Great, a Reader, New York: Routledge, pp.\n23-26.\n\n\u2018\u00a9 Worthington 1 (2012): \u00abAlexander the Great, Nation Building, and the\nCreation and Maintenance of Empire\u00bb, in 1. Worthington (ed), Alexander the\nGreat, a Reader, New York: Routledge, pp. 203-215.\n\n\u2018\u00a9 Worthington L 2012): \u00abMan and God\u00bb in 1. Worthington (ed), Alexander the\nGreat, a Reader, New York: Routledge, pp. 328-334\n"
+            },
+            {
+                "instance_id": 1,
+                "class": "Page Number",
+                "bbox": [
+                    288,
+                    775,
+                    307,
+                    795
+                ]
+            }
+        ]
+    }
+]

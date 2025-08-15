@@ -1,0 +1,580 @@
+Page 1, Instance 0, Class: Text
+Attention is All You Need
+Ashish Vaswani” Noam Shazeee” NIKI Parmar” Jakob Usekoret™
+Google Bes Goosle Brain Google Research Google Research
+avecuansGgeople.com noentgeogle-com aikiplgoogle-con ueztgoagle.com
+lon Jones” Aidan N. Gomer’! akass Kalser™
+Google Research University of Texoma Google Brain
+LiienOgoogle con aidantece.torente,edi  Tukaazkaleertgoogle.com
+Ma Potosukhin™
+216. polomulhinggeas2. com
+Abstract
+“The dominant sequence transduction models are based on complex recurrent or
+convolutional neural networks tha include an encoder anda decoder. "The best
+pevfonming models alo connect the encoder and decoder though an ateation
+‘mechanisms We propose a new simple network architecture, the Transformer
+based solely on atention mechanishs. dispensing with recuence and convolution:
+enliely. Experiments on to machine vansation sks show these model 19
+Sesuperor in quality wile being noe parallelzable and fequiagsignican
+Tess tne t tala. Out model achieves 284 BLEU onthe WMT 2014 English
+‘o-German wansation tsk, improving over the existing best esl incling
+‘tues, by over? BLEU. On the WMT 2014 Englsh-o-Fench nsltion ask,
+fourmode establishes ew sngle-model state-of de-a BLEU sere of 48 afer
+{tuning for 3-5 days on eight GPUs, xsl fraction ofthe taining costs ofthe
+test models from he erature. We aw thatthe Transformer generalizes well to
+‘other tasks by applying successfully to English constituency pusing bach with
+Tage and inied wining dt
+[ES ERS RSE len a rope ing RMN lation sed
+‘fitted ans than aan a ay evgnng ta d
+
+
+Page 1, Instance 1, Class: Text
+Provided proper attribution is provided, Google hereby grants permission to
+reproduce the tables and figures in this paper solely for use in journalistic oF
+‘scholarly works.
+
+
+Page 2, Instance 0, Class: Text
+Recustet neural networks, long short-term memory {13} and gated ecutent [7] acura networks
+in particular, have been fray established as sate ofthe at approaches in sequence modeling and
+‘Wansduction probes such a language modeling and machine wanslaton [88,23]. Numerous
+efforts have tne coninsed to push he boundaries of recent language model and cncode-decaer
+faehiectures [38.24.15]
+
+Recurrent models ypically factor computation along the symbol postions ofthe input and output
+Sequences. Aligning the positions to steps in computation time, they generate a sequence of hidden
+States sa functow ofthe previous hue state a the iput for position This inherently
+cyel atte pecodes palliation win tuning exaplen which becomes cial st longer
+Sequence lengths as memory consis it batching across examples. Revest work has achieved
+Sipnicat improvements in computational eficeney dough factoxizaton tik [2] and conditonl
+‘computation (32), while also amproving model performance in case ofthe ltt. The fundamental
+‘onsaintof sequential computation, however remais.
+
+Arteaton mechanisms have become a inte pat of compelling Sequence modeling and ransduc
+‘ion model in various tsk, allowing modeling of dependencies without regard their distance ia
+the inp opt sequences (2,19) all uta ew cae [27] however, sch tenon mechanisms
+‘ae sed in conjunction witha ecuen network,
+
+Tn his work we propose the Tansfomer, a model architecture eschewing recurrence and instead
+selying ensely cn an ean mechan to dew global dependences between ip nd ouput
+‘The Transformer allows for sigecanly more pualelization and can each ew sata he ai
+‘ealtion uality afer being trained for lite steve outs om eight POO GPUs,
+
+2 Background
+
+‘The gol of ducing sequential computation also forms the foundation ofthe Extended Neural GPU
+[16 ByteNet [18] and Conv S28 [9a of which use coavlutional neural networks as base ullding
+‘ck, computing hidden representations in parle fr al input and output positions. Tn these models
+‘he number of operations requed to relate sighs roto abitary inp oF ouput sions grONS
+inthe distance berween positon, lineal for ConvS2S and logurthnclly for ByteNec. This takes
+it moe dificult to Tear dependencies between distant positions (12). Inthe Transformer this s
+feduce toa const numberof operas albeit tthe cost of educed effective rexaluton doe
+{o averaging atenion weighted positions an effet we counteract wath Muli-Head Attention 35
+‘deseribed in section 32.
+
+Seleatenton, sometimes called inr-atention i a atenton mechanism relating diferent posons
+of asingle sequence in over to compute a epresentation ofthe sequence, Sel-aetion hasbeen
+‘sed successfully in aretyof asks including ead compeehension,abstscive summarization,
+textual enaleat and Tearing tsk-independont sentence tepeesttations (4,27, 28,22).
+End-to-end memory networks are based ona recutentstention mechanistn instead of sequence
+aligned ecutence and have been shown wo perform well on simple language question answer abd
+Tanguage modeling tasks (3
+
+‘othe best of our knowledge, however, the Transformer isthe Hist wansdoction model relying
+ctiely on el-atention to compute epreseations of inp and ouput without using sequence
+Sligned RNNS or convolution Inthe following sections, we wll describe the Tassormet, motte
+Sell-ateation and discus its advantages over models such as [17 18] ad [9]
+
+3) Model Architecture
+
+‘Most competitive neural sequence tansdction models have a encode-decoder structure [5,2 38)
+Here, the encoder maps an input sequence of symbol tepesenations (2...) toa sequence
+of continuous representations 2 = (=.=). Given 2 the decoder the generates ah outp
+Sequence (yr---m) of symbols one clement a atime, Ateach sep the model s autoregressive
+{10}, consuming the previously generated syrabols as additional input when generating the nex.
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Figure\page_3instance0.jpg]
+
+Page 3, Instance 1, Class: Text
+‘The Teansormer follows this overall rchitcture using stacked self. attenton and pointwise, fully
+naecte layers for bath the encoder an decoder, shown in the lft and sght halves of Figue 1,
+‘spectively.
+
+|JM_ Encoder and Decoder Stacks
+
+Encoder: The encode is compote ofa stack of V = 6 identical layers, Each layer has two
+sub-layers. The fst sa multi-head sel atetion mechanism. and the second is sine, positon
+‘ise fly connected feed-forward nctwork. We employ aresidial connection (1 atbund each of
+the two sub-layer,fllowed by layer normalization [1]. That i, the ouput ofeach sub-ayer i
+LeayerNoraz + Sublaer(x)) whore Sublayer(2) the faction implemeated by the sub-ayer
+‘se To facili hese residual connections al sob-layets ia te model aswell asthe embeds
+layers, produce outputs of dimension dg 512
+
+Decoder: The decode is also composed ofa stick of NY ~ 6 ideal ayers. tn aon tothe wo
+sub-lajers in each encode ayer the decode inserts ath sub-ajer, Which performs mauli-head
+sitenton over the output of the encoder tack, Siro the encode, we enply residual conbetons
+‘ound each of the sb-Layers followed by layer nozmaliztion. We also modity the slF-atention
+Sub-lajer inthe decoder stack to gevent positions from atending o subsequeat positions. This
+‘masking. combined with fat thatthe output nmbeddings ue offstby one poston, ensures tha he
+‘edictins for positon: can depend onl onthe knows outputs t postin less ha
+
+32 Attention
+
+‘An ateaton function can be described as mapping a query and set of key-value ps to an opt
+‘where the query, keys, values, and output ate all vectors. The ouput is computed asa weighted sam
+
+
+Page 4, Instance 0, Class: Text
+ee eed ne ee ennen. (ges) ee Semenfion consists of sewers’
+ateation ayers unning in parallel
+ofthe aus, we the weigh aie cach vale compte bya compa funtion of he
+Sry with eoespondig ky
+124 Seed Dot Product Ateation
+We cal ou pair steton “Seed Dot Pode Aton Fgwe 2). The ip consis of
+{eran keys of dinennon and vaso dimension We compute dt acto he
+gery withall kya videcach by yan ppl sofia aon obtain te weg on he
+‘aie
+Inprctice we compat the ation ft tof urs packs ser
+Jno amatix . Tr heys ad acs eso packed peter in mutes and Wecompate
+steaion(Q. 1.1) =n
+Ateton QV) = softnan( Ay o
+
+‘Thetwo mot commonly ed tet function ae ave enon [2 an dapat
+ar aie sent compute th compatibiy nc ning Redo eter wih
+Sg hen layer Whe he vo ae simian neta comple do oduct anton
+‘ch eran tre spaces in pace, sce canbe mpm ng Mghy opin
+While for smal aus of dhe 90 mechanisms erm sina. ave ates ouptorms
+Ube roc ate wit sen fr ager ues of dB} We sunp ht fage es of
+‘Semanal pins cota heft we eset pode yo
+322 Maletead Ademton
+Insta of perforin single teton uncon wih da dinetiona ys, vals nd geri,
+we found bene oie rjc he ue Kye ales times wih erent, ee
+ina projection oda de nennonespetey On cach of exe prj veson of
+ue, and vai we ten ero th aeton fart inp pci dca
+
+“iors wy i roi ti. te te omg a a ince on
+shimano Then itt peg k= 3h ma ta de
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Figure\page_4instance1.jpg]
+
+Page 5, Instance 0, Class: Text
+depicted in Figure 2. -
+‘Mult-ead tention allows the modelo oily atend to information from diferent representation
+sulspaces at diferent postions. With single aeation hea, averaging abi his
+
+Mulettend(Q. K,V) = Concat( bead, bead)V
+
+where head, = Attention(QW2, KW, VWY)
+
+‘Where the projections are parameter maces I € Rea har WY Be
+ino egies
+In this work we employ hi ~ $ parallel atenton layers, heads. For each ofthese we use
+4, =o = tyajh = GL Dus to the reduced dimension ofeach hed, he tol computational cos
+{s siilarto ht of ingle-ead tation with fll dimensional
+323 Applications of Attention in our Model
+‘The Transformer uses mul-head tention in thee different ways:
+
++ In “encoder decoder attention” layers, the queries come fom the previous decoder layer
+snd the mernoy keys and values come from the ouput ofthe encode. This allows every
+positon inthe decoder to atend ove al postions ia the input sequence. This mimes the
+‘apical encoder-decoder attention mechanisms in sequence-toseguence models such as
+BRI
+
++ The encoder contains self-atention layers. In a seatenton Laer alo the keys, values
+and queries come from te sane place inthis cae, the utp ofthe previous layer inthe
+‘encoder. Each poston nthe encoder can attend tal positions inthe previous lye of the
+encode
+
++ Smulaysetf-atention layers inthe decor allow each positon in the decoder to stend to
+all positions inthe decoder upto and including that postion, We need io prevent leftward
+{information flowin the decoder to preserve the auo-eaessive peopety. We inplement his
+Inside of sealed dot product attention by masking out ting to >) al vals in he ipl
+‘ofthe Sofa which eomespond to legal connections. See Figure 2
+
+133 Positon-wise Feed-Forward Networks
+ln addition to ateaion sub-ayers, each ofthe layers in our encoder and decode contains fly
+connected fod-orwatd network, whichis applied o each poston Separately and dentally. Ths
+‘onsets of wo linea rasformations with ReL.U activation in betwen,
+
+FFN(z) = man(0.211) +) +> a
+‘While the liner transformations at the se scoss diferent postions they use different parameters
+fiom layer to layer. Another way of desnbing this i a tWo convoltions With kemel size 1
+‘The dimensionality of input atid Outpt is dps = 512, andthe innelayer has dimensionality
+ayy ls
+34 Embeddings and Softmas.
+Similarly to eter sequence uansduction model, we use Iamed embeddings 1 conver the inp
+‘okens and outpt tokens to vector of dimension da We also use the usual eared near ast
+‘maton and softmax function wo convert the decode ouput to pedictednex-oken probable. 1a
+‘ou model, we share the sae Weight maui between the two embedding layers andthe peso
+Tear unsformaton,snulr 0 [30] Inthe embedding ayers, we multiply those Weighs DY Vda
+
+
+Page 5, Instance 2, Class: Text
+* simutanly, ser abbention layers in the eccoder alow eae’ postien an the eccader to atene
+ll postions in the decode up to and including that postion, We need to prevent leftward
+{information flowin the decoder to preserve the auo-eaessive peopety. We inplement his
+Inside of sealed dot product attention by masking out ting to >) al vals in he ipl
+‘ofthe Sofa which eomespond to legal connections. See Figure 2
+
+133 Positon-wise Feed-Forward Networks
+ln addition to ateaion sub-ayers, each ofthe layers in our encoder and decode contains fly
+connected fod-orwatd network, whichis applied o each poston Separately and dentally. Ths
+‘onsets of wo linea rasformations with ReL.U activation in betwen,
+
+FFN(2) = mae 21¥5 +05) +s a
+‘While the liner transformations at the se scoss diferent postions they use different parameters
+fiom layer to layer. Another way of descubing this i a two convoltions With kemel size |
+‘The dimensionality of input atid Outpt is dps = 512, andthe innelayer has dimensionality
+ayy ls
+34 Embeddings and Softmas.
+Similarly to eter sequence uansduction model, we use Iamed embeddings 1 conver the inp
+‘okens and outpt tokens to vector of dimension da We also use the usual eared near ast
+‘maton and softmax function wo convert the decode ouput to pedictednex-oken probable. 1a
+‘ou model, we share the sae Weight maui between the two embedding layers andthe peso
+Tear unsformaton,snulr 0 [30] Inthe embedding ayers, we multiply those Weighs DY Vda
+
+
+Page 6, Instance 0, Class: Text
+AS- Posilonal Encoding
+Since ou model contains no reeureace and no convolution in eder fer he mode! to make use of the
+‘onder of the sequence, we must inj some information about the relative abou postion of he
+{okens ia the sequence. To this end, we add positional encodings” tothe input embedngs at the
+‘otoms ofthe encoder and decoder stack. The posonalencoditgs have these dense diya
+‘hthe embeddings, s thatthe wo cane sumed. There ate ny choices of positional encoding
+Teumed nd fixed (9)
+In this wodk, we use sine and cosine functions of diferent frequencies:
+PE guy) = sin\pos/ 10000")
+
+PE gona) = €08(008/ 1000")
+‘whore pos isthe postion an is the dimension. That is, cach dimension ofthe positional encoding
+oesponds oa sinusoid. The wavelengths form a geometric progression rom 2 10 10000 -27- We
+‘hose this function because we hypothesized st would allow the model easly ea to attend by
+felaive positions, since for any aed offet E, Py, can be epescated as inca Function of
+PE on
+We als experimented with using lamed positions embeddings [9] istea and found thatthe
+versions produced newly identical ests (ee Table 3 sow (E). We chose the sinusoidal version
+‘ocaus it may allow dhe model to extaplate to sequcnce lengths longer than te ones encountered
+ring unig
+4 Why Self-Attention
+ln this section we compate various aspects of selattention layers othe recurteat and coavol
+‘onl layers commonly used Tor mapping one variable-length sequence of symbol presentations
+(host) to anaes sequence of equa length (2... 25). with, ©. such aw hidden
+layer in typical sequence ansdaction encoder oe desoder, Moiaing ou use of slf-atetion we
+consider te desideata,
+(One is the oa computational complexity per ayer. Anoter isthe amount of computation that can
+‘be parlelized s measured by the minum number of sequential operations que,
+‘The thi isthe path length between loag-tange dependencies inthe network. Learning long-cange
+dependencies sky challenge ia many sequence uansduction aks. One key factor aflecting the
+bly to lar such dependencies i the length ofthe pts Forward and backward signal have 10
+‘eaves in tbe network The shvter these pas betwen any combination of positions in the ip
+an outpu sequences, the easier itso leat long-range dependencies [12], Hence we so compare
+‘he matimum path length between ay 1 ipl and output postions a networks composed a he
+slferent layer pes.
+As notedin Table | selfttenton layer connects all positions with constant aumber of ssquentilly
+fexccuted operations, whereas a tocstent lar segues O(n) sequeaual operations. In teams of
+‘computational complesty. selF-atention layers ae faster tha ecurent ayers when the sequence
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Table\page_6instance2.jpg]
+
+Page 7, Instance 0, Class: Text
+Jeng ni smaller than the representation dimensionality d, whic is most often the case with
+Senfencerepeseaation used by state-of-the-art modes in achinewansaions uch as woe pcce
+[38] and byt pae 31] representations. To improve computational performance foe asks involving
+‘ey long sequences, slf-aenton could be ected vo considering oly oeighborbood of size it
+the np sequence centered around the espective up penton, This would increase he maxim
+path length Yo O(n). We plan to ivesigate this approach further in ute Week
+
+Asngle convolutional layer with kernel width & <n does not connec al pis of input and outa
+postions. Doing so requis astack of O(1/) convolutional ayers in the case of contiguous Keel,
+{¢ Ollog() inthe case of dilated convolution [8] increasing the length ofthe longest pals
+‘between any two positions in the network. Convolutional layers ae generally more expensive than
+‘current layers, By aftr of & Separable convolution (6), however. decrease the comply
+Considerably, to O(E nei +). Even with k= n, however, the complexity ofa separable
+“convolution is equal othe combination ofa seleatenion layer anda pointwise fsi-orwatd Lye,
+{he approach we take in our model
+
+As ide benoit self ateation could yield moeitrpetable models. We inspect tention dstibutions
+fiom our models and present and discuss examples in the appendix. Not only do individual tention
+‘ead leary lar o prim diferent asks. many peat exhibit behavior veld othe sya
+stn semantic stucture ofthe sentences.
+
+5 Training
+
+‘This section describes the waining epime for our model
+
+54 Training Data and Batching
+
+We tained oa the standard WMT 2014 English-Geeman dataset consisting of abou 4.5 milion
+sentence pais. Sentences were encoded using byt-par encoding [3], which isa shared source
+{aigt vocabulary of about 37000 tens. For English’ Frech, we used the sigan lager WMT
+2014 English-French dataset consising of 36M sentences and spit wokoas ito a 32000 wond-pece
+‘ocala [38). Sentence pis were batched together by approximate sequence length. Each waning
+batch contained ast of sentence pats conning approximately 25000 source tokens and 5000
+taygt tokens.
+
+52. Hardware and Schedule
+
+We trained our modes on one machine with ® NVIDIA P100 GPUs. For our base modes sing
+te yperparametesdesribed throughout the paper, each traning tp took about 0 seconds. We
+twine the tase mls for tl of 10,000 step or 12 hours. For ou big models (described oa the
+bottom lie of ble 3), stp tne was 10 seconds, The big models were and for 300,000 steps
+GS days,
+
+53. Optimizer
+
+We used the Adam optimize 20) with 2; = 0.9 3s = 0.98 and « = 10-9, We vriod the leaning
+sate over the couse af waning, according othe formula
+
+‘Tis comesponds oincteasing the learning cate linearly forthe fst warmup. steps taining step,
+aint doceatng i thereafter proportionally the iver square rot ofthe sep suber We ured
+SA Regularization
+
+‘We employ three types of regularization during traning:
+
+
+Page 8, Instance 0, Class: Text
+Relient We epgty Seep [25] ts tee erie of cnck seller, betes Xie adeed te
+slayer input and normalized. In adton, we apply dropout othe sums ofthe embedlings and he
+positional encodings in both he encoder and decoder stacks Fr the base medel, We use 2a Of
+Puaop = Ou
+Label Smoothing Duving waining. we employe label smoothing f value, ~ 0.1 (36) This
+‘nus perplexity. a the model Teams to be mote unsure, but improves accuracy ahd BLEU sco
+6 Results
+64 Machine Translation
+(On he WMT 2014 English German translation tsk, the big ansformer model Tansformer (ig)
+{in Table 2 oupeforms the best peevieusly reposted models including ensembles) by move than 20,
+BLEU, extabishing a new state-of-the-art BLEU cove of 2.4. The configuration of ths todel is
+Tse inthe hotonline of Table 3. Training ook 3.5 days on 8 P1O0 GPUs. Even our hase model
+Srpasss al previously published models and ensembles aa facuon ofthe ang cost of at)
+‘he competive models
+(On the WMT 2014 Englih-o French transition isk, ow big model achieves a BLEU score of 4.0
+‘outperforming al ofthe previously published single modes a less han 1/ the waiing east of the
+Jretous state-of-the-art model. The Transformer (big) model wained for Eaglish-o-French used
+Etopout at Py le tstesd of 3,
+
+Far the base models, we used a single model obtained by averaging the last S checkpoints, which
+‘wore writen at 10-minute intervals. For the big models, we averaged the lst 20 checkpoints. We
+{sed eam search with a beam size of and length penaly a = 06 (38). These hyperpurametes
+‘were chosen ater experimentation onthe devlapmcut set. We set the maximus oupa length ding
+{nfeenceto input length 5, but enninate ety when possible [38
+
+“able 2 summarizes our results and compares our uatsation quality and taining costs her model
+atchictures fromthe Hterature, We etinate the number of flating point opeations wed to tain
+‘model by muliplying the waning tine, the number of GPUs used and an etunate of the sustained
+‘Sngle-pecsion floating-point capacity ofeach GPU»
+
+62 Model Variations
+
+‘To evaluate the importance of diferent components ofthe Transformer, we vtiod our base model
+in ferent ways, measuring the change in performance on Engish-1- German tansltion oa the
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Table\page_8instance1.jpg]
+
+Page 9, Instance 0, Class: Text
+‘development set, newstest2013. We used beam search as described in the previous section, but no,
+‘heckpoinaveraping. We present these ress in Table 3
+
+In Table coms (A) we vry'the number fatestion heads andthe attention key and vale dimensions
+[Keeping the amount of computation constant as described in Section 3.22. While sngle-head
+tention 1s 09 BLEU worse tan the best seta qual also drop off wih too mab heads
+
+ln Table 3 rows (B), we observe that redacing the attention key size dy hurts model quality. This
+sggeats that determining compat is ac easy and that 2 more sophisieated compatiblity
+Function dun dec roduc aay be beni We uber observe inom (C) and (D) tat, as expected,
+‘bigger modes are beter, and dkoout is very helpful in voiding over-ting” In sow (E) we seplace out
+‘Shusoial positional encoding with leaned osiuonal embeddings (9), and serve neatly sdencal
+‘ests tothe base mode.
+
+63 English Constitueney Parsing
+
+‘To evaluate ifthe Tansfrmer can generalize 1 eter tasks we performed exponents on English
+onstuncy parsing. This tusk presents specie challenges: the cutpu subject to strong structural
+‘onsuains ad i significa longer tha the input Furhermove, RNN sequence-to-sequence
+‘dels havent been able to ata state-of the-art ess in smallest epics (37
+
+We ine 4-aer tansfome with yi) = 1024 onthe Wall Suet Journal (WSI) pation of he
+Penn Tresbank 25) about 4OK waining sentences. We also tained it in a sem-superised Sting.
+ting the ager high onfdence and BerkeyParser corpora from wit spprosimstely 17M sentences
+[37], We ured x vocabulary of 16K tokens forthe WS only sting and 4 vocbulay of 32 tokens
+Tor the sem-supervised sting.
+
+We performed only small number of expeinents to sleet she dropout, bh stenton and residual
+(Gecion $4), luring rte and beam size onthe Section 22 development etal oter parameters
+‘emuined utchanged ftom the English-German bse Wansaion mode. Duin inference, we
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Table\page_9instance1.jpg]
+
+Page 10, Instance 0, Class: Text
+‘increased the maximum output length to input length + 300, We used a beam size of 21 and a = 0.3,
+For both WSI oly and the semisupervised sein,
+(Our results in Table 4 show that despite the lack of tsk-specitic tuning our mel perfor su
+fpsingly el, yielding beer sess than all previously reported modes with the exception of the
+‘Recurene Neural Network Grammar [8
+In contrast to RNN sequence‘-sequence model [37], she Tansfoemeroupeefrms the Berkeley
+‘Passer [29] oven when waning only the WSI taining set of 10K sentenees
+7 Conclusion
+In this work, we presented the Transformer, the ist sequence uansdution model ase enizely on
+sftenton replacing the ecurent layers most commonly used in encoder decoder architectures with
+‘ut-hesdl sel stenton
+For wansation tasks, the Transformer canbe uaied significantly faster than architectures based
+‘on recurrent or convolutional layers. On both WMT 3014 Engish-o-German and WMT 2014
+[Enish-to-French wanslation sks, we achieve a new stat of the at Inthe former ask ou best,
+‘model ouperfomms even l previously weported ensembles.
+‘We are excited about the future of attention based models ad plan to apply them to the tasks. We
+plano extend the Transformer to problems involving ipa and output modalities other tha ext abd
+fo tventigate lca, restctedutention mechani a eficienly handle large inputs and ouput
+Such ings, audio and video. Making generation less Sequel i anor escatch pols of Ou.
+‘The code we used to tun and evaluate our models is avilable at Retpe://eithub.con/
+tensorfiow/tensor2tensor
+Acknowledgements We are gratful to Nal Kalhinenner and Stephan Gouws fr thei fruitful
+‘comments, coeecions and inspation,
+References
+{1} Jinmy Le Ba, Janie Ryan Kis, and Geoteey E Minton. Layer nomalization. Xi preprint
+rN 1607. 06450, 2016,
+[2] Damitry Badan, Kyunghyun Cho, an Youhus Bengio, Neural machine wantin by joindly
+Teaming align and wanlte. CoA abs 1409 0473, 2014
+[3} Denny Biz, Anna Goldie. Minh Thang Luong. and Quoc V. Le, Massive exploration of neural
+‘machin anslationachitoctres, CoRR, by! 70303906, 3017
+[3}ianpeng Cheng Li Dong nd Mirella Lapa. Loa shower memoxy- networks for machine
+readings arXiv preprint arXiv: 160106733, 2016.
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Table\page_10instance1.jpg]
+
+Page 11, Instance 0, Class: Text
+{5} Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougates, Holger Schwenk,
+anu Yoshua Beno, eaming phrase representations using ra encode-decoer Tor staisial
+‘machine wansation, CoRR, abs/id06. 1078, 2014
+
+[6] Francois Chollet. Xception: Deep leaming with depthvise separable convlutons. arXiv
+preprint arXus:161002057, 2016
+
+17) Junyoung Chung, Caslar Gageve, Kyunghyun Cho and Yosbua Bengio. Empiical evaluation
+of gated recent neural etorks on Sequence modeling. CoRR, abW1412 3585, 2014
+
+[8) Chris Dyer, Adhiguaa Kuncoro, Miguel Ballesteros, and Noah A. Smith, Recurtent neural
+rework prams In Proc. of NAACL, 2016,
+
+[p} Jonas Gebring, Michael Auli, David Granger, Dens Yaa and Yann N- Dauphin. Convo
+Hnal sequence to sequence earning. arXiv preprint arXiv: 1705 0312202, 2017
+
+[HO] Alex Graves. Generating sequences with recurrent neural networks. arXty preprint
+frXi 13080850, 2013,
+
+[ut] Kaiming He, Xiangyu Zhang. Shaoging Ren and Jian Sun. Deep residual leaning for in
+‘ge recognition. It Proceedings ofthe IEEE Conference on Computer Vision and Patern
+Recognition, pages 770-798, 2016
+
+[12] Sepp Hocteiter,Yoshua Bengio, Paolo Feascon, and Jurgen Sehmidhuber. Gradient Now in
+rectment net! the difficulty of leaning long-enn dependencies, 2001
+
+113] Sepp Hochreter and Sugen Schmidhuber. Long short-term memory. Nevral computation,
+(83:1735-1780, 1997
+
+[us] Zhonggiang Huang and Mary Harper. Self-uaining PCFG grammars wit latent annotations
+Across language. In Procedings ofthe 2009 Conference on Empirical Methods in Natural
+Language Processing, pages 832-841, ACL, August 2002
+
+{iS} Rafal Jozefowiez, Oil Vinyas, Mike Schuster, Noam Shazoe. and Youghui Wo. Explcing
+the linite of language modling.arXi preprint aX: 1602 02410, 2016
+
+116) Lakase Kase and Sumy Bengio. Can ative memory seplace atemon? In Adnces in Neral
+Information Processing Sstoms.(NIPS), 2016
+
+[U7] takasz Kase and ia Suskever. Neural GPUS lam algrithns. Ia ntemational Conference
+‘on Learning Representations (ICLR), 2016
+
+[U8] Nal Kalehbreanes, Lasse Espholt, Kaen Smonyan, Aura van den Oot. Alex Graves and Ko
+‘ay Kevukcuoghs, Neural machine translation a iea tie. ark preprint Xi: 1610. 200992,
+bun
+
+[19] Yoou Kim, Cat! Denton, Luong Hoang. and Aetander M. Rush, Structured astenton netwoks
+I intermatonat Conferonce on Leartng Representations, 2017.
+
+(20) Disderik Kingin and Jimmy Ba. Adan: A method fo stochastic optimization. ln ICLR, 2018.
+
+[21] Oleksit Kuchaiv and Bors Ginsburg. Factorization wicks fo LSTM network. arXiv preprint
+srXi: 170810722, 207,
+
+[22] Zhouhan Lin, Minwel Reng, Cicero Nogucea dos Santos. Mo Yu, Bing Xiang, Bowen
+‘Zhou, and Yeshua Bengio. A structed seleatemive sentence enbeing. arXs reprint
+rN 170803130, 2017,
+
+[23] Minh-Thang Luong. Quoe V. Le, ya Sutskever, Oriol Vinyls and Lukasz Kaiser Muli-ask
+fequence to sequence lumning. arXr preprint arXiv: 151105174, 2015,
+
+[24] Minh-Thang Luons. Hie Pham, and Chistes D Manning. Este approaches to tenton
+based neural machine translation. arXiv preprins arXiv: 1508.04025, 2013
+
+
+Page 12, Instance 0, Class: Text
+[25] Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice Santorini, Building a large annotated
+oxus f english: The penn tecbank. Computational linguistics 19(2)313-330, 193,
+
+[26] David McClosdy, Eugene Charis, and Mak Johan, Efectiv seltaning for parsing. In
+Proceedings of he Haman Language Technolo Conference ofthe MAACI. Man Conference,
+ges 132159, ACL June 2006,
+
+[27] Ankur Paik, Oscar Tickstom, Dipanjan Das, and Jakob Uszkoet. A decomposable attention
+‘odel In Empirical Methods be Natural Language Processing, 2016
+
+[28) Romain Paulus, Caiming Xiong. and Richard Soche. A deep enfored model fo absactive
+Summatzation” aX preprint arXtv:1708 06304, 2017
+
+[29] Slav Petrov, Leon Bare, Romain Thibaus, and Dan Klein. Leaming accuse, compact,
+nd inteypretable uce annotation. ln Proceedings ofthe 21st International Conference on
+Computational Linguistics and 4 Anual Meeting of the ACL, pages 433-440. ACL, July
+ove
+
+[30) Orr Press and Lioe WolE, Using the output embedding to improve Language models. arXiv
+reprint arXiv 160805859, 2016.
+
+[31] Rico Sennich, Bary Hadi. and Alexandra Bich. Neural machine tansation of ae words
+wit subword wits arXi preprint ann 50807909, 2018.
+
+[32] Noum Shazeer,Azala Muhosein, Krzysztof Maziarz, Andy Davis, Quoc Le, Gooey Hinton,
+and eff Dean. Ourageously lage neural networks: The sparselygated mixtue-o-experis
+layer aX reprint aie 701 06538, 2017
+
+[33] Nish Seivastava, Gooey E Hinton, Alex Krghevy ya Sutskever, and Ruslan Suakutd
+nov. Dropout: a simple way to prevent neural networks fom overfiting.Joural of Machine
+Learing Research, 1S) 19291988, 2014
+
+[34] Sainbayar Sukhbuatar Arthur Slam, Jason Weston, and Rob Fexgus. End-to-end memory
+tetworks, In C. Cortes, N-D. Lawrence, D. D. Les, M, Sugiyama, and R- Carnet editors,
+‘Advances b Newal Information Processing Systems 38, pages 2140-2448, Cuan Associates
+Tne. 2015,
+
+[35] Iya Suskever Oriol Vinyls and Quoe VV Le. Sequence o sequence learsing with neural
+networks. In Advances in Newel aformation Procesing Sytems, pages 3104-3112, 2014
+
+[36) Chistian Szegedy. Vincent Vanhoucke, Sergey Ioffe Jonathon Shlens and Zbigniew Wojoa
+Rethinking the inception rhitecture or computer Vision. CoRR, abs/I512. 00867, 2015,
+
+[37] Viayals & Kaiser. Koo, Peto, Sutskever and Hinton. Grammar as frei language. Ia
+Advances i Neural Information Processing Systems 2015
+
+[38] Yonghui Wu, Mike Schuster, Zhifong Chen, Quoc V Le, Mohammad Novouzi, Wolfgang
+Machete. Maxim Krkun. Yuan Cao Qu Guo, Klaus Machows et Google's neural machine
+translation system: eiging the gap between bun and machine tansltion. aX reprint
+rN 1600,08144, 2016,
+
+[39] Jie Zhou, Ying Cao, Xuguang Wang. Peng Li and Wei Xv. Deep securent models with
+‘as-orwatd connections for neural machine warslaton. CoRR, abv 1606 04199, 2016,
+
+[10] Manus Zhu, Yue Zhang, Wenlang Chen, Min Zhang. and Jagho Zhu. Fas and accurate
+shifteduce constituent parsing. In Proceedings ofthe 31st Amal Meeting of the ACL Volume
+1: Long Papers), pages 434-443. ACL, August 2013.
+
+
+[Image saved at: annie_extracted_data/1706.03762v7/Figure\page_13instance0.jpg]
+
+[Image saved at: annie_extracted_data/1706.03762v7/Figure\page_14instance0.jpg]
+
+[Image saved at: annie_extracted_data/1706.03762v7/Figure\page_15instance0.jpg]
+
